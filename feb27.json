@@ -1,36 +1,36 @@
 {
     "summary": {
-        "sosovalue": "Over the past day, SoSoValue has been prominently featured in community discussions and promotions, with users sharing referral links for earning EXP points toward a potential $SOSO airdrop, highlighting its comprehensive crypto research tools including K-line charts, news, reports, team info, and tokenomics all in one place. Multiple posts reference SoSoValue data on ETF inflows, such as spot BTC ETFs recording three consecutive days of positive flows ($254M net), ETH ETFs at $6.57M, and various altcoin ETFs like XRP, SOL, HBAR showing strong weekly performance without outflows. Japanese community account @SosovalueJP responded to user queries on EXP airdrop mechanics, confirming post-120% achievement users can unstake MAG7 after a 14-day cooldown. No major official announcements from excluded main accounts, but ecosystem activity emphasizes daily tasks and analytics utility amid market rotations.",
-        "sodex": "SoDEX, the high-performance order-book DEX on ValueChain L1 by SoSoValue, announced and completed a mainnet upgrade on Feb 27 (08:00-09:00 UTC) to improve performance, pausing services briefly with confirmation of restored deposits, withdrawals, and trading, assuring fund security. Key highlights include listing on CoinGecko for spot and futures with full verification, launch of 9 stock perpetuals (PLTR, CRCL, HOOD, COIN, AMD, INTC, MSTR, SNDK, MU up to 10x leverage) each with analyst theses and targets, and Week 3 tiered fee reductions maintaining zero maker fees for spot/perps to encourage volume. Community engagement shows users farming SoPoints for rewards, with top rankings and promotions tying into broader $SOSO incentives.",
-        "ssi": "SSI Index, likely referring to SoSoValue's crypto indexes like SSI MAG7 (noted at $13.42 with -0.60% change amid 650 downs vs 655 ups suggesting rebound potential), saw limited direct mentions but is contextualized in market updates from SoSoValue data shared across posts, tracking sectors like DeFAI (+9.89% to +19.18%), PerpDEX (+2.31%), and ETF candidates (-2.01%). No specific announcements from regional accounts or major posts on SSI updates, but integrated into daily crypto spotlights and analytics, with users referencing verified indexes at sosovalue.com/assets/cryptoindex/verified-index. Overall, activity focuses on broader SoSoValue ecosystem metrics rather than isolated SSI developments."
+        "sosovalue": "The community is buzzing about SoSoValue's reliable ETF inflow data, highlighting three consecutive days of strong spot BTC ETF inflows totaling around $254M and positive flows into ETH, XRP, SOL, and HBAR ETFs like Canary Capital's holding 1.3% of HBAR supply, with users frequently citing it as a key source for market rotation insights and no net outflows for XRP ETFs this week, signaling building demand amid crypto pullbacks.",
+        "sodex": "Excitement surrounds SoDEX's listings and new features, with the community celebrating its full verification and spot/futures listings on CoinGecko, the launch of stock perps for tokens like $PLTR, $CRCL, $HOOD up to 10x leverage integrated with analyst targets, ongoing zero maker fees in Week 3 growth mode offering up to 54% savings, and users sharing top rankings in SoPoints earning contests.",
+        "ssi": "Sparse mentions of SSI in crypto context, with community occasionally referencing ssiMAG7 index at $13.42 down 0.60% alongside DeFi and PerpDEX sector gains, but no major discussions or announcements, mostly overshadowed by ETF data and unrelated non-crypto SSI references."
     },
     "top_questions": {
         "sosovalue": [
-            "What are the current EXP requirements and airdrop timelines for SoSoValue's $SOSO token?",
-            "How accurate is SoSoValue's ETF inflow data compared to other analytics platforms?",
-            "What daily tasks on SoSoValue yield the highest EXP rewards for users?",
-            "Can users withdraw MAG7 after reaching 120% EXP on SoSoValue, and what is the cooldown period?",
-            "How does SoSoValue's all-in-one research page (K-line, news, tokenomics) compare to competitors like Messari or TokenTerminal?"
+            "What are the latest BTC ETF inflow figures from SoSoValue?",
+            "How much did XRP spot ETFs inflow this week per SoSoValue data?",
+            "Is SoSoValue tracking HBAR ETF holdings accurately?",
+            "What does SoSoValue say about SOL ETF performance?",
+            "Are there daily EXP claims available on SoSoValue?"
         ],
         "sodex": [
-            "What new features were added in SoDEX's Feb 27 mainnet upgrade?",
-            "Which stock perps launched on SoDEX and what are their leverage limits?",
-            "How do SoDEX's Week 3 fee tiers benefit high-volume traders?",
-            "What impact does CoinGecko listing have on SoDEX's spot and futures visibility?",
-            "How can users farm SoPoints on SoDEX for weekly 1M rewards?"
+            "When did SoDEX get listed on CoinGecko for spot and futures?",
+            "What stock perps are now live on SoDEX with 10x leverage?",
+            "How to earn SoPoints on SoDEX for weekly rewards?",
+            "What are Week 3 fee rates on SoDEX maker and taker?",
+            "Is SoDEX public launch on ValueChain confirmed?"
         ],
         "ssi": [
-            "What is the composition and performance of SoSoValue's SSI MAG7 index?",
-            "Which sectors are leading gains according to SSI Index data (e.g., DeFAI, PerpDEX)?",
-            "How does SSI track ETF candidates and what was their recent performance?",
-            "Are there verified SSI Indexes available for trading on SoSoValue?",
-            "What on-chain metrics does SSI use to predict market rebounds (e.g., ups vs downs ratio)?"
+            "What is the current ssiMAG7 index value and change?",
+            "How does SSI Index relate to SoSoValue analytics?",
+            "Are there any updates on SSI Index performance?",
+            "What sectors are impacting SSI Index today?",
+            "Is SSI Index showing rebound signals?"
         ]
     },
     "post_links": [
+        "https://x.com/sodex_official/status/2027337930789060674",
         "https://x.com/sodex_official/status/2027394396849893741",
-        "https://x.com/sodex_official/status/2027297277015109649",
-        "https://x.com/sodex_official/status/2027337930789060674"
+        "https://x.com/BSCNews/status/2027520118163423282"
     ],
-    "timestamp": "2026-02-28T00:00:00Z"
+    "timestamp": "2026-02-28 06:39:44.946073"
 }
