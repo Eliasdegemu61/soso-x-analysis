@@ -1,0 +1,434 @@
+{
+    "created_at": 1772908377,
+    "completed_at": 1772908387,
+    "id": "05981887-f22b-9ff2-a510-84a0fff2b6bd",
+    "max_output_tokens": null,
+    "model": "grok-4-1-fast-non-reasoning",
+    "object": "response",
+    "output": [
+        {
+            "call_id": "xs_call_59093516",
+            "input": "{\"query\":\"(\\\"SoSoValue\\\" OR \\\"Sodex\\\" OR \\\"SSI Index\\\") since:2026-03-07 until:2026-03-08 -from:sosovaluecrypto -from:SOSOVALUE -from:SODEXOFFICIAL -from:sosovalue_cn -from:sosovalueJP -from:sosovalueVN\",\"limit\":20,\"mode\":\"Latest\"}",
+            "name": "x_keyword_search",
+            "type": "custom_tool_call",
+            "id": "ctc_05981887-f22b-9ff2-a510-84a0fff2b6bd_xs_call_59093516",
+            "status": "completed"
+        },
+        {
+            "call_id": "xs_call_70452122",
+            "input": "{\"query\":\"SoSoValue OR Sodex OR SSI Index sentiment opinions community discussion\",\"limit\":20,\"from_date\":\"2026-03-07\",\"to_date\":\"2026-03-08\",\"min_score_threshold\":0.18}",
+            "name": "x_semantic_search",
+            "type": "custom_tool_call",
+            "id": "ctc_05981887-f22b-9ff2-a510-84a0fff2b6bd_xs_call_70452122",
+            "status": "completed"
+        },
+        {
+            "call_id": "xs_call_85518741",
+            "input": "{\"query\":\"\\\"SSI Index\\\" since:2026-03-07 until:2026-03-08 -from:sosovaluecrypto -from:SOSOVALUE -from:SODEXOFFICIAL -from:sosovalue_cn -from:sosovalueJP -from:sosovalueVN\",\"limit\":10,\"mode\":\"Latest\"}",
+            "name": "x_keyword_search",
+            "type": "custom_tool_call",
+            "id": "ctc_05981887-f22b-9ff2-a510-84a0fff2b6bd_xs_call_85518741",
+            "status": "completed"
+        },
+        {
+            "call_id": "xs_call_86336055",
+            "input": "{\"query\":\"\\\"SoSoValue\\\" since:2026-03-07 until:2026-03-08 -from:sosovaluecrypto -from:SOSOVALUE -from:SODEXOFFICIAL -from:sosovalue_cn -from:sosovalueJP -from:sosovalueVN\",\"limit\":10,\"mode\":\"Latest\"}",
+            "name": "x_keyword_search",
+            "type": "custom_tool_call",
+            "id": "ctc_05981887-f22b-9ff2-a510-84a0fff2b6bd_xs_call_86336055",
+            "status": "completed"
+        },
+        {
+            "call_id": "xs_call_08503447",
+            "input": "{\"query\":\"\\\"Sodex\\\" since:2026-03-07 until:2026-03-08 -from:sosovaluecrypto -from:SOSOVALUE -from:SODEXOFFICIAL -from:sosovalue_cn -from:sosovalueJP -from:sosovalueVN\",\"limit\":10,\"mode\":\"Latest\"}",
+            "name": "x_keyword_search",
+            "type": "custom_tool_call",
+            "id": "ctc_05981887-f22b-9ff2-a510-84a0fff2b6bd_xs_call_08503447",
+            "status": "completed"
+        },
+        {
+            "call_id": "xs_call_88490303",
+            "input": "{\"query\":\"(SoSoValue OR Sodex OR \\\"SSI Index\\\") since:2026-03-07 until:2026-03-08 -from:sosovaluecrypto -from:SOSOVALUE -from:SODEXOFFICIAL -from:sosovalue_cn -from:sosovalueJP -from:sosovalueVN filter:has_engagement\",\"limit\":10,\"mode\":\"Top\"}",
+            "name": "x_keyword_search",
+            "type": "custom_tool_call",
+            "id": "ctc_05981887-f22b-9ff2-a510-84a0fff2b6bd_xs_call_88490303",
+            "status": "completed"
+        },
+        {
+            "call_id": "xs_call_83360700",
+            "input": "{\"query\":\"(SoSoValue OR Sodex OR \\\"SSI Index\\\") since:2026-03-07 until:2026-03-08 -from:sosovaluecrypto -from:SOSOVALUE -from:SODEXOFFICIAL -from:sosovalue_cn -from:sosovalueJP -from:sosovalueVN min_faves:1\",\"limit\":10,\"mode\":\"Latest\"}",
+            "name": "x_keyword_search",
+            "type": "custom_tool_call",
+            "id": "ctc_05981887-f22b-9ff2-a510-84a0fff2b6bd_xs_call_83360700",
+            "status": "completed"
+        },
+        {
+            "call_id": "xs_call_03049332",
+            "input": "{\"query\":\"opinions on SoSoValue Sodex SSI Index crypto sentiment review\",\"limit\":10,\"from_date\":\"2026-03-07\",\"to_date\":\"2026-03-08\",\"min_score_threshold\":0.2}",
+            "name": "x_semantic_search",
+            "type": "custom_tool_call",
+            "id": "ctc_05981887-f22b-9ff2-a510-84a0fff2b6bd_xs_call_03049332",
+            "status": "completed"
+        },
+        {
+            "call_id": "xs_call_58893855",
+            "input": "{\"query\":\"SoSoValue (good OR best OR love OR great OR sucks OR bad OR scam OR fake) since:2026-03-07 until:2026-03-08 -from:sosovaluecrypto -from:SOSOVALUE -from:SODEXOFFICIAL -from:sosovalue_cn -from:sosovalueJP -from:sosovalueVN\",\"limit\":10,\"mode\":\"Latest\"}",
+            "name": "x_keyword_search",
+            "type": "custom_tool_call",
+            "id": "ctc_05981887-f22b-9ff2-a510-84a0fff2b6bd_xs_call_58893855",
+            "status": "completed"
+        },
+        {
+            "content": [
+                {
+                    "type": "output_text",
+                    "text": "{\"summary\": {\"sosovalue\": \"Low volume of community posts, mostly promotional, task-related, and data-sharing (e.g., ETF updates, SSI Index mentions). Predominantly positive spam-like endorsements ('best project', 'good product') with some skepticism on airdrop rewards and verification fairness. Neutral data citations (e.g., XRP ETF outflows). Overall mild positive sentiment amid farming hype.\", \"sodex\": \"Very low mentions, incidental usernames (@sodex_001, @sodex_official tags). No strong sentiment; some trading activity complaints (losses, fees) but tied to promotions/airdrops. Neutral to slightly negative due to frustrations.\", \"ssi\": \"Sparse mentions (SSI Index in daily updates, sector performance). Neutral, factual references to data points like declines in Layer1 index. No emotional sentiment.\"}, \"top_questions\": {\"sosovalue\": [\"Will Season 2 airdrop fairly reward high EXP grinders?\", \"Is human verification effective against sybils?\", \"How much EXP from reply/quote tasks?\", \"Snapshot timing for S2?\"], \"sodex\": [\"Impact of graduated fees on trading?\", \"Weekly SoPoints distribution details?\", \"Global live status confirmation?\"], \"ssi\": [\"Current SSI Layer1 performance?\", \"APY and TVL updates?\", \"Staking Epoch 4 rewards?\"]}, \"post_links\": [\"https://x.com/142BCT/status/2030276756645597376\", \"https://x.com/WizzyOnChain/status/2030347946743742936\", \"https://x.com/AriWalletPlus/status/2030158374726488405\", \"https://x.com/Muhass_3/status/2030350713302171938\", \"https://x.com/AliLawan253371/status/2030349635642957930\"]}",
+                    "logprobs": [],
+                    "annotations": [
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030349981337473337"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030168444159627544"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030116278061642187"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030302237755580808"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030327049034870876"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030258384549675497"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030304129210515816"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030350392521859389"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030276756645597376"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030338204365172918"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030113933982671324"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030343342651834839"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030252593864417548"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030301998843593085"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030348075567567179"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030343129727967726"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030330953860513906"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030341139945918812"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030333140154122515"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030137293424497069"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030095695684706469"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030177133717299216"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030207246555091186"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030202705235386467"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030346968405365135"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030195919031832786"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030349568609808851"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030330823103434926"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030346636828746181"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030345862069588240"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030347946743742936"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030345723858845928"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030341320108077154"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030147705821880665"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030331381021126983"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030350647808147954"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030345624575717820"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030211288752898447"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030332275968328171"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030350495567475093"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030073659944227050"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030200444425769207"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030347828254380059"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030331213907431740"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030253260032880660"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030346959396200669"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030348711587430685"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030301531506188420"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030158374726488405"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030329388001059115"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030348132999958581"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030350164293038540"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030329421329059980"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030093831715311989"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030274570154819865"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030346145277399385"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030336004574363782"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030342141554089997"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030298748031517143"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030346965360226757"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030348418250395652"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030243070835372100"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030332353327907274"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030329494548963610"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030231041185640507"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030271233061716147"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030346440875315547"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030350713302171938"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030349635642957930"
+                        },
+                        {
+                            "type": "url_citation",
+                            "url": "https://x.com/i/status/2030313080479994107"
+                        }
+                    ]
+                }
+            ],
+            "id": "msg_05981887-f22b-9ff2-a510-84a0fff2b6bd",
+            "role": "assistant",
+            "type": "message",
+            "status": "completed"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "temperature": 0.7,
+    "text": {
+        "format": {
+            "type": "text"
+        }
+    },
+    "tool_choice": "auto",
+    "tools": [
+        {
+            "type": "x_search"
+        }
+    ],
+    "top_p": 0.95,
+    "usage": {
+        "input_tokens": 29661,
+        "input_tokens_details": {
+            "cached_tokens": 10238
+        },
+        "output_tokens": 1367,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 31028,
+        "num_sources_used": 0,
+        "num_server_side_tools_used": 9,
+        "cost_in_usd_ticks": 500800000,
+        "server_side_tool_usage_details": {
+            "web_search_calls": 0,
+            "x_search_calls": 9,
+            "code_interpreter_calls": 0,
+            "file_search_calls": 0,
+            "mcp_calls": 0,
+            "document_search_calls": 0
+        }
+    },
+    "user": null,
+    "incomplete_details": null,
+    "status": "completed",
+    "store": true,
+    "metadata": {},
+    "background": false,
+    "service_tier": "default",
+    "truncation": "disabled",
+    "top_logprobs": 0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0,
+    "prompt_cache_key": null,
+    "max_tool_calls": null,
+    "safety_identifier": null,
+    "error": null,
+    "instructions": null
+}
