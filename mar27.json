@@ -1,0 +1,31 @@
+{
+    "summary": {
+        "sosovalue": "Predominantly positive community sentiment. Users frequently cite SoSoValue as a reliable source for crypto data, ETF flows, and market insights (e.g., DOT ETF, BTC ETF outflows). Many promotional posts highlight its AI-powered analytics, real-time data, and upcoming Season 2 airdrop (30M tokens). Replies to official posts are supportive ('Sosovalue on top', '\ud83d\udd25'). No significant negative mentions.",
+        "sodex": "Positive hype around SoDEX as a DEX with transparent SoPoints system, weekly airdrop distributions (150M $SOSO incentives), low competition, and features like referrals, vaults, and governance. Users praise anti-sybil measures, CEX-like speed on L1 ValueChain, and community-first approach (e.g., skipping KYC fees for rewards). Some minor critiques on liquidity and token unlocks, but overall excitement for farming.",
+        "ssi": "Limited direct discussion on 'SSI Index'. Isolated mentions of sector indices like ssiSocialFi, ssiAI, ssiMeme declining amid market correction, treated neutrally as data points. No strong sentiment; appears referenced in SoSoValue context without praise or criticism."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How to complete SoSoValue Season 2 tasks for 100% eligibility?",
+            "What is the expected snapshot date for SoSoValue airdrop?",
+            "Real-User Probability verification steps on SoSoValue?"
+        ],
+        "sodex": [
+            "How does SoDEX SoPoints allocation work weekly?",
+            "Best strategies to maximize SoDEX referrals and volume for points?",
+            "Is SoDEX liquidity improving, and token unlock impact?"
+        ],
+        "ssi": [
+            "What are current values/trends for ssiSocialFi, ssiAI, ssiMeme?",
+            "How does SSI Index factor into SoSoValue analytics?"
+        ]
+    },
+    "post_links": [
+        "https://x.com/BSCNews/status/2037674528088924200",
+        "https://x.com/Netokrypto/status/2037408272706085146",
+        "https://x.com/vickydiamond21/status/2037536434819633195",
+        "https://x.com/jpremewwcoin/status/2037475954293907706",
+        "https://x.com/0xzxcom/status/2037357198825648474"
+    ],
+    "timestamp": "2026-03-28 15:14:03"
+}
