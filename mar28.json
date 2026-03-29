@@ -1,0 +1,35 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment towards SoSoValue is predominantly positive, with users praising its AI-driven crypto data insights, upcoming AMA on March 31, Season 2 expectations, and ecosystem rewards like the 150M SOSO fund. Minor frustrations exist around Discord verification and reward figures, but overall excitement for airdrops, trading on SoDEX, and SSI integration prevails amid neutral market data shares.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">0</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">1</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">6</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">7</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">13</argument></grok:render>",
+        "sodex": "Positive buzz around SoDEX trading stability, airdrop potential (150M SOSO rewards, $0.75-1 per point estimates), mainnet referrals for boosts, and its role in the ValueChain ecosystem. Users highlight delta-neutral strategies and listings, though low liquidity noted as a drawback.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">1</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">3</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">10</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">13</argument></grok:render>",
+        "ssi": "Limited direct mentions, but positive context within ecosystem questions for AMA, on-chain spot index tokens like MAG7.ssi for passive investing, and future asset classes. Community curiosity high, no negative sentiment observed.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">2</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">21</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">29</argument></grok:render>"
+    },
+    "top_questions": {
+        "sosovalue": [
+            "What\u2019s the one thing you most want to ask about SoSoValue? (Repeated community prompt for AMA)",
+            "When is Season 2 airdrop?",
+            "How will the ecosystem evolve with AI research, trading, and allocations?"
+        ],
+        "sodex": [
+            "When will SoDEX airdrop be distributed?",
+            "Details on 150M SOSO rewards and points value?",
+            "Plans for new listings, liquidity improvements, and cross-chain features?"
+        ],
+        "ssi": [
+            "What new asset classes or indexes (e.g., RWAs, sector-specific) for SSI?",
+            "How SSI integrates with SoDEX for passive diversification?",
+            "Roadmap for SSI in the closed-loop ecosystem over 12-18 months?"
+        ]
+    },
+    "post_links": [
+        "https://x.com/drsrenterprises/status/2038043221918724409",
+        "https://x.com/dokuhaku_sakana/status/2038043094726418515",
+        "https://x.com/Absoluto92/status/2037801530791723412",
+        "https://x.com/henvaibta/status/2038042588239089673",
+        "https://x.com/clover_har8705/status/2038041895914393660",
+        "https://x.com/SoSoValueCrypto/status/2037842999208759804",
+        "https://x.com/jpremewwcoin/status/2037895626000576650",
+        "https://x.com/IRZARAG/status/2037854822389403932"
+    ],
+    "timestamp": "2026-03-29 05:59:27"
+}
