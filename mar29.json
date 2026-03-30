@@ -1,35 +1,25 @@
 {
     "summary": {
-        "sosovalue": "Low volume of genuine community discussion excluding official accounts; neutral to mildly positive sentiment from sporadic mentions highlighting staking rewards (e.g., TVL ~$93M, APY up to 20.87%, airdrops), ecosystem utility (AI-driven insights, index funds), and project solidity, with some promotional activity.",
-        "sodex": "Positive engagement around platform activity, including Week 8 snapshot, volume creation, referrals for boosts, and tier progression (e.g., Silver to Gold); users expressing intent to participate and stay involved.",
-        "ssi": "Minimal relevant crypto-related discussion; unrelated mentions (e.g., anime fandom drama, non-crypto SSI) dominate; neutral overall for SSI Index in crypto context."
+        "sosovalue": "Low volume community activity dominated by promotional referral spam and farming posts for airdrop/EXP rewards. Posts share SoSoValue research links on crypto topics like BNB, Chainlink, and praise integration with Bybit's TradeGPT. No negative sentiment observed; appears positive but inorganic.",
+        "sodex": "Virtually no relevant mentions. Isolated unrelated user handles and non-crypto contexts.",
+        "ssi": "Minimal activity; one promo post mentioning 'SSI Index tokens' for staking $SOSO rewards in Epoch 2. SSI likely refers to SoSoValue's index products (e.g., MAG7.ssi, DEFI.ssi) used in reward farming screenshots. Neutral to positive in context."
     },
     "top_questions": {
         "sosovalue": [
-            "Is SSI Staking Epoch 4 rewarding? TVL and APY details?",
-            "How to participate in Season 2 airdrop and avoid bots?",
-            "What's the current $SOSO price and bullish signals?"
+            "Is SoSoValue's airdrop Season 2 still active?",
+            "How effective is SoSoValue integration with Bybit TradeGPT?",
+            "What are the best SSI tokens to stake for $SOSO rewards?"
         ],
-        "sodex": [
-            "How much volume did you create for Week 8 snapshot?",
-            "What's the best referral strategy for boosts?",
-            "How to reach Gold Tier and maximize rewards?"
-        ],
+        "sodex": [],
         "ssi": [
-            "Is SSI Index gaining traction amid low mentions?",
-            "Relation to SoSoValue ecosystem?",
-            "Performance of SSI tokens like ssiCeFi?"
+            "What is the SSI Index in SoSoValue?",
+            "How to stake SSI tokens for Epoch 2 rewards?"
         ]
     },
-    "post_links": [
-        "https://x.com/ikenna71729/status/2038405428220973159",
-        "https://x.com/SIndexes49021/status/2038404948128354411",
-        "https://x.com/nottinghster/status/2038403070132998162",
-        "https://x.com/Netokrypto/status/2038335642875072966",
-        "https://x.com/CGS_Tribe/status/2038246232200450399",
-        "https://x.com/Web3_BiqTy/status/2038397768243273774",
-        "https://x.com/elonunmk/status/2038245178754859412",
-        "https://x.com/hasanbd0959/status/2038216702190875054"
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/official_jioke/status/1906097730352472243 (post:20, SoSoValue mention, 22 views)",
+        "https://x.com/fMXGKpEGN991699/status/1906111339103416821 (post:23, SoSoValue Chainlink analysis share)",
+        "https://x.com/msdatu79/status/1906101901932061035 (post:26, SoSoValue BNB research share, 85 views)"
     ],
-    "timestamp": "2026-03-30 06:26:19"
+    "timestamp": "2026-03-30 06:37:25"
 }
