@@ -1,27 +1,32 @@
 {
     "summary": {
-        "sosovalue": "Overwhelmingly positive community sentiment towards SoSoValue. Users praise its utility in filtering market noise, strong ecosystem with SoDEX, insightful AMAs, reliable data (e.g., ETF inflows), community recognition, and milestones celebrated with high-profile panels. Staking highlights like $93M TVL, 21% APY, 486K holders seen as attractive.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">0</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">2</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">30</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">37</argument></grok:render>",
-        "sodex": "Highly positive buzz around SoDEX. Praised for fast execution, low fees, CEX-like experience, referral rebates with 100% bonus, trading efficiency, and upcoming mainnet rewards (1M SoPoints weekly). Users encourage participation before Season 1 ends.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">42</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">50</argument></grok:render>",
-        "ssi": "Limited direct mentions, but positive context in SoSoValue staking (SSI Epoch 4 strong) and suggestions for SSI index tokens. No negative sentiment observed.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">3</argument></grok:render>"
+        "sosovalue": "Positive community sentiment around SoSoValue, praised for filtering market noise, reliable data source for ETF flows, insightful AMAs with strong engagement, and ecosystem value beyond airdrops. Users highlight its utility in clear market insights and integration with SoDEX.",
+        "sodex": "Highly positive buzz on SoDEX with excitement over referral rebates (100% loyalty bonus), SoPoints Week 8 credits, new perps listings like $BASED, testnet airdrop appeals, and consistent rewards. Community views it as trustworthy and rewarding.",
+        "ssi": "Limited direct mentions; referenced in staking updates (Epoch 4 TVL ~$93M, APY 21%) and ecosystem discussions. Neutral to positive in context of SoSoValue ecosystem."
     },
     "top_questions": {
         "sosovalue": [
-            "When will next AMA or updates on ecosystem be? (inferred from excitement around recent event)",
-            "How to get involved in ValueChain?"
+            "How does SoSoValue filter market noise effectively?",
+            "What were key takeaways from the SoSoValue AMA?",
+            "Upcoming SSI staking rewards and Epoch 5 details?"
         ],
         "sodex": [
-            "When does Sodex point system end?",
-            "How to claim referral rebates?"
+            "When is the SoDEX testnet airdrop appeal form releasing?",
+            "How to maximize SoPoints in Week 9 and beyond?",
+            "Details on referral rebate claiming and ongoing snapshots?"
         ],
         "ssi": [
-            "What are new features for SSI index tokens or tools?",
-            "Who's topping up SSI staking?"
+            "SSI Staking Epoch 4 performance and APY trends?",
+            "Role of SSI in ValueChain ecosystem?",
+            "Any new SSI Index updates post-AMA?"
         ]
     },
     "Top post_links on that date with the highest engagement, atleast 3 posts": [
-        "https://x.com/News_Arena_/status/2039004217789001757 (132 likes, SoSoValue AMA recap, airdrop appeal)",
-        "https://x.com/Sadiqtech_/status/2038863711637516623 (184 likes, SoDEX trading praise)",
-        "https://x.com/ttp77funny/status/2038772481369247988 (27 likes, deep value analysis of SoSoValue & SoDEX)"
+        "https://x.com/News_Arena_/status/2039004217789001757 (137 likes: SoSoValue AMA recap, airdrop appeal)",
+        "https://x.com/sodex_official/status/2038847344880574487 (241 likes: $BASED perps live on SoDEX)",
+        "https://x.com/sodex_official/status/2038950687640531053 (224 likes: SoPoints Week 8 credited)",
+        "https://x.com/sodex_official/status/2039010166268699131 (95 likes: Referral rebate claim live with bonus)",
+        "https://x.com/ttp77funny/status/2038772481369247988 (27 likes: Deep dive on SoSoValue/SoDEX ecosystem value)"
     ],
-    "timestamp": "2026-03-31 20:57:27"
+    "timestamp": "2026-03-31 21:12:12"
 }
