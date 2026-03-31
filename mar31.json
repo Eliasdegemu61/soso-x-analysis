@@ -1,0 +1,27 @@
+{
+    "summary": {
+        "sosovalue": "Overwhelmingly positive community sentiment towards SoSoValue. Users praise its utility in filtering market noise, strong ecosystem with SoDEX, insightful AMAs, reliable data (e.g., ETF inflows), community recognition, and milestones celebrated with high-profile panels. Staking highlights like $93M TVL, 21% APY, 486K holders seen as attractive.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">0</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">2</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">30</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">37</argument></grok:render>",
+        "sodex": "Highly positive buzz around SoDEX. Praised for fast execution, low fees, CEX-like experience, referral rebates with 100% bonus, trading efficiency, and upcoming mainnet rewards (1M SoPoints weekly). Users encourage participation before Season 1 ends.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">42</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">50</argument></grok:render>",
+        "ssi": "Limited direct mentions, but positive context in SoSoValue staking (SSI Epoch 4 strong) and suggestions for SSI index tokens. No negative sentiment observed.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">3</argument></grok:render>"
+    },
+    "top_questions": {
+        "sosovalue": [
+            "When will next AMA or updates on ecosystem be? (inferred from excitement around recent event)",
+            "How to get involved in ValueChain?"
+        ],
+        "sodex": [
+            "When does Sodex point system end?",
+            "How to claim referral rebates?"
+        ],
+        "ssi": [
+            "What are new features for SSI index tokens or tools?",
+            "Who's topping up SSI staking?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/News_Arena_/status/2039004217789001757 (132 likes, SoSoValue AMA recap, airdrop appeal)",
+        "https://x.com/Sadiqtech_/status/2038863711637516623 (184 likes, SoDEX trading praise)",
+        "https://x.com/ttp77funny/status/2038772481369247988 (27 likes, deep value analysis of SoSoValue & SoDEX)"
+    ],
+    "timestamp": "2026-03-31 20:57:27"
+}
