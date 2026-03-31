@@ -1,0 +1,31 @@
+{
+    "summary": {
+        "sosovalue": "Highly positive community sentiment around SoSoValue, driven by excitement for the March 31 Community Call (AMA) featuring co-founders discussing SoSoValue, SoDEX, SSI, and ecosystem updates. Users are bullish on $SOSO, sharing progress on XP levels, trading volumes, and anticipating snapshots/airdrop rewards. Data sharing (e.g., ETF flows, whale activity) highlights utility, with promotional referrals common.",
+        "sodex": "Strong enthusiasm for SoDEX as a perp DEX with points-based rewards (1M SoPoints weekly, converting to $SOSO). Community promotes trading volumes for airdrops, with users targeting high points (e.g., 20K) and estimating $0.5+ per point from 150M token pool. Referral boosts (5%) widespread, viewed as high-potential opportunity.",
+        "ssi": "Positive mentions of SSI (likely Spot Index Investing/Staking), noting strong metrics like $94M TVL, 20.7% APY, 486K holders in Epoch 4. Integrated into broader ecosystem hype, with users staking $SOSO and praising diversified index investing tools."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "When is the snapshot for $SOSO airdrop?",
+            "How to level up faster on SoSoValue for better rewards?",
+            "What updates on ValueChain ecosystem?"
+        ],
+        "sodex": [
+            "What is the exact conversion rate for SoPoints to $SOSO?",
+            "Best strategies for max trading volume on SoDEX?",
+            "Timeline for Season 1 end and token distribution?"
+        ],
+        "ssi": [
+            "Is SSI Staking Epoch 4 still open?",
+            "What are current APY and TVL for SSI?",
+            "How does SSI differ from direct $SOSO staking?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/mr_cbillionaire/status/2038539974161621408 (216 likes: $SOSO ecosystem AMA hype)",
+        "https://x.com/Victorerick001/status/2038471630188400796 (106 likes: SoDEX promo & AMA reminder)",
+        "https://x.com/lew53399/status/2038573231603429646 (4 likes: Trading progress & top percentile brag)",
+        "https://x.com/CryptoChartSage/status/2038588551152234818 (1 like but data-focused: ETH ETF outflows via SoSoValue)"
+    ],
+    "timestamp": "2026-03-31 05:11:11"
+}
