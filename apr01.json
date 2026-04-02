@@ -1,0 +1,27 @@
+{
+    "summary": {
+        "sosovalue": "Low volume community mentions, mostly neutral promotional shares of SoSoValue data/alerts (e.g., fear index at 8, ETF inflows). Sparse positive promo for airdrop/earning, no strong bearish sentiment.",
+        "sodex": "Mixed but leaning positive: praise for user-first corrections ('rare behavior'), excitement for volume-to-SoPoint rewards ('amazing'), neutral airdrop appeals update. Low engagement overall.",
+        "ssi": "No relevant crypto SSI Index mentions; unrelated non-crypto posts dominate. Neutral/zero sentiment on SSI Index."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "What is the current SoSoValue fear/greed index reading?",
+            "When is the S2 airdrop snapshot?",
+            "How to earn EXP on SoSoValue in final month?"
+        ],
+        "sodex": [
+            "What is the SoDEX testnet airdrop appeal process?",
+            "How does SoDEX convert trade volume to SoPoints?",
+            "Is SoDEX prioritizing real users over past errors?"
+        ],
+        "ssi": []
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/phamduydong179/status/2039368485428777186 (8 likes, SoSoValue mention in earning promo)",
+        "https://x.com/BSCN/status/2039244875200180369 (34 likes, SoSoValue BTC ETF data)",
+        "https://x.com/1GUN1COIN1TOKEN/status/2039236117644406986 (45 likes, SoDEX guide/referral)",
+        "https://x.com/AT_x_AT/status/2039385308417204319 (2 likes, S-1 short sentiment possibly Sodex/SSI)"
+    ],
+    "timestamp": "2026-04-02 06:58:51"
+}
