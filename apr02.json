@@ -1,0 +1,30 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment towards SoSoValue is mixed but leans neutral-positive. Users engage with platform updates, airdrop farming (S2 snapshot urgency, human verification), and data sharing (ETFs, market flashes). Some frustration with Sybil detection and progress (e.g., 'ranting', '\u0111u\u1ed1i' meaning tiring), but promotional activity and excitement for rewards/APY persist.",
+        "sodex": "Strongly positive sentiment for Sodex. Praise for handling delays with 100% loyalty rewards (double rebates), transparency, and API launch. Users highlight it as 'the standard Web3 needs', building trust through actions. High engagement on referral claims and contests.",
+        "ssi": "Limited direct mentions of SSI Index; neutral to positive where referenced. Noted in data shares (e.g., MAG7.SSI, staking Epoch 4 with $94M TVL, 20.7% APY, 487K holders), promotions for deposits into vaults, and as 'S&P 500 of crypto'. No strong negative sentiment."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How to reach 100% real-user probability before S2 snapshot?",
+            "What's the latest on SoSoValue Season 2 airdrop eligibility and Sybil detection?",
+            "Any updates on SoSoValue AI terminal and roadmap from AMA?"
+        ],
+        "sodex": [
+            "What does the SoDEX API offer for bot builders and AI agents?",
+            "How to claim double referral rebates and join the screenshot contest?",
+            "Details on SoDEX testnet airdrop appeals process?"
+        ],
+        "ssi": [
+            "SSI Staking Epoch 4 rewards and TVL updates?",
+            "How to deposit sMAG7.SSI into SoDEX vaults for bonuses?",
+            "What are SSI indices like MAG7.SSI and their performance?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/henry_crypto4/status/2039605854471639328 (73 likes: Positive on Sodex rebates)",
+        "https://x.com/CayairdropX/status/2039854264693162381 (19 likes: Sodex API benefits)",
+        "https://x.com/CoinCracker_ph/status/2039851701520490830 (Airdrop ranting on SoSoValue S2 Sybil)"
+    ],
+    "timestamp": "2026-04-03 05:51:55"
+}
