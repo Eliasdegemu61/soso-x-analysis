@@ -1,0 +1,32 @@
+{
+    "summary": {
+        "sosovalue": "Predominantly positive sentiment around Season 2 airdrop expectations, $SOSO token clarifications from co-founder debunking rumors, ongoing EXP rewards, and platform engagement. Community excitement for consistent rewards via research, staking, and tasks; minor concerns on eligibility addressed positively. High engagement on promotional/informational posts.",
+        "sodex": "Neutral to positive. Mentions of API closed alpha, trading promotions, and mainnet maintenance resolved smoothly. Limited independent discussion, mostly promotional or quoting official updates.",
+        "ssi": "Positive on staking metrics (TVL ~$94M, APY ~20.7%, 487K holders). Users discussing rewards and adding positions; viewed as attractive DeFi opportunity."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "Is SoSoValue doing more airdrops in Season 2?",
+            "Do you need 100% real-user probability for Season 2 eligibility?",
+            "When is the Season 2 EXP snapshot?",
+            "How to boost real-user verification?"
+        ],
+        "sodex": [
+            "What are the API key eligibility conditions?",
+            "How to create API key on SoDEX?",
+            "Impact of mainnet maintenance?"
+        ],
+        "ssi": [
+            "How is SSI Staking Epoch 4 performing?",
+            "What's the current APY and TVL for SSI?",
+            "How to add to SSI positions?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/Sadiqtech_/status/2040059998785454575 (272 likes: Season 2 airdrop details)",
+        "https://x.com/mr_cbillionaire/status/2039958588009947169 (376 likes: $SOSO eligibility debunk)",
+        "https://x.com/So_Points/status/2040117876552536185 (66 likes: Why $SOSO surging article)",
+        "https://x.com/PhanDat0612/status/2039991052766203971 (39 likes: SoDEX API overview)"
+    ],
+    "timestamp": "2026-04-04 07:06:09"
+}
