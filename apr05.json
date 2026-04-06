@@ -1,0 +1,30 @@
+{
+    "summary": {
+        "sosovalue": "Overwhelmingly positive sentiment around SoSoValue. Community highlights its utility for crypto research, low-cap trading alerts, dashboards, and portfolio tools. High excitement for upcoming airdrop/snapshot in April, with users sharing EXP points (e.g., 10M-50M), expecting $1K+ rewards, and promoting daily tasks. Japanese and Vietnamese posts emphasize registration and features. Some promotional spam, but core engagement is bullish on $SOSO and platform growth.",
+        "sodex": "Positive buzz on Sodex (SoDEX), linked to SoSoValue ecosystem. Users celebrate growth stats (154K+ users, $2.82B volume, $61M TVL), mainnet activity, API alpha release, and airdrop farming via trading/verification. Some concerns on verification process and node errors, but overall bullish on rewards and DeFi utility.",
+        "ssi": "Minimal direct mentions of 'SSI Index'. Sentiment neutral/unknown due to lack of data; possibly overshadowed by SoSoValue discussions or no significant posts."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "When is the SoSoValue airdrop snapshot?",
+            "How to maximize EXP points for $SOSO rewards?",
+            "What are the best filters/alerts for low-cap pumps?",
+            "Is Season 2 focusing on real users over bots?"
+        ],
+        "sodex": [
+            "How to achieve RUP verification (30/60/100%) on Sodex?",
+            "What are current TVL/volume stats and growth?",
+            "Details on Sodex API closed alpha access?",
+            "Node connection errors when withdrawing?"
+        ],
+        "ssi": []
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/RizoWeb3/status/2040804033162838083 (85 likes: SoSoValue airdrop expectation $1K)",
+        "https://x.com/victor001/status/2040760305588785161 (23 likes: Sodex growth stats)",
+        "https://x.com/neko_smg/status/2040641002239877181 (49 likes: Weekly summary incl. SoSoValue tasks)",
+        "https://x.com/PhanDat0612/status/2040704306341679540 (47 likes: Trading tips with SoSoValue/Coinglass)",
+        "https://x.com/ngg_japan/status/2040657936188342637 (4 likes: SoSoValue promo in Japanese)"
+    ],
+    "timestamp": "2026-04-06 05:46:35"
+}
