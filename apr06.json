@@ -1,0 +1,36 @@
+{
+    "summary": {
+        "sosovalue": "Low volume community mentions, predominantly neutral to positive. Users engage by quoting SoSoValue's macro analysis posts, sharing promotional content about $SOSO airdrops (Season 2), and highlighting platform features like market data and ecosystem (SSI, SoDEX). One post debunks false airdrop verification news. Overall sentiment: Mildly positive with anticipation for rewards.",
+        "sodex": "Positive promotion as SoDEX, a perp DEX by SoSoValue with ongoing mainnet campaign allocating 150M $SOSO tokens for airdrop. Users encourage trading for points and future rewards, noting low entry ($10 USDC) and 6-month S1 duration. Sentiment: Bullish on airdrop potential.",
+        "ssi": "Very limited mentions. One post notes SSI Staking Epoch 4 with strong TVL (~$95.8M), APY ~20.34%, and 488K+ holders, plus MAG7.ssi performance. Neutral to positive on staking rewards."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How many EXP did you get for $SOSO Season 2 airdrop?",
+            "Is the 100% verification guarantee for airdrop rewards true?",
+            "What are the latest macro insights from SoSoValue Flash?",
+            "When is $SOSO Season 2 airdrop?",
+            "How to join SoDEX whitelist on SoSoValue ecosystem?"
+        ],
+        "sodex": [
+            "What's the ROI potential for SoDEX airdrop farming?",
+            "How to get 5% boost points on SoDEX?",
+            "What assets to watch on SoDEX like $USTECH-100, $XAUT, $BTC?",
+            "Is 150M $SOSO allocation for SoDEX campaign confirmed?",
+            "How to start trading on SoDEX mainnet with low capital?"
+        ],
+        "ssi": [
+            "What's the current TVL and APY for SSI Staking Epoch 4?",
+            "Who are the top holders in SSI with 488K+ participants?",
+            "How is MAG7.ssi performing today?",
+            "What rewards are available for SSI staking?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/richie_bitcoin/status/2041194003576566088 (48 likes, promoting SoDEX airdrop)",
+        "https://x.com/SoSoValueCrypto/status/2041079419989803008 (6736 likes, but official; community quotes it heavily)",
+        "https://x.com/CGS_Tribe/status/2041199176080310778 (SSI staking update)",
+        "https://x.com/Absoluto92/status/2041216377550229985 (SoDEX perp dex airdrop details)"
+    ],
+    "timestamp": "2026-04-07 03:19:24"
+}
