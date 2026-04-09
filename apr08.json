@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "sosovalue": "Overwhelmingly positive community sentiment towards SoSoValue. Users praise its data reliability (e.g., ETF flows cited by influencers like Wu Blockchain), ecosystem strength for research/trading, community rewards, and upcoming buildathon with $10K prize pool. Excitement around AI agents, ValueChain, and long-term user loyalty. Many replies/shares show engagement and hype.",
+        "sodex": "Strong positive sentiment for SoDEX, part of SoSoValue ecosystem. Traders share points farming progress (e.g., weekly recaps with profits), API alpha release, whitelist hype, and Turkish/Brazilian community guides urging verification for airdrops. Viewed as high-potential perp DEX with real utility.",
+        "ssi": "Limited direct mentions; neutral to factual. Appears in data shares (e.g., MAG7.SSI, SSI Index drops) via SoSoValue links, no strong emotional sentiment but tied to positive platform usage."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "What is the SoSoValue buildathon prize pool and details?",
+            "How has SoSoValue's community rewards system performed?",
+            "Why is SoSoValue data frequently cited by influencers like Wu Blockchain?"
+        ],
+        "sodex": [
+            "How to verify wallet for SoDEX/EXP airdrop snapshot?",
+            "What points are users earning weekly on SoDEX and strategies?",
+            "Details on SoDEX API closed alpha access?"
+        ],
+        "ssi": [
+            "What recent changes in SSI Index like MAG7.SSI?",
+            "How to track SSI via SoSoValue platform?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/SoSoValueCrypto/status/2041865292599718051 (6693 likes - Buildathon announcement)",
+        "https://x.com/News_Arena_/status/2041819689383280805 (273 likes - Praise for SoSoValue team/community)",
+        "https://x.com/sodex_official/status/2041899581232050525 (123 likes - SoDEX API live)"
+    ],
+    "timestamp": "2026-04-09 06:43:00"
+}
