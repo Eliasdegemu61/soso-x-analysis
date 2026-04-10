@@ -1,0 +1,29 @@
+{
+    "summary": {
+        "sosovalue": "Predominantly positive community sentiment with high engagement on market analysis posts (e.g., SoSoValue Flash on geopolitics and tech rotation garnering 11k+ likes). Used as a reliable data source for ETF flows and Fear & Greed Index. Referral promotions and trader discussions highlight utility in low-cap trading and alerts. Minimal negativity observed.",
+        "sodex": "Strongly positive, driven by farming enthusiasm on SoDEX perp DEX. Users report massive volume (8-fig), profits (5-fig nearing), and SoPoints accumulation for S1 airdrop. Community praises low competition, high rewards (100M $SOSO allocation), and active Brazil Discord. Hype around trading/staking.",
+        "ssi": "Limited direct mentions; neutral to positive as part of SoSoValue ecosystem (bundled investments for risk reduction). No strong sentiment, but integrated into promotional threads positively."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How accurate is SoSoValue data for ETF outflows and market sentiment indicators?",
+            "What new alert features could SoSoValue add to differentiate from Binance?",
+            "Will SoSoValue Flash predictions on macro shifts like tech rotation hold?"
+        ],
+        "sodex": [
+            "Is top 20 on SoDEX leaderboard realistic starting with $100?",
+            "How much $SOSO allocation for SoDEX farmers in S1?",
+            "Best strategies for volume farming and referrals on SoDEX?"
+        ],
+        "ssi": [
+            "How does SSI bundle reduce risk in shitcoin trading?",
+            "Any upcoming improvements to SSI Index on SoSoValue?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/SoSoValueCrypto/status/2042103441003311275 (11k likes, SoSoValue Flash geopolitics/tech rotation)",
+        "https://x.com/BSCNews/status/2042123342149513453 (21 likes, Bitcoin ETF outflows data from SoSoValue)",
+        "https://x.com/Lutz_S120/status/2042245372198735920 (20 likes, SoDEX top 20 trading success)"
+    ],
+    "timestamp": "2026-04-10 06:40:52"
+}
