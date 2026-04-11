@@ -1,0 +1,31 @@
+{
+    "summary": {
+        "sosovalue": "Low volume community mentions, mostly promotional shares of official content, airdrop claims, and positive highlights like SSI staking (TVL $95.9M, APY 20.76%, 488K holders). Neutral to mildly positive sentiment with enthusiasm for rewards and ecosystem.",
+        "sodex": "Watching closely for trading opportunities amid macro headwinds; vault updates and volume pushing for snapshots noted positively. Sentiment neutral-positive, focused on utility and positioning.",
+        "ssi": "Strong staking metrics praised (high TVL, APY, holders); educational threads on SSI indexes as on-chain ETFs. Positive sentiment around passive investing and diversification."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "Who's topping up SSI staking?",
+            "How many EXP points accumulated for airdrop?",
+            "Thoughts on Season 2 mining ending?"
+        ],
+        "sodex": [
+            "What's your trading volume stats on SoDEX?",
+            "What feature next for Vault?",
+            "Claimed double referral rebate?"
+        ],
+        "ssi": [
+            "What are SSI indexes exactly?",
+            "Worth staking for 20%+ APY?",
+            "How does SSI compare to TradFi ETFs?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/sleektru/status/2042484065887027522 (388 likes: SoSoValue Snapshot Update)",
+        "https://x.com/AirdropAlchemis/status/2042485986094202950 (34 likes: Claimed $SOSO from SoSoValue)",
+        "https://x.com/StarcityDirect/status/2042535017088192712 (6 likes: Watching SoDEX amid macro analysis)",
+        "https://x.com/Absoluto92/status/2042496308263460907 (13 likes: SoDEX snapshot volume push)"
+    ],
+    "timestamp": "2026-04-11 11:24:38"
+}
