@@ -1,0 +1,31 @@
+{
+    "summary": {
+        "sosovalue": "Predominantly positive community sentiment around SoSoValue, driven by airdrop farming (S1 rewards, S2 anticipation), daily tasks, EXP bonuses, and platform utility for market data. Users praise rewards for real users, share referral links, and express excitement for ecosystem growth. Minor neutral promo posts.",
+        "sodex": "Positive buzz on SoDEX features like $SOSO deposits, API for AI trading, perp DEX points incentives (150M $SOSO allocation). Users highlight low volume as entry opportunity, seek trading help, report minor API issues resolved via Discord. Overall enthusiasm for integration with SoSoValue.",
+        "ssi": "Strong positive sentiment for SSI Staking (Epoch 4: TVL ~$98.5M, APY 20.76%, 488K+ holders). Users promote rewards, topping up, and index tokens like MAG7.ssi. Viewed as solid DeFi opportunity within ecosystem."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How rewarding will Season 2 airdrop be compared to S1?",
+            "Best strategies for maximizing EXP via daily/bonus tasks?",
+            "When is S2 snapshot and appeal process details?"
+        ],
+        "sodex": [
+            "How to apply for SoDEX API and integrate LLMs for trading?",
+            "Trading tips/issues on SoDEX perp DEX?",
+            "Best ways to stack SoPoints alongside other DEXs?"
+        ],
+        "ssi": [
+            "Worth topping up SSI Staking now with current APY/TVL?",
+            "Details on MAG7.ssi and other SSI index tokens?",
+            "How does SSI fit into broader SoSoValue ecosystem rewards?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/sleektru/status/2042850650912924072 (Bonus Task on SoSoValue, 114 likes, 86k views)",
+        "https://x.com/FreemanCoiner/status/2042845569433960872 (Why nobody talking about SoDEX Perp?, 6 likes but promotional depth)",
+        "https://x.com/CGS_Tribe/status/2042842009048605018 (SSI Staking Epoch 4 strong, community query)",
+        "https://x.com/CryptoCent01/status/2042922652872982840 (S1 rewards experience, 142 likes, 28k views)"
+    ],
+    "timestamp": "2026-04-12 05:03:13"
+}
