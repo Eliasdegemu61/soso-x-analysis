@@ -1,0 +1,30 @@
+{
+    "summary": {
+        "sosovalue": "Low volume of community mentions excluding official accounts, primarily promotional, referral farming for SoPoints/$SOSO airdrop, and neutral shares of SoSoValue insights. Sentiment neutral to mildly positive with enthusiasm around airdrops and platform utility.",
+        "sodex": "Focus on testnet bug bounties, trading features, and Season 2 airdrop farming on mainnet. Users highlight potential value (e.g., $0.75 per point), but note risks like token unlocks and price volatility. Sentiment cautiously optimistic.",
+        "ssi": "Very sparse mentions, likely referring to SSI Index (e.g., MAG7.SSI); one positive note on 3% 24hr gain. Overall neutral due to low activity."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How much $SOSO per SoPoint?",
+            "When is S2 airdrop?",
+            "Impact of upcoming token unlocks?"
+        ],
+        "sodex": [
+            "What pairs are available on testnet?",
+            "How to maximize SoPoints with referrals?",
+            "Risks if $SOSO price drops?"
+        ],
+        "ssi": [
+            "What is current MAG7.SSI performance?",
+            "How does SSI Index correlate with BTC?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/sodex_official/status/2043549836314804473",
+        "https://x.com/sodex_official/status/2043605555995177424",
+        "https://x.com/Absoluto92/status/2043647070834221090",
+        "https://x.com/Kriptoakd_tr/status/2043767822946308309"
+    ],
+    "timestamp": "2026-04-14 03:51:38"
+}
