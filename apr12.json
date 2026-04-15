@@ -1,28 +1,41 @@
 {
     "summary": {
-        "sosovalue": "Predominantly positive community sentiment around SoSoValue, driven by excitement for Season 2 airdrop (30M $SOSO tokens), leaderboard discussions, and promotion of SoDEX trading for better rewards. Some concerns about scripts/bot usage on leaderboard, but countered by emphasis on active trading and real contributions. Users express love for the project, share updates, and farm points enthusiastically.",
-        "sodex": "Positive buzz on SoDEX testnet launch and trading to farm XP/SoPoints for larger airdrop allocation (150M $SOSO). Community highlights prioritization of traders over EXP farmers, with users actively discussing strategies, referrals, and verification for bonuses. Viewed as higher potential reward opportunity compared to SoSoValue S2.",
-        "ssi": "Low to no relevant mentions tying 'SSI Index' to crypto context; incidental non-crypto uses (e.g., Korean honorific 'ssi', personal accounts like SSI disability). Sentiment neutral/irrelevant for crypto analysis."
+        "sosovalue": "Community sentiment around SoSoValue during April 12-13, 2026, appears predominantly positive yet mixed with anticipation and minor concerns, primarily driven by discussions on Season 2 EXP airdrop farming, bot screening processes, and high EXP thresholds observed in leaderboards (e.g., accounts over 100M EXP while others struggle at 10M). Key conversations revolve around app usage tutorials, trading volume achievements for airdrop eligibility (e.g., users completing 120% S2 progress with $100k volume), accidental vault withdrawals and their impact on claims, and promotional shares linking to SoSoValue watchlists or market insights like SSI Layer1 index drops. Metrics indicate low to moderate engagement overall, with most posts garnering 0-2 likes and under 300 views, though one tutorial post hit 39 likes and 2345 views, reflecting niche but active farming community interest amid upcoming snapshots; no widespread negativity, but frustration over EXP disparities and verification boosts (e.g., 120% verification) highlights competitive dynamics.",
+        "sodex": "Sentiment for Sodex is optimistic and instructional, focusing on mainnet trading boosts (5% SoPoints bonus), new features like Link Mobile Device to reduce cross-device friction, and API closed alpha for automated bots/AI trading, appealing to quants and developers requiring Silver tier, $10k account value, and $300k volume. Discussions emphasize SoPoints weekly 1M rewards, referral farming, and building on the platform (e.g., trading bots, dashboards), with users sharing guides in multiple languages and high-volume flexes; a standout post on mobile linking garnered 198 likes, 37 reposts, and 10k+ views, signaling growing utility adoption. Engagement metrics are higher here, peaking at 198 likes, but many posts remain low-volume (0-10 likes), indicating enthusiastic early adopters amid testnet appeal resolutions.",
+        "ssi": "Mentions of SSI (likely SSI Index or ssiLayer1) are sparse with neutral to slightly bearish tones, including a Japanese post noting a 3% 24-hour drop in ssiLayer1 index linked to SoSoValue data and unrelated crypto indices like MSSI (systemic stress at 64.3 high) and MSXI sentiment; no dedicated high-engagement discussions, primarily incidental in broader market fragility talks. Key points touch on volatility, stress indicators for BTC/ETH, but lack project-specific hype or questions. Metrics show minimal traction: 0 likes/views on the index drop post, 3 likes on MSSI explanations, underscoring low visibility and no significant community buzz during the period."
     },
     "top_questions": {
         "sosovalue": [
-            "When is Season 2 snapshot?",
-            "How to avoid script detection on leaderboard?",
-            "What is the $SOSO allocation based on?",
-            "S2 rewards: 30 $SOSO or more for traders?"
+            "What do you think about $SoSoValue season 2?",
+            "If I accidentally withdrew vaulted MAG7 tokens after 13 days, will it affect my Season-2 100% airdrop claim on 26/4/2026?",
+            "How much can users with 20M EXP expect from SoSoValue S2 airdrop with 120% verification?"
         ],
         "sodex": [
-            "How to join SoDEX whitelist and farm SoPoints?",
-            "Is verification required for bonus points?",
-            "Sodex points vs SoSoValue EXP for airdrop?",
-            "Any fake links/scams to watch for?"
+            "What is the follow-up to the appeal form for previous Sodex testnet users who did not receive rewards?",
+            "Still wondering what I can build on SoDEX beyond trading bots & dashboards (too dumb for smart contracts)?",
+            "Why is Sodex API considered a powerful tool for automated trading & AI on-chain?"
         ],
         "ssi": []
     },
-    "Top post_links on that date with the highest engagement, atleast 3 posts": [
-        "https://x.com/CryptoLakhan/status/2043288813171364346 (68 likes: Reality of SoSoValue & SoDex S2 Airdrop)",
-        "https://x.com/sleektru/status/2043385280694981087 (22 likes: Leaderboard infiltrated by scripts, prioritize SoDEX)",
-        "https://x.com/PhanDat0612/status/2043180241628315798 (8 likes: WLFI project critique with Vietnamese commentary tagging SoSoValue)"
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@TitiLayoomii",
+            "content": "I\u2019m seeing accounts with over 100M EXP on Soso, while some of us are still struggling to even hit 10M and above\ud83e\udd7a I think 100M is the highest I\u2019ve come across so far.",
+            "engagement": "Likes=64, Reposts=4, Quotes=0, Replies=43, Views=3110",
+            "post_link": "https://x.com/TitiLayoomii/status/2043248513929073045"
+        },
+        {
+            "username": "@ABBAS_IKU",
+            "content": "How to use SoSoValue App @SoSoValueCrypto: Sign up securely, explore market insights, track your favorite coins, and use analytics to guide smarter decisions. Monitor sentiment, set alerts, and stay updated with news. Don\u2019t rely on one tool alone\u2014pair insights with strategy \ud83d\udc47",
+            "engagement": "Likes=39, Reposts=11, Quotes=0, Replies=5, Views=2345",
+            "post_link": "https://x.com/ABBAS_IKU/status/2043270361626616037"
+        },
+        {
+            "username": "@sodex_official",
+            "content": "Many users found cross-device trading too repetitive \u2014 sign on desktop, switch to mobile, sign all over again. With Link Mobile Device, sign once on PC, link your phone, and keep trading on mobile with less friction. 60-second walkthrough \ud83d\udc47 \ud83c\udfa5 SoDEX 101 \u00b7 Link Mobile Device #SoDEX101 #SoDEX",
+            "engagement": "Likes=198, Reposts=37, Quotes=2, Replies=10, Views=10795",
+            "post_link": "https://x.com/sodex_official/status/2043605555995177424"
+        }
     ],
-    "timestamp": "2026-04-12 21:24:17"
+    "timestamp": "2026-04-15 20:04:50"
 }
