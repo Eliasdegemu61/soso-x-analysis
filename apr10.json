@@ -1,51 +1,41 @@
 {
     "summary": {
-        "sosovalue": "Low to moderate positive sentiment. Community engagement primarily promotional, focusing on airdrops (Season 2 EXP), staking rewards, and market analysis sharing. Users highlight SSI staking strength (TVL $95.9M, APY 20.76%, 488K holders) and ecosystem value (data platform, SSI indexes, SoDEX DEX). No negative mentions; excitement around rewards and utility.",
-        "sodex": "Neutral to positive, limited discussion. Mentions tied to SoSoValue ecosystem, including whitelist joins, snapshots (W10), and winners announcements for giveaways ($SOSO rewards). Viewed as integral to ValueChain with user protection emphasis.",
-        "ssi": "Positive sentiment around SSI Index/Staking. Highlighted for strong metrics (Epoch 4: high TVL, APY, holder count) and as strategic investment tool like ETFs. Users positioning for rewards and long-term growth."
+        "sosovalue": "Community sentiment around SoSoValue on April 10-11, 2026, is predominantly positive, driven by promotional posts about Season 2 EXP airdrop positioning and links to join via referral codes, alongside numerous quotes and replies to the official SoSoValue Flash post on geopolitical tensions, AI sector rotation, and trade setups highlighting SoDEX assets like $USTECH-100, $XAUT, and $BTC. Key discussions revolve around market analysis, airdrop farming strategies, and appreciation for SoSoValue's data-driven insights amid US-Iran talks and economic headwinds, with users sharing screenshots of completed tasks and expressing excitement for potential rewards. Metrics show high engagement on official content (e.g., one flash post with 16,426 likes, 3,985 reposts, 12,649 quotes, 13,027 replies, 145,173 views), while independent posts garner modest likes (3-69) and views (54-1,229), indicating strong official reach but limited organic buzz excluding excluded accounts.",
+        "sodex": "Sentiment for Sodex is bullish and action-oriented, centered on Week 10 snapshot approaching on April 11 at 00:00 UTC, with users reminding others to close positions, hedge cycles, and maximize trading volume for SoPoints rewards, alongside complaints about gas fees and tips to optimize P&L. Discussions highlight winners of a $SOSO giveaway, referral boosts (e.g., 5% activity boost with codes like CJXPOIWS), and integration with SoSoValue ecosystem for trading spot/perps on ValueChain, positioning Sodex as user-aligned with low fees and transparency. Engagement metrics are moderate: posts with 2-33 likes, 0-2 reposts, up to 1,229 views, reflecting active farming community motivation ahead of snapshot rather than broad hype.",
+        "ssi": "No significant mentions found for SSI Index specifically from non-excluded accounts during April 10-11, 2026; one tangential reference to SSI Staking Epoch 4 with TVL ~$95.9M, APY 20.76%, 488K+ holders, and $SOSO at $0.41 appears tied to broader SoSoValue context but lacks dedicated discussion or sentiment analysis."
     },
     "top_questions": {
         "sosovalue": [
-            "Is Season 2 EXP airdrop snapshot imminent?",
-            "How to maximize $SOSO staking boosts?",
-            "What's the latest on ValueChain ecosystem updates?"
+            "Are you positioned for the szn 2 EXP airdrop? (from @enocheth post)",
+            "How about you? Done yet with latest tasks before Season 2 snapshot? (from @0xchubedan)",
+            "What does real user protection mean to you in the web3 world? (contextual from related SoDEX but tied to SoSoValue quotes)"
         ],
         "sodex": [
-            "When is the next SoDEX snapshot (e.g., W10)?",
-            "How to claim referral rebates and loyalty rewards?",
-            "What does #TheSoDEXStandard mean for user protection?"
+            "Have you claimed your double referral rebate? (from related winner announcement)",
+            "What's your stats so far on volume/OI? (from @Absoluto92)",
+            "Who else is tired of fees eating their bag? (from @jpremewwcoin)"
         ],
-        "ssi": [
-            "Are SSI Epoch 4 rewards juicy enough to top up?",
-            "How does SSI compare to traditional ETFs?",
-            "What's the current TVL and APY for SSI staking?"
-        ]
+        "ssi": []
     },
-    "Top post_links on that date with the highest engagement, atleast 3 posts. include the actualy things written on that post. the poster usernam, content, engagement, post link": [
+    "Top posts poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
         {
             "username": "@enocheth",
             "content": ".@SoSoValueCrypto szn 2 EXP airdrop is coming like a thief in the night. are you positioned? join here: https://sosovalue.com/join/9Z1E95D6",
-            "engagement": "Likes=69, Reposts=1, Quotes=0, Replies=37, Bookmarks=1, Views=661",
-            "post_id": 2042615539982274942
+            "engagement": "Likes=69, Reposts=1, Replies=37, Views=661",
+            "post_link": "https://x.com/enocheth/status/2042615539982274942"
         },
         {
             "username": "@allani___",
-            "content": "Big thanks to @sodex_official for the giveaway! \ud83d\ude4f I'm super excited to be one of the 10 winners of 30 $SOSO incoming! I'm grateful for the SoDEX team and whole community building on ValueChain. Continuing to support #TheSoDEXStandard \ud83d\udd25 #SOSO #SoSoValue #YourTimeHasYield",
-            "engagement": "Likes=33, Reposts=2, Quotes=0, Replies=9, Bookmarks=0, Views=1229",
-            "post_id": 2042657013168037905
+            "content": "Big thanks to @sodex_official for the giveaway! \ud83d\ude4f I'm super excited to be one of the 10 winners of 30 $SOSO incoming! ... #TheSoDEXStandard #YourTimeHasYield",
+            "engagement": "Likes=33, Reposts=2, Replies=9, Views=1229",
+            "post_link": "https://x.com/allani___/status/2042657013168037905"
         },
         {
             "username": "@AminuCryptoLabs",
-            "content": "The reason we say $SoSoValue is the best project right now is: [detailed explanation of SoSoValue, SSI, SoDEX ecosystem, vision to stop gambling and start compounding]",
-            "engagement": "Likes=44, Reposts=5, Quotes=0, Replies=9, Bookmarks=5, Views=1966",
-            "post_id": 2042592479728271559
-        },
-        {
-            "username": "@CGS_Tribe",
-            "content": "@SoSoValueCrypto Hey folks, checked SoSoValue: SSI Staking Epoch 4 strong \u2014 TVL ~$95.9M, APY 20.76%, 488K+ holders. $SOSO ~$0.41. Rewards juicy\u2014who's topping up? Thoughts? #Crypto #Bitcoin #Ethereum #DeFi #SSI",
-            "engagement": "Likes=0, Reposts=0, Quotes=0, Replies=0, Bookmarks=0, Views=70",
-            "post_id": 2042697445306450230
+            "content": "The reason we say $SoSoValue is the best project right now is: ... You can take a look here:",
+            "engagement": "Likes=44, Reposts=5, Replies=9, Views=1966",
+            "post_link": "https://x.com/AminuCryptoLabs/status/2042592479728271559"
         }
     ],
-    "timestamp": "2026-04-15 19:33:24"
+    "timestamp": "2026-04-15 19:39:25"
 }
