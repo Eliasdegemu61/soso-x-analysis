@@ -1,35 +1,39 @@
 {
     "summary": {
-        "sosovalue": "Community sentiment around SoSoValue during April 14-15, 2026, appears predominantly promotional and neutral-positive, with users sharing data insights such as ETF trading volumes, Bitcoin holdings by public companies, liquidation metrics ($424 million across the network with $335 million from shorts), and market updates like BTC surpassing $75,000. Key discussions revolve around SoSoValue's role as a reliable crypto data aggregator and AI-powered research tool, highlighted in posts quoting its analytics for news like Russia seizing crypto mining sites, US ending Iran oil sanctions waivers, and OpenAI's valuation questions; there's minor builder enthusiasm for its on-chain finance platform enabling AI-driven index creation and trading with a $10,000 prize pool. Engagement metrics are low overall (highest likes around 12-66 for data shares and guides), indicating limited buzz beyond affiliate-style promotions and referrals, with no strong negative sentiment but sparse critical analysis.",
-        "sodex": "Sentiment for Sodex is positive among active users, focusing on its practical features like the new 'Link Mobile Device' functionality that allows seamless cross-device trading without repeated logins, as detailed in a high-engagement Vietnamese tutorial post (66 likes, 55 replies). Discussions emphasize its order-book model for limit orders, high-performance L1 chain for spot and perps trading, API expansions for developers, and weekly 1M SoPoints rewards via trading leaderboards totaling 150M pool ending in August; users promote referrals for 5% boosts. Metrics show moderate engagement (top post 66 likes, 2614 views), with excitement around reducing trading friction and professional-grade tools, though mostly promotional without deep metrics debate.",
-        "ssi": "Mentions of SSI (SoSoValue Indexes or SSI Index) are minimal and promotional-positive, portraying it as a transparent, stable on-chain passive investment protocol that tracks crypto market growth to mitigate individual token volatility, as noted in a Japanese-language post explaining its portfolio benefits. No widespread discussions or debates found, with sentiment leaning neutral-positive from the single relevant non-official mention; engagement is negligible (0 likes), suggesting low community awareness or focus on SSI specifically during this period. Overall metrics absent, indicating niche or emerging interest without significant traction."
+        "sosovalue": "Mentions of SoSoValue on April 14-15, 2026, primarily revolve around promotional content, data sharing from its platform, and user referrals, with low overall engagement indicating limited community buzz excluding official accounts. Key discussions include ETF trading volumes (e.g., HBAR, XRP, SOL), Bitcoin price movements, corporate BTC holdings, liquidations totaling $424M mostly shorts, and Russia seizing crypto mining sites, often linking back to SoSoValue dashboards or shares for detailed insights. Sentiment appears neutral to mildly positive among posters sharing market updates and build opportunities like AI-driven finance tools with a $10K prize pool, though metrics show minimal interaction: highest likes around 12-66 for select posts, views under 3K, and sparse reposts/replies suggesting subdued interest or early-stage awareness in the specified timeframe.",
+        "sodex": "Community discussions on Sodex focus on practical usage, particularly a new 'Link Mobile Device' feature to streamline cross-device trading, reducing repetitive logins between PC and mobile, as highlighted in a Vietnamese tutorial post quoting an official video. Engagement metrics peak at 66 likes, 55 replies, and 2.6K views for this guide, indicating user interest in usability improvements amid ongoing mainnet activities like weekly 1M SoPoints rewards and referrals. Sentiment is positive towards platform enhancements lowering barriers for traders and developers via expanded APIs, with mentions of trading setups (e.g., $USTECH-100, MAG7ssi tokens) and vault deposits, though overall volume remains low with most posts garnering 0-4 likes.",
+        "ssi": "SSI (likely SoSoValue Indexes or SSI Index) receives scant direct mentions, with one Japanese post praising its high transparency and stability for on-chain passive investments tracking crypto market growth to mitigate individual token volatility, but zero engagement (likes/views). A tangential reference in a reply suggests depositing 'Mag7ssi tokens' in SoDEX vault to boost participation (e.g., from 30% to 60%), implying utility in reward mechanisms. No significant sentiment or metrics emerge, reflecting minimal discussion; broader context ties to SoSoValue's index tools for builders, but data points to negligible community traction on this date range."
     },
     "top_questions": {
-        "sosovalue": [],
+        "sosovalue": [
+            "How to get started with SoSoValue platform and features?"
+        ],
         "sodex": [
-            "Can I dm too?, maybe you could put me through on how to get started?"
+            "How does the Link Mobile Device feature work on SoDEX?",
+            "How to deposit Mag7ssi tokens in SoDEX vault to increase participation percentage?",
+            "How to join SoDEX mainnet and get SoPoints boost via referral?"
         ],
         "ssi": []
     },
     "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
         {
             "username": "@PhanDat0612",
-            "content": "H\u01b0\u1edbng D\u1eabn Li\u00ean K\u1ebft Mobile Device c\u1ee7a SoDEX ...",
-            "engagement": "Likes=66, Reposts=3, Quotes=0, Replies=55, Views=2614",
+            "content": "H\u01b0\u1edbng D\u1eabn Li\u00ean K\u1ebft Mobile Device c\u1ee7a SoDEX ... #SoDEX",
+            "engagement": "Likes=66, Reposts=3, Replies=55, Views=2614",
             "post_link": "https://x.com/PhanDat0612/status/2043885177282408690"
         },
         {
             "username": "@HederaKimchi",
             "content": "2026/4/14 ETF Trading Volume (In/Out Flow) $HBAR ETF: $0.65m (-$0.004m) ... \ud83d\udd17 @SoSoValueCrypto: https://sosovalue.com/join/984A2Z36",
-            "engagement": "Likes=12, Reposts=2, Quotes=0, Replies=0, Views=541",
+            "engagement": "Likes=12, Reposts=2, Views=541",
             "post_link": "https://x.com/HederaKimchi/status/2044180898963436022"
         },
         {
-            "username": "@Victorerick001",
-            "content": "SoDEX feels more like a professional trading floor. It uses an Order Book. ...",
-            "engagement": "Likes=33, Reposts=2, Quotes=0, Replies=24, Views=464",
-            "post_link": "https://x.com/Victorerick001/status/2043937744531943518"
+            "username": "@Kingsedex01",
+            "content": "@SoSoValueCrypto Data Update: $424 million liquidated ... Research: http://sosovalue.com",
+            "engagement": "Likes=3, Reposts=0, Views=51",
+            "post_link": "https://x.com/Kingsedex01/status/2043964406413864976"
         }
     ],
-    "timestamp": "2026-04-15 19:41:18"
+    "timestamp": "2026-04-15 19:42:38"
 }
