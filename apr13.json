@@ -1,30 +1,37 @@
 {
     "summary": {
-        "sosovalue": "Low volume of community mentions excluding official accounts, primarily promotional, referral farming for SoPoints/$SOSO airdrop, and neutral shares of SoSoValue insights. Sentiment neutral to mildly positive with enthusiasm around airdrops and platform utility.",
-        "sodex": "Focus on testnet bug bounties, trading features, and Season 2 airdrop farming on mainnet. Users highlight potential value (e.g., $0.75 per point), but note risks like token unlocks and price volatility. Sentiment cautiously optimistic.",
-        "ssi": "Very sparse mentions, likely referring to SSI Index (e.g., MAG7.SSI); one positive note on 3% 24hr gain. Overall neutral due to low activity."
+        "sosovalue": "Community sentiment around SoSoValue during April 13-14, 2026, appears predominantly promotional and cautiously optimistic, with users frequently tagging @SoSoValueCrypto, sharing links to sosovalue.com research pages, and highlighting market updates like Bitcoin ETF inflows, liquidations, and geopolitical impacts on oil prices and crypto. Key discussions revolve around SoSoValue's AI-driven research, spot index investing features like MAG7.SSI, and its role in cutting market noise for better investment decisions, though activity is mostly low-engagement replies and shares rather than deep analysis. Metrics show sparse mentions with low likes (0-2 typically), views under 100, indicating limited buzz excluding official posts; no major controversies or negative sentiment detected, but excitement ties into broader $SOSO token and SoDEX ecosystem promotions.",
+        "sodex": "Sentiment for Sodex is mixed but leans positive among engaged users, focusing on its airdrop potential with 150M $SOSO reserved, trading volume requirements for SoPoints, and low entry barriers like $10 USDC starts on BASE chain; discussions highlight farming strategies, referral boosts, and calculations like $0.75 per point even at 30% distribution, tempered by risks such as upcoming S2 airdrop dilution or BTC price drops. Key threads emphasize real-user verification via Sodex activity for SoSoValue campaigns, with users sharing volumes (e.g., 950k for 3k points at $0.065 cost) and predicting 5x returns. Engagement metrics are higher here, with top posts reaching 20-47 likes, 800+ views, and some replies debating dilution and sustainability.",
+        "ssi": "No significant mentions found for SSI Index as a standalone topic; occasional #MAG7.SSI hashtags appear in SoSoValue-shared crypto data posts (e.g., ETF flows, liquidations), suggesting it's a minor metric in broader market updates with neutral sentiment and very low engagement (0-1 likes, <100 views). Discussions lack depth, no questions or debates specific to SSI observed."
     },
     "top_questions": {
-        "sosovalue": [
-            "How much $SOSO per SoPoint?",
-            "When is S2 airdrop?",
-            "Impact of upcoming token unlocks?"
-        ],
+        "sosovalue": [],
         "sodex": [
-            "What pairs are available on testnet?",
-            "How to maximize SoPoints with referrals?",
-            "Risks if $SOSO price drops?"
+            "What can go wrong with Sodex airdrop (dilution from S2, BTC drop)?",
+            "How much volume/points for good returns on Sodex?",
+            "Is Sodex required for SoSoValue human verification?"
         ],
-        "ssi": [
-            "What is current MAG7.SSI performance?",
-            "How does SSI Index correlate with BTC?"
-        ]
+        "ssi": []
     },
-    "Top post_links on that date with the highest engagement, atleast 3 posts": [
-        "https://x.com/sodex_official/status/2043549836314804473",
-        "https://x.com/sodex_official/status/2043605555995177424",
-        "https://x.com/Absoluto92/status/2043647070834221090",
-        "https://x.com/Kriptoakd_tr/status/2043767822946308309"
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@Mobolu13",
+            "content": "SoDex is currently one of my favorite DEXs, especially since it\u2019s built by @SoSoValueCrypto. With as little as $10 in USDC, you can start trading on the platform.",
+            "engagement": "Likes=47, Reposts=4, Views=117",
+            "post_link": "https://x.com/Mobolu13/status/2043840913374417393"
+        },
+        {
+            "username": "@Absoluto92",
+            "content": "I believe @sodex_official is a hidden gem \ud83d\udc8e Read below to find the out why but also what can go wrong... (airdrop details, points calc)",
+            "engagement": "Likes=20, Reposts=0, Views=963",
+            "post_link": "https://x.com/Absoluto92/status/2043647070834221090"
+        },
+        {
+            "username": "@OomerBtc",
+            "content": "#Sodex Airdropa Kat\u0131lmayanlar i\u00e7in SON \u00c7A\u011eRI \u2757 ... Siteye git , c\u00fczdan\u0131n\u0131 bagla \u2705 Usdc 'yi BASE a\u011f\u0131nda yat\u0131r \u2705 Hacim kasmaya ba\u015fla",
+            "engagement": "Likes=45, Reposts=5, Views=838",
+            "post_link": "https://x.com/OomerBtc/status/2043757843795587234"
+        }
     ],
-    "timestamp": "2026-04-14 03:51:38"
+    "timestamp": "2026-04-15 19:44:37"
 }
