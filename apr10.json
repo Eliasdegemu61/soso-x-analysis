@@ -1,31 +1,25 @@
 {
     "summary": {
-        "sosovalue": "Low volume community mentions, mostly promotional shares of official content, airdrop claims, and positive highlights like SSI staking (TVL $95.9M, APY 20.76%, 488K holders). Neutral to mildly positive sentiment with enthusiasm for rewards and ecosystem.",
-        "sodex": "Watching closely for trading opportunities amid macro headwinds; vault updates and volume pushing for snapshots noted positively. Sentiment neutral-positive, focused on utility and positioning.",
-        "ssi": "Strong staking metrics praised (high TVL, APY, holders); educational threads on SSI indexes as on-chain ETFs. Positive sentiment around passive investing and diversification."
+        "sosovalue": "Community sentiment around SoSoValue on April 10-11, 2026, is predominantly positive, driven by high engagement on their 'SoSoValue Flash' market analysis post detailing geopolitical tensions, US macro headwinds like a 0.5% Q4 GDP revision, and capital rotation into AI sectors, with recommendations for SoDEX assets such as $USTECH-100, $XAUT, and $BTC. Users frequently quote and share this post, expressing appreciation for the insights on Hormuz Strait dynamics, AI safe havens amid oil price pressures, and upcoming mid-April earnings positioning, alongside promotions of Season 2 EXP airdrop tasks and referrals urging completion before the snapshot. Key discussions revolve around trading strategies decoupling from geopolitical noise, airdrop farming hype with calls to action like 'Don't get left behind,' and integrations with SoDEX trading volumes, evidenced by posts garnering 16k+ likes, nearly 4k reposts, and 14k+ views on the main flash update. Metrics highlight explosive virality with over 12k quotes and 13k replies, underscoring SoSoValue's role as a trusted noise-cutting platform in crypto investment.",
+        "sodex": "Sentiment for Sodex remains bullish and community-focused, centered on Week 10 trading volume snapshot approaching on April 11 at 00:00 UTC, winner announcements for referral rebate giveaways rewarding 30 $SOSO each to 10 participants, and strategies to maximize SoPoints via hedging cycles while minimizing gas fees. Discussions emphasize user loyalty rewards like 100% extra rebates for delays, self-custody order-book trading on ValueChain L1, and calls to close positions pre-snapshot for optimal P&L and volume, with posts promoting referral codes for 5% boosts and step-by-step guides. Notable metrics include a core announcement post with 378 likes, 86 reposts, 27 quotes, 99 replies, and 22k views, alongside winner updates at 33 likes/2 reposts/1229 views and farming reminders at 9 likes/5 reposts/157 views, reflecting active farming enthusiasm and trust-building efforts amid high trading activity.",
+        "ssi": "No significant mentions found."
     },
     "top_questions": {
         "sosovalue": [
-            "Who's topping up SSI staking?",
-            "How many EXP points accumulated for airdrop?",
-            "Thoughts on Season 2 mining ending?"
+            "How positioned are you for the Season 2 snapshot?",
+            "Are you positioned for the szn 2 EXP airdrop?",
+            "How about you? Done yet?"
         ],
         "sodex": [
-            "What's your trading volume stats on SoDEX?",
-            "What feature next for Vault?",
-            "Claimed double referral rebate?"
+            "How is the market bullish or bearish or consolidated?",
+            "What does real user protection mean to you in the web3 world?"
         ],
-        "ssi": [
-            "What are SSI indexes exactly?",
-            "Worth staking for 20%+ APY?",
-            "How does SSI compare to TradFi ETFs?"
-        ]
+        "ssi": []
     },
     "Top post_links on that date with the highest engagement, atleast 3 posts": [
-        "https://x.com/sleektru/status/2042484065887027522 (388 likes: SoSoValue Snapshot Update)",
-        "https://x.com/AirdropAlchemis/status/2042485986094202950 (34 likes: Claimed $SOSO from SoSoValue)",
-        "https://x.com/StarcityDirect/status/2042535017088192712 (6 likes: Watching SoDEX amid macro analysis)",
-        "https://x.com/Absoluto92/status/2042496308263460907 (13 likes: SoDEX snapshot volume push)"
+        "https://x.com/SoSoValueCrypto/status/2042497228531777599",
+        "https://x.com/enocheth/status/2042615539982274942",
+        "https://x.com/allani___/status/2042657013168037905"
     ],
-    "timestamp": "2026-04-11 11:24:38"
+    "timestamp": "2026-04-15 19:29:24"
 }
