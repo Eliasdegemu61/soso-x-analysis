@@ -1,0 +1,30 @@
+{
+    "summary": {
+        "sosovalue": "Neutral to positive. Community primarily shares SoSoValue data (e.g., ETF flows, BTC holdings, liquidations) and praises its analytics, research tools, and AI-powered insights for informed trading. Mentions in news aggregation and promotional contexts dominate, with no strong negativity.",
+        "sodex": "Mostly positive with minor criticism. Users highlight on-chain trading, low fees, CEX-like feel, new perps listings (e.g., $CL), and rewards like SoPoints. One complaint about high trading fees not displaying clearly on position close.",
+        "ssi": "Limited mentions, neutral-positive. Brief positive note on SSI protocol for transparent, stable on-chain passive investment reducing volatility via diversified portfolios."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How reliable is SoSoValue for ETF flow data?",
+            "What makes SoSoValue's TokenBar discussions valuable?",
+            "Is SoSoValue's AI research tool effective for beginners?"
+        ],
+        "sodex": [
+            "Are SoDEX fees competitive compared to CEX?",
+            "How do SoPoints rewards work on SoDEX?",
+            "What's the experience trading perps like $CL on SoDEX?"
+        ],
+        "ssi": [
+            "How does SSI enable passive crypto investing?",
+            "What transparency features does SSI offer?",
+            "Can SSI track overall market growth effectively?"
+        ]
+    },
+    "Top post_links on that date with the highest engagement, atleast 3 posts": [
+        "https://x.com/sodex_official/status/2044048830552064060 (124 likes, $CL Perps launch)",
+        "https://x.com/BSCNews/status/2043970513748349257 (23 likes, Bitcoin ETF outflows via SoSoValue)",
+        "https://x.com/aleabitoreddit/status/2044077799338881108 (496 likes, Soitec $SOI stock analysis, tangential)"
+    ],
+    "timestamp": "2026-04-15 04:38:07"
+}
