@@ -1,25 +1,42 @@
 {
     "summary": {
-        "sosovalue": "Community sentiment around SoSoValue on April 10-11, 2026, is predominantly positive, driven by high engagement on their 'SoSoValue Flash' market analysis post detailing geopolitical tensions, US macro headwinds like a 0.5% Q4 GDP revision, and capital rotation into AI sectors, with recommendations for SoDEX assets such as $USTECH-100, $XAUT, and $BTC. Users frequently quote and share this post, expressing appreciation for the insights on Hormuz Strait dynamics, AI safe havens amid oil price pressures, and upcoming mid-April earnings positioning, alongside promotions of Season 2 EXP airdrop tasks and referrals urging completion before the snapshot. Key discussions revolve around trading strategies decoupling from geopolitical noise, airdrop farming hype with calls to action like 'Don't get left behind,' and integrations with SoDEX trading volumes, evidenced by posts garnering 16k+ likes, nearly 4k reposts, and 14k+ views on the main flash update. Metrics highlight explosive virality with over 12k quotes and 13k replies, underscoring SoSoValue's role as a trusted noise-cutting platform in crypto investment.",
-        "sodex": "Sentiment for Sodex remains bullish and community-focused, centered on Week 10 trading volume snapshot approaching on April 11 at 00:00 UTC, winner announcements for referral rebate giveaways rewarding 30 $SOSO each to 10 participants, and strategies to maximize SoPoints via hedging cycles while minimizing gas fees. Discussions emphasize user loyalty rewards like 100% extra rebates for delays, self-custody order-book trading on ValueChain L1, and calls to close positions pre-snapshot for optimal P&L and volume, with posts promoting referral codes for 5% boosts and step-by-step guides. Notable metrics include a core announcement post with 378 likes, 86 reposts, 27 quotes, 99 replies, and 22k views, alongside winner updates at 33 likes/2 reposts/1229 views and farming reminders at 9 likes/5 reposts/157 views, reflecting active farming enthusiasm and trust-building efforts amid high trading activity.",
-        "ssi": "No significant mentions found."
+        "sosovalue": "Community sentiment towards SoSoValue is predominantly positive, with users highlighting its AI-powered research, upcoming Season 2 airdrop, strong ecosystem including ValueChain L1 and SoDEX, and valuable market insights shared via Flash updates. Engagement focuses on promotional shares and excitement for rewards.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">52</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">53</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">38</argument></grok:render>",
+        "sodex": "Positive mentions of SoDEX as a high-performance DEX on ValueChain, with users appreciating giveaways, whitelist promotions, and trade setups. Community shows support through winner announcements and asset watchlists.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">64</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">25</argument></grok:render>",
+        "ssi": "Highly positive on SSI Index/Staking, praised for on-chain ETF-like indexes, diversification benefits, high TVL (~$95.9M), APY (20.76%), and 488K+ holders. Users promote it as a smart passive investing tool.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">39</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">47</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">48</argument></grok:render>"
     },
     "top_questions": {
         "sosovalue": [
-            "How positioned are you for the Season 2 snapshot?",
-            "Are you positioned for the szn 2 EXP airdrop?",
-            "How about you? Done yet?"
+            "Who's topping up on SoSoValue staking rewards?",
+            "Are you positioned for SoSoValue Season 2 EXP airdrop?",
+            "What does real user protection mean in Web3 for SoSoValue?"
         ],
         "sodex": [
-            "How is the market bullish or bearish or consolidated?",
-            "What does real user protection mean to you in the web3 world?"
+            "What SoDEX assets to watch amid AI rotation?",
+            "How to claim SoDEX referral rebates?",
+            "Thoughts on SoDEX snapshot for W10?"
         ],
-        "ssi": []
+        "ssi": [
+            "What are SSI indexes and how do they work like on-chain ETFs?",
+            "Who's staking in SSI Epoch 4 with 20.76% APY?",
+            "How does SSI enable diversified crypto investing?"
+        ]
     },
-    "Top post_links on that date with the highest engagement, atleast 3 posts": [
-        "https://x.com/SoSoValueCrypto/status/2042497228531777599",
-        "https://x.com/enocheth/status/2042615539982274942",
-        "https://x.com/allani___/status/2042657013168037905"
+    "Top post_links on that date with the highest engagement, atleast 3 posts. include the actualy things written on that post": [
+        {
+            "post_id": 2042615539982274942,
+            "content": ".@SoSoValueCrypto szn 2 EXP airdrop is coming like a thief in the night.\nare you positioned?\n\njoin here: https://sosovalue.com/join/9Z1E95D6",
+            "engagement": "Likes=69, Reposts=1, Views=661"
+        },
+        {
+            "post_id": 2042639440066310338,
+            "content": "Just completed the latest tasks on @SoSoValueCrypto! \n\n\u2705 Ready for the moon. \ud83d\ude80\n\nDon't get left behind\u2014make sure to finish everything before the Season 2 snapshot happens this month! \ud83d\udcf8\u23f3\nHow about you? Done yet? \ud83d\udc47\n#SoSoValue #Airdrop #Crypto",
+            "engagement": "Likes=3, Views=54"
+        },
+        {
+            "post_id": 2042592479728271559,
+            "content": "The reason we say $SoSoValue is the best project right now is:\n\n\u2014 Unlike what many people think, it\u2019s not just because of the Season 1 airdrop where users made money\u2014that\u2019s why some people like the project.\n\nThat\u2019s not the full story. Beyond the airdrop, which was one of the most rewarding for users, $SoSoValue has continued building something that not every project is able to achieve.\n\n$SoSoValue and $SoDEX are being built to change that narrative.\n\n[... full long post praising ecosystem ...]",
+            "engagement": "Likes=44, Reposts=5, Views=1966"
+        }
     ],
-    "timestamp": "2026-04-15 19:29:24"
+    "timestamp": "2026-04-15 19:31:47"
 }
