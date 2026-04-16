@@ -1,0 +1,47 @@
+{
+    "summary": {
+        "sosovalue": "No significant mentions found.",
+        "sodex": "Community sentiment around Sodex is predominantly positive, with users highlighting the launch of the SoDEX API in closed alpha as a game-changer for automated trading, bots, quantitative systems, and AI-powered on-chain strategies, emphasizing its high-performance order-book capabilities on ValueChain L1. Key discussions revolve around practical use cases like trading bots, smart order routing, risk management, and eligibility requirements (Silver tier+, $10K account value, $300K trading volume), positioning it as a tool for professional traders and developers to build advanced execution tools. Engagement metrics show moderate traction, with top posts garnering 85 likes and 3574 views for API intros, alongside promotional rewards and mainnet boosts, indicating growing interest in SoDEX's ecosystem expansion amid broader crypto trading innovations.",
+        "ssi": "Sentiment for SSI Index is neutral to mildly positive, with limited but focused mentions on staking metrics like Epoch 4's $99.43M TVL, 20.52% APY, over 488K holders, and MAG7.ssi at ~$0.5081, sparking discussions on rewards and participation. Users question adding positions and share strategies like buying indexes, staking for APY and points, and boosting via referrals in a $15M $SOSO reward pool. Key conversations highlight SSI's role in SoSoValue's index investing, with one post noting ssiLayer1 index's 3% 24hr gain, but overall volume remains low, reflecting niche interest among DeFi enthusiasts rather than broad hype."
+    },
+    "top_questions": {
+        "sosovalue": [],
+        "sodex": [
+            "What is SoDEX API and who is it for?",
+            "How to join SoDEX API closed alpha and what are eligibility requirements?",
+            "What practical use cases for SoDEX API like trading bots?"
+        ],
+        "ssi": [
+            "SSI Staking Epoch 4 strong \u2014 TVL $99.43M, APY 20.52%, 488K+ holders. Who's adding more? Thoughts?",
+            "How to buy and stake SSI indexes for APY + points + $15M $SOSO rewards?",
+            "ssiLayer1 index 24hr gain of 3.00% - thoughts?"
+        ]
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@sodex_official",
+            "content": "Oil\u2019s Judgment Day: $CL x US-Iran Talks \ud83d\udee2\ufe0f The US-Iran negotiations are back on the table. Crude Oil is primed for a massive move! \ud83d\ude80 Where do you stand? \ud83e\udd1d Talks Succeed = Supply is back = Short $CL \ud83d\udcc9 \u274c Talks Fail = Tensions rise = Long $CL \ud83d\udcc8 Put your bias to work on SoDEX and win! \ud83c\udf81 Reward: 10 \"Prophets\" who call the direction right will win 50 $SOSO each! ...",
+            "engagement": "Likes=124, Reposts=29, Quotes=4, Replies=33, Bookmarks=5, Views=4359",
+            "post_link": "https://x.com/sodex_official/status/2044388590449565758"
+        },
+        {
+            "username": "@sammylolo1514",
+            "content": "ETF\u3078\u306e\u8cc7\u91d1\u6d41\u5165\u304c\u518d\u3073\u5897\u52a0\u3057\u3066\u304a\u308a\u3001\u30bb\u30f3\u30c1\u30e1\u30f3\u30c8\u306f\u56de\u5fa9\u3057\u3064\u3064\u3042\u308b\u3002\u3053\u306e\u6d41\u308c\u304c\u7d9a\u3051\u3070\u3001\u4fa1\u683c\u3082\u8ffd\u968f\u3059\u308b\u53ef\u80fd\u6027\u304c\u9ad8\u3044\u3002@SosovalueJP @SoSoValueCrypto",
+            "engagement": "Likes=4, Reposts=3, Quotes=0, Replies=0, Bookmarks=0, Views=35",
+            "post_link": "https://x.com/sammylolo1514/status/2044365349798248906"
+        },
+        {
+            "username": "@Vanquan_titans",
+            "content": "\ud83d\ude80 \ud835\udc12\ud835\udc28\ud835\udc03\ud835\udc04\ud835\udc17 \ud835\udc00\ud835\udc0f\ud835\udc08: \ud835\udc00 \ud835\udc0f\ud835\udc28\ud835\udc30\ud835\udc1e\ud835\udc2b\ud835\udc1f\ud835\udc2e\ud835\udc25 \ud835\udc13\ud835\udc28\ud835\udc28\ud835\udc25 \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc00\ud835\udc2e\ud835\udc2d\ud835\udc28\ud835\udc26\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc1d \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc1d\ud835\udc22\ud835\udc27\ud835\udc20 & \ud835\udc00\ud835\udc08 \ud835\udc28\ud835\udc27-\ud835\udc1c\ud835\udc21\ud835\udc1a\ud835\udc22\ud835\udc27! ...",
+            "engagement": "Likes=85, Reposts=0, Quotes=0, Replies=59, Bookmarks=0, Views=3574",
+            "post_link": "https://x.com/Vanquan_titans/status/2044222541007597950"
+        },
+        {
+            "username": "@AZCNews",
+            "content": "\u0110\u1ee3t n\u00e0y th\u1ea5y coin t\u0103ng \u00e1c qu\u00e1 $STO x40 $RAVE x70 $ARIA c\u0169ng x15 Ch\u01b0a k\u1ec3 m\u1ea5y con x3 x5 kh\u00f4ng thi\u1ebfu Ae c\u00f3 con n\u00e0o kh\u00f4ng? Share cho m\u00ecnh v\u1edbi, tham kh\u1ea3o t\u00fd, haha",
+            "engagement": "Likes=58, Reposts=1, Quotes=0, Replies=59, Bookmarks=0, Views=1445",
+            "post_link": "https://x.com/AZCNews/status/2044242185319837922"
+        }
+    ],
+    "timestamp": "2026-04-16 05:50:46"
+}
