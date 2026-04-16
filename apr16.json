@@ -1,0 +1,37 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on April 16, 2026, is predominantly positive yet low-volume, primarily consisting of replies and quotes to the official @SoSoValueCrypto 'Flash' post detailing diplomatic progress, NASDAQ highs, and trade setups mentioning SoDEX assets, with users echoing bullish market vibes, praising insightful analysis, and sharing promotional content like Crypto Daily updates. Key discussions revolve around geopolitical de-escalation (e.g., Iran talks, Hormuz Strait), financial resilience in private credit, AI-driven earnings focus, and tactical trades on dips in MAG7/AI stocks, BTC, and crude oil, reflecting a risk-on mindset desensitized to paused hostilities. Metrics show sparse engagement: most user posts have 0-3 likes/reposts/replies, with one promotional post garnering 1 like and 16 views; no high-momentum debates or controversies, indicating niche enthusiasm among a small group of followers amplifying official content rather than independent discourse.",
+        "sodex": "Sentiment for Sodex (SoDEX) is bullish among airdrop farmers and testnet participants, with users expressing optimism about ongoing SoPoints rewards, leaderboard rankings, trading testnet bugs for $SOSO incentives, and upcoming mainnet potential, though discussions highlight concerns over bot farming and verification processes to ensure real user probability. Key topics include weekly SoPoints distributions (e.g., Week 10), PNL rankings, trading volume on testnet pairs like BTC-USD, $SOSO/$ETH spot, and calls for continued testing of data accuracy in prices, PnL, and positions; one user debates bot mitigation strategies like partial verification refunds. Engagement metrics are minimal: highest is 17 likes/2 reposts/9 replies/259 views on a post bullish on SoDex & Sosovalue airdrops, followed by 3 likes on supportive replies, with most at 0 engagement, suggesting early-stage hype in a contained community without viral traction.",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [],
+        "sodex": [
+            "How will SoDEX handle bot accounts in airdrop distribution, e.g., partial verification refunds?",
+            "When is the SoSoValue snapshot expected and what real user probability is needed?",
+            "How far have users progressed in SoPoints weeks and reached Gold/Diamond tiers?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@richie_bitcoin",
+            "content": "GM everyone, Airdrop is still paying don't give up. I'm bullish on SoDex & Sosovalue. I'll be dropping more alpha about them today.",
+            "engagement": "Likes=17, Reposts=2, Quotes=0, Replies=9, Views=259",
+            "post_link": "https://x.com/richie_bitcoin/status/2044666309053424070"
+        },
+        {
+            "username": "@DamiAik",
+            "content": "Solid breakdown, SoSoValue team \u2014 this \"Flash\" captures the shifting sentiment perfectly. Diplomacy momentum around the Iran situation is indeed stealing the spotlight, helping fuel the risk-on vibe while geopolitics fades into background noise.",
+            "engagement": "Likes=3, Reposts=1, Quotes=0, Replies=0, Views=25",
+            "post_link": "https://x.com/DamiAik/status/2044647735048233331"
+        },
+        {
+            "username": "@sammylolo1514",
+            "content": "Geopolitical risk is fading, but now the market has no safety net\u2014AI earnings must deliver to sustain the rally.",
+            "engagement": "Likes=8, Reposts=3, Quotes=0, Replies=0, Views=31",
+            "post_link": "https://x.com/sammylolo1514/status/2044642720531022299"
+        }
+    ],
+    "timestamp": "2026-04-17 01:43:06"
+}
