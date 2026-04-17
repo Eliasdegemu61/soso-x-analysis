@@ -1,0 +1,44 @@
+{
+    "lastUpdated": "2026-04-17T15:59:57.980336Z",
+    "barometer": {
+        "overallScore": 83,
+        "label": "Farming Frenzy",
+        "trend": "+4",
+        "color": "#22c55e",
+        "subMetrics": [
+            {
+                "name": "Social Volume",
+                "score": 100,
+                "weight": 20
+            },
+            {
+                "name": "Grok Sentiment",
+                "score": 77,
+                "weight": 25
+            },
+            {
+                "name": "Farming Activity",
+                "score": 78,
+                "weight": 20
+            },
+            {
+                "name": "Trading Hype",
+                "score": 85,
+                "weight": 15
+            },
+            {
+                "name": "UX Deposit Feedback",
+                "score": 62,
+                "weight": 10
+            },
+            {
+                "name": "Official Pulse",
+                "score": 90,
+                "weight": 10
+            }
+        ]
+    },
+    "summary": "Bullish vibes with strong trading buzz, but UX needs polish",
+    "timestamp": "2026-04-17 (analyzed date)",
+    "analyzedPeriod": "2026-04-17 \u2192 2026-04-18"
+}
