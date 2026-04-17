@@ -1,39 +1,39 @@
 {
-    "lastUpdated": "2026-04-17T17:10:12.409346Z",
+    "lastUpdated": "2026-04-17T17:29:57.532732Z",
     "barometer": {
-        "overallScore": 77,
-        "label": "Bullish Grind",
+        "overallScore": 0,
+        "label": "Cautious",
         "trend": "+4",
-        "color": "#eab308",
+        "color": "#ef4444",
         "subMetrics": [
             {
                 "name": "Social Volume",
-                "score": 100,
+                "score": 0,
                 "weight": 20
             },
             {
                 "name": "Grok Sentiment",
-                "score": 57,
+                "score": 0,
                 "weight": 25
             },
             {
                 "name": "Farming Activity",
-                "score": 75,
+                "score": 0,
                 "weight": 20
             },
             {
                 "name": "Trading Hype",
-                "score": 82,
+                "score": 0,
                 "weight": 15
             },
             {
                 "name": "UX Deposit Feedback",
-                "score": 68,
+                "score": 0,
                 "weight": 10
             },
             {
                 "name": "Official Pulse",
-                "score": 90,
+                "score": 0,
                 "weight": 10
             }
         ]
@@ -41,69 +41,38 @@
     "subMetrics": [
         {
             "name": "Social Volume",
-            "score": 100,
+            "score": 0,
             "weight": 20
         },
         {
             "name": "Grok Sentiment",
-            "score": 57,
+            "score": 0,
             "weight": 25
         },
         {
             "name": "Farming Activity",
-            "score": 75,
+            "score": 0,
             "weight": 20
         },
         {
             "name": "Trading Hype",
-            "score": 82,
+            "score": 0,
             "weight": 15
         },
         {
             "name": "UX Deposit Feedback",
-            "score": 68,
+            "score": 0,
             "weight": 10
         },
         {
             "name": "Official Pulse",
-            "score": 90,
+            "score": 0,
             "weight": 10
         }
     ],
-    "detailedSummary": "The overall sentiment in the SoDEX community is highly positive, with users excited about farming SoPoints through contests and deposits. Trading hype is building around $SOSO token listings and CEX-to-SoDEX migrations, though some friction arises from deposit delays and UX glitches during high traffic. Users are requesting clearer tutorials on farming mechanics and faster official responses to deposit issues, while praising the seamless integration for most transfers.",
-    "topEngagedPosts": [
-        {
-            "username": "@CryptoFan123",
-            "content": "Just deposited from Binance to SoDEX and earned bonus SoPoints! Loving the contest rewards. #SoDEX #SOSO",
-            "engagement": {
-                "likes": 450,
-                "reposts": 120,
-                "replies": 85
-            },
-            "postLink": "https://x.com/CryptoFan123/status/1234567890"
-        },
-        {
-            "username": "@DEXTraderPro",
-            "content": "Farming SoPoints on SoDEX is insane! Transferred from CEX smoothly, but fix the deposit wait times pls. Who's joining the contest? $SOSO to the moon!",
-            "engagement": {
-                "likes": 320,
-                "reposts": 95,
-                "replies": 60
-            },
-            "postLink": "https://x.com/DEXTraderPro/status/0987654321"
-        },
-        {
-            "username": "@SoDEXEnthusiast",
-            "content": "Official SoDEX update on farming scores is spot on. Easy deposits, great UX for trading $SOSO. More contests needed! #CEXtoSoDEX",
-            "engagement": {
-                "likes": 280,
-                "reposts": 80,
-                "replies": 45
-            },
-            "postLink": "https://x.com/SoDEXEnthusiast/status/1122334455"
-        }
-    ],
-    "summary": "SoDEX community buzzing with farming excitement and trading optimism, tempered by minor deposit frictions.",
+    "detailedSummary": "No posts containing 'SoDEX', 'SoPoints', '$SOSO', or '@sodex_official' were found within the exact date range of 2026-04-14 to 2026-04-15 despite multiple searches using Top and Latest modes; some posts referenced SoDEX or SoPoints but lacked the required keywords or were outside the timeframe. Sentiment cannot be assessed due to absence of qualifying real posts. No evidence of farming activity, trading hype, friction, or user requests in the specified period. Activity appears non-existent for the queried terms on those dates.",
+    "topEngagedPosts": [],
+    "summary": "No qualifying posts found; zero activity on specified keywords and dates.",
     "timestamp": "2026-04-14 (analyzed date)",
     "analyzedPeriod": "2026-04-14 \u2192 2026-04-15"
 }
