@@ -1,7 +1,7 @@
 {
-    "lastUpdated": "2026-04-17T15:59:57.980336Z",
+    "lastUpdated": "2026-04-17T16:00:24.522432Z",
     "barometer": {
-        "overallScore": 83,
+        "overallScore": 91,
         "label": "Farming Frenzy",
         "trend": "+4",
         "color": "#22c55e",
@@ -13,32 +13,32 @@
             },
             {
                 "name": "Grok Sentiment",
-                "score": 77,
+                "score": 90,
                 "weight": 25
             },
             {
                 "name": "Farming Activity",
-                "score": 78,
+                "score": 85,
                 "weight": 20
             },
             {
                 "name": "Trading Hype",
-                "score": 85,
+                "score": 92,
                 "weight": 15
             },
             {
                 "name": "UX Deposit Feedback",
-                "score": 62,
+                "score": 78,
                 "weight": 10
             },
             {
                 "name": "Official Pulse",
-                "score": 90,
+                "score": 95,
                 "weight": 10
             }
         ]
     },
-    "summary": "Bullish vibes with strong trading buzz, but UX needs polish",
-    "timestamp": "2026-04-17 (analyzed date)",
-    "analyzedPeriod": "2026-04-17 \u2192 2026-04-18"
+    "summary": "High excitement for SoDEX features and trading",
+    "timestamp": "2026-04-14 (analyzed date)",
+    "analyzedPeriod": "2026-04-14 \u2192 2026-04-15"
 }
