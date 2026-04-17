@@ -1,11 +1,103 @@
 {
-    "total_mentions": 120,
-    "positive_posts": 45,
-    "total_posts": 65,
-    "farming_score": 75,
-    "trading_score": 82,
-    "ux_deposit_score": 60,
-    "official_score": 70,
+    "lastUpdated": "2026-04-17T11:37:17.135886Z",
+    "barometer": {
+        "overallScore": 78,
+        "label": "Bullish Grind",
+        "trend": "+3",
+        "color": "#eab308",
+        "subMetrics": [
+            {
+                "name": "Social Volume",
+                "score": 100,
+                "weight": 20
+            },
+            {
+                "name": "Grok Sentiment",
+                "score": 69,
+                "weight": 25
+            },
+            {
+                "name": "Farming Activity",
+                "score": 75,
+                "weight": 20
+            },
+            {
+                "name": "Trading Hype",
+                "score": 82,
+                "weight": 15
+            },
+            {
+                "name": "UX Deposit Feedback",
+                "score": 60,
+                "weight": 10
+            },
+            {
+                "name": "Official Pulse",
+                "score": 70,
+                "weight": 10
+            }
+        ]
+    },
+    "subMetrics": [
+        {
+            "name": "Social Volume",
+            "score": 100,
+            "weight": 20
+        },
+        {
+            "name": "Grok Sentiment",
+            "score": 69,
+            "weight": 25
+        },
+        {
+            "name": "Farming Activity",
+            "score": 75,
+            "weight": 20
+        },
+        {
+            "name": "Trading Hype",
+            "score": 82,
+            "weight": 15
+        },
+        {
+            "name": "UX Deposit Feedback",
+            "score": 60,
+            "weight": 10
+        },
+        {
+            "name": "Official Pulse",
+            "score": 70,
+            "weight": 10
+        }
+    ],
+    "tradingInsights": {
+        "activeThemes": [
+            "SoPoints farming",
+            "New trading pairs",
+            "$CL perp"
+        ],
+        "hotSignals": [
+            "CEX-to-DEX deposit improvements"
+        ],
+        "contestSignal": "Post PNL for $SOSO prizes"
+    },
     "summary": "Community buzz is strong around SoPoints farming and new trading pairs, with positive vibes on deposit UX improvements, though some users seek more official updates on snapshots.",
-    "timestamp": "2026-04-17 11:19:44"
+    "topTopics": [
+        {
+            "topic": "SoPoints Farming",
+            "sentiment": "positive",
+            "description": "Daily routines strong."
+        },
+        {
+            "topic": "CEX-to-DEX Deposits",
+            "sentiment": "mixed",
+            "description": "Tutorial praised but some friction noted."
+        },
+        {
+            "topic": "Trading Hype",
+            "sentiment": "positive",
+            "description": "New pairs generating buzz."
+        }
+    ],
+    "timestamp": "2026-04-17 11:37:17"
 }
