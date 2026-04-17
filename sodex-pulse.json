@@ -1,70 +1,11 @@
 {
-  "lastUpdated": "2026-04-17T08:16:35.528280Z",
-  "barometer": {
-    "overallScore": 90,
-    "label": "Farming Frenzy",
-    "trend": "+5",
-    "color": "#22c55e",
-    "subMetrics": [
-      {
-        "name": "Social Volume",
-        "score": 100,
-        "weight": 20
-      },
-      {
-        "name": "Grok Sentiment",
-        "score": 83,
-        "weight": 25
-      },
-      {
-        "name": "Farming Activity",
-        "score": 88,
-        "weight": 20
-      },
-      {
-        "name": "Trading Hype",
-        "score": 91,
-        "weight": 15
-      },
-      {
-        "name": "UX Deposit Feedback",
-        "score": 84,
-        "weight": 10
-      },
-      {
-        "name": "Official Pulse",
-        "score": 93,
-        "weight": 10
-      }
-    ]
-  },
-  "tradingInsights": {
-    "activeThemes": [
-      "$CL Crude Oil Perp Contest",
-      "CEX-to-DEX Deposits",
-      "SoPoints Farming"
-    ],
-    "hotSignals": [
-      "Deposit tutorial well received"
-    ],
-    "contestSignal": "Post PNL card \u2192 win 50 $SOSO (10 winners)"
-  },
-  "summary": "Farming Frenzy mode \u2014 strong praise for CEX-to-DEX deposit flow and $CL contest activity.",
-  "topTopics": [
-    {
-      "topic": "CEX-to-DEX Deposits",
-      "sentiment": "positive",
-      "description": "Official video praised for simple flow and clear rules."
-    },
-    {
-      "topic": "$CL Perp Contest",
-      "sentiment": "hype",
-      "description": "Oil trading contest active."
-    },
-    {
-      "topic": "SoPoints Farming",
-      "sentiment": "positive",
-      "description": "Daily routines strong."
-    }
-  ]
+    "total_mentions": 120,
+    "positive_posts": 45,
+    "total_posts": 65,
+    "farming_score": 75,
+    "trading_score": 82,
+    "ux_deposit_score": 60,
+    "official_score": 70,
+    "summary": "Community buzz is strong around SoPoints farming and new trading pairs, with positive vibes on deposit UX improvements, though some users seek more official updates on snapshots.",
+    "timestamp": "2026-04-17 11:19:44"
 }
