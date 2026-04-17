@@ -1,0 +1,36 @@
+{
+  "lastUpdated": "2026-04-17T07:52:29.128268Z",
+  "overallSentiment": {
+    "score": 78,
+    "label": "Bullish & Engaged",
+    "trend": "+5"
+  },
+  "source": "X (Twitter) - Public Pulse",
+  "topTopics": [
+    {
+      "topic": "SoPoints Snapshot & Farming",
+      "volume": "high",
+      "sentiment": "positive",
+      "description": "Users counting down to end-of-month snapshot. Daily routines strong."
+    },
+    {
+      "topic": "Testnet Upgrades & Bug Hunting",
+      "volume": "medium",
+      "sentiment": "constructive",
+      "description": "Recent upgrade. Testing window open until ~Apr 19."
+    },
+    {
+      "topic": "$CL Crude Oil Perp Contest",
+      "volume": "high",
+      "sentiment": "hype",
+      "description": "New listing live with PNL contest for $SOSO prizes."
+    }
+  ],
+  "officialHighlights": [
+    {
+      "text": "Safe deposit tutorial video released.",
+      "link": "https://x.com/sodex_official/..."
+    }
+  ],
+  "summary": "Community focused on farming routines and new perps. Sentiment remains positive."
+}
