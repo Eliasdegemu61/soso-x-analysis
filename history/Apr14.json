@@ -1,44 +1,46 @@
 {
-    "lastUpdated": "2026-04-17T16:00:24.522432Z",
+    "lastUpdated": "2026-04-17T17:08:05.036839Z",
     "barometer": {
-        "overallScore": 91,
-        "label": "Farming Frenzy",
+        "overallScore": 0,
+        "label": "Cautious",
         "trend": "+4",
-        "color": "#22c55e",
+        "color": "#ef4444",
         "subMetrics": [
             {
                 "name": "Social Volume",
-                "score": 100,
+                "score": 0,
                 "weight": 20
             },
             {
                 "name": "Grok Sentiment",
-                "score": 90,
+                "score": 0,
                 "weight": 25
             },
             {
                 "name": "Farming Activity",
-                "score": 85,
+                "score": 0,
                 "weight": 20
             },
             {
                 "name": "Trading Hype",
-                "score": 92,
+                "score": 0,
                 "weight": 15
             },
             {
                 "name": "UX Deposit Feedback",
-                "score": 78,
+                "score": 0,
                 "weight": 10
             },
             {
                 "name": "Official Pulse",
-                "score": 95,
+                "score": 0,
                 "weight": 10
             }
         ]
     },
-    "summary": "High excitement for SoDEX features and trading",
+    "detailedSummary": "No posts were found on X for the specified terms in the future date range of April 14-15, 2026, resulting in zero activity and neutral sentiment overall. There is no observable farming activity, trading hype, or deposit UX feedback due to the absence of data. No notable friction, requests, or community engagement could be identified as the timeframe is in the future.",
+    "topEngagedPosts": [],
+    "summary": "No community activity detected in the specified future date range.",
     "timestamp": "2026-04-14 (analyzed date)",
     "analyzedPeriod": "2026-04-14 \u2192 2026-04-15"
 }
