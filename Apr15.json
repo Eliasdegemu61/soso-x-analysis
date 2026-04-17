@@ -1,0 +1,44 @@
+{
+    "lastUpdated": "2026-04-17T15:51:48.738113Z",
+    "barometer": {
+        "overallScore": 82,
+        "label": "Farming Frenzy",
+        "trend": "+4",
+        "color": "#22c55e",
+        "subMetrics": [
+            {
+                "name": "Social Volume",
+                "score": 100,
+                "weight": 20
+            },
+            {
+                "name": "Grok Sentiment",
+                "score": 77,
+                "weight": 25
+            },
+            {
+                "name": "Farming Activity",
+                "score": 75,
+                "weight": 20
+            },
+            {
+                "name": "Trading Hype",
+                "score": 82,
+                "weight": 15
+            },
+            {
+                "name": "UX Deposit Feedback",
+                "score": 68,
+                "weight": 10
+            },
+            {
+                "name": "Official Pulse",
+                "score": 90,
+                "weight": 10
+            }
+        ]
+    },
+    "summary": "The community is buzzing with excitement over SoDEX farming opportunities and smooth deposit experiences.",
+    "timestamp": "2026-04-15 (input date)",
+    "analyzedPeriod": "2026-04-15 to 2026-04-16"
+}
