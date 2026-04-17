@@ -1,7 +1,7 @@
 {
-    "lastUpdated": "2026-04-17T15:58:13.617431Z",
+    "lastUpdated": "2026-04-17T15:59:22.689084Z",
     "barometer": {
-        "overallScore": 78,
+        "overallScore": 75,
         "label": "Bullish Grind",
         "trend": "+4",
         "color": "#eab308",
@@ -13,7 +13,7 @@
             },
             {
                 "name": "Grok Sentiment",
-                "score": 77,
+                "score": 44,
                 "weight": 25
             },
             {
@@ -33,12 +33,12 @@
             },
             {
                 "name": "Official Pulse",
-                "score": 45,
+                "score": 90,
                 "weight": 10
             }
         ]
     },
-    "summary": "Bullish vibes with high engagement on farming and trading",
-    "timestamp": "2026-04-15 (analyzed date)",
-    "analyzedPeriod": "2026-04-15 \u2192 2026-04-16"
+    "summary": "Bullish vibes with high engagement",
+    "timestamp": "2026-04-16 (analyzed date)",
+    "analyzedPeriod": "2026-04-16 \u2192 2026-04-17"
 }
