@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T08:04:55.230591Z",
+  "lastUpdated": "2026-04-17T08:07:33.891171Z",
   "barometer": {
     "overallScore": 90,
     "label": "Farming Frenzy",
@@ -41,36 +41,30 @@
   "tradingInsights": {
     "activeThemes": [
       "$CL Crude Oil Perp Contest",
-      "MAG7.ssi trading",
-      "CEX-to-DEX Deposits"
+      "CEX-to-DEX Deposits",
+      "SoPoints Farming"
     ],
     "hotSignals": [
-      "Deposit tutorial video well received",
-      "US-Iran talks impact on $CL"
+      "Deposit tutorial well received"
     ],
     "contestSignal": "Post PNL card \u2192 win 50 $SOSO (10 winners)"
   },
-  "summary": "Farming Frenzy mode \u2014 community loves the simple CEX-to-DEX deposit flow and $CL contest activity.",
+  "summary": "Farming Frenzy mode \u2014 strong praise for CEX-to-DEX deposit flow and $CL contest activity.",
   "topTopics": [
     {
       "topic": "CEX-to-DEX Deposits",
       "sentiment": "positive",
-      "description": "Official 60s video praised for simple flow ($5 min, correct token/network, quick KYT). Users call it 'seamless'."
+      "description": "Official video praised for simple flow and clear rules."
     },
     {
       "topic": "$CL Perp Contest",
       "sentiment": "hype",
-      "description": "Oil trading contest active \u2014 predict outcomes and post PNL for prizes."
+      "description": "Oil trading contest active."
     },
     {
       "topic": "SoPoints Farming",
       "sentiment": "positive",
-      "description": "Daily routines and snapshot countdowns strong."
-    },
-    {
-      "topic": "Asset Requests",
-      "sentiment": "positive",
-      "description": "Team asking community what to add next (stocks, commodities)."
+      "description": "Daily routines strong."
     }
   ]
 }
