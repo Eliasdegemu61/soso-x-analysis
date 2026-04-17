@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-04-17T16:05:03.302753Z",
+    "lastUpdated": "2026-04-17T16:07:08.684934Z",
     "barometer": {
         "overallScore": 0,
         "label": "Cautious",
@@ -38,9 +38,9 @@
             }
         ]
     },
-    "detailedSummary": "No X posts were found for the specified search terms in the date range of April 17-18, 2026, as this period is in the future and no real data exists yet. Consequently, there is no sentiment to analyze, no farming activity or trading hype to report, and no feedback on deposit UX or notable frictions or requests. All metrics are zero due to the absence of any community engagement or official updates in this unavailable timeframe.",
+    "detailedSummary": "No posts were found in the specified future date range, resulting in neutral to non-existent sentiment with no observable farming activity, trading hype, or deposit UX feedback. There are no notable frictions or requests due to the absence of data. This analysis is based on the fact that the queried dates are in the future and no real X posts exist for that period.",
     "topEngagedPosts": [],
-    "summary": "No activity detectable in the specified future date range.",
-    "timestamp": "2026-04-17 (analyzed date)",
-    "analyzedPeriod": "2026-04-17 \u2192 2026-04-18"
+    "summary": "No community activity detected in the future date range.",
+    "timestamp": "2026-04-16 (analyzed date)",
+    "analyzedPeriod": "2026-04-16 \u2192 2026-04-17"
 }
