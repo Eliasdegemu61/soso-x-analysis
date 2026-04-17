@@ -1,44 +1,46 @@
 {
-    "lastUpdated": "2026-04-17T15:59:22.689084Z",
+    "lastUpdated": "2026-04-17T16:07:08.684934Z",
     "barometer": {
-        "overallScore": 75,
-        "label": "Bullish Grind",
+        "overallScore": 0,
+        "label": "Cautious",
         "trend": "+4",
-        "color": "#eab308",
+        "color": "#ef4444",
         "subMetrics": [
             {
                 "name": "Social Volume",
-                "score": 100,
+                "score": 0,
                 "weight": 20
             },
             {
                 "name": "Grok Sentiment",
-                "score": 44,
+                "score": 0,
                 "weight": 25
             },
             {
                 "name": "Farming Activity",
-                "score": 78,
+                "score": 0,
                 "weight": 20
             },
             {
                 "name": "Trading Hype",
-                "score": 85,
+                "score": 0,
                 "weight": 15
             },
             {
                 "name": "UX Deposit Feedback",
-                "score": 62,
+                "score": 0,
                 "weight": 10
             },
             {
                 "name": "Official Pulse",
-                "score": 90,
+                "score": 0,
                 "weight": 10
             }
         ]
     },
-    "summary": "Bullish vibes with high engagement",
+    "detailedSummary": "No posts were found in the specified future date range, resulting in neutral to non-existent sentiment with no observable farming activity, trading hype, or deposit UX feedback. There are no notable frictions or requests due to the absence of data. This analysis is based on the fact that the queried dates are in the future and no real X posts exist for that period.",
+    "topEngagedPosts": [],
+    "summary": "No community activity detected in the future date range.",
     "timestamp": "2026-04-16 (analyzed date)",
     "analyzedPeriod": "2026-04-16 \u2192 2026-04-17"
 }
