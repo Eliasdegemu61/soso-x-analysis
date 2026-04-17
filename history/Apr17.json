@@ -1,70 +1,44 @@
 {
-  "lastUpdated": "2026-04-17T08:16:35.528280Z",
-  "barometer": {
-    "overallScore": 90,
-    "label": "Farming Frenzy",
-    "trend": "+5",
-    "color": "#22c55e",
-    "subMetrics": [
-      {
-        "name": "Social Volume",
-        "score": 100,
-        "weight": 20
-      },
-      {
-        "name": "Grok Sentiment",
-        "score": 83,
-        "weight": 25
-      },
-      {
-        "name": "Farming Activity",
-        "score": 88,
-        "weight": 20
-      },
-      {
-        "name": "Trading Hype",
-        "score": 91,
-        "weight": 15
-      },
-      {
-        "name": "UX Deposit Feedback",
-        "score": 84,
-        "weight": 10
-      },
-      {
-        "name": "Official Pulse",
-        "score": 93,
-        "weight": 10
-      }
-    ]
-  },
-  "tradingInsights": {
-    "activeThemes": [
-      "$CL Crude Oil Perp Contest",
-      "CEX-to-DEX Deposits",
-      "SoPoints Farming"
-    ],
-    "hotSignals": [
-      "Deposit tutorial well received"
-    ],
-    "contestSignal": "Post PNL card \u2192 win 50 $SOSO (10 winners)"
-  },
-  "summary": "Farming Frenzy mode \u2014 strong praise for CEX-to-DEX deposit flow and $CL contest activity.",
-  "topTopics": [
-    {
-      "topic": "CEX-to-DEX Deposits",
-      "sentiment": "positive",
-      "description": "Official video praised for simple flow and clear rules."
+    "lastUpdated": "2026-04-17T15:59:57.980336Z",
+    "barometer": {
+        "overallScore": 83,
+        "label": "Farming Frenzy",
+        "trend": "+4",
+        "color": "#22c55e",
+        "subMetrics": [
+            {
+                "name": "Social Volume",
+                "score": 100,
+                "weight": 20
+            },
+            {
+                "name": "Grok Sentiment",
+                "score": 77,
+                "weight": 25
+            },
+            {
+                "name": "Farming Activity",
+                "score": 78,
+                "weight": 20
+            },
+            {
+                "name": "Trading Hype",
+                "score": 85,
+                "weight": 15
+            },
+            {
+                "name": "UX Deposit Feedback",
+                "score": 62,
+                "weight": 10
+            },
+            {
+                "name": "Official Pulse",
+                "score": 90,
+                "weight": 10
+            }
+        ]
     },
-    {
-      "topic": "$CL Perp Contest",
-      "sentiment": "hype",
-      "description": "Oil trading contest active."
-    },
-    {
-      "topic": "SoPoints Farming",
-      "sentiment": "positive",
-      "description": "Daily routines strong."
-    }
-  ]
+    "summary": "Bullish vibes with strong trading buzz, but UX needs polish",
+    "timestamp": "2026-04-17 (analyzed date)",
+    "analyzedPeriod": "2026-04-17 \u2192 2026-04-18"
 }
