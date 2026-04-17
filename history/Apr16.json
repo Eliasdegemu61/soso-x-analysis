@@ -1,0 +1,44 @@
+{
+    "lastUpdated": "2026-04-17T15:59:22.689084Z",
+    "barometer": {
+        "overallScore": 75,
+        "label": "Bullish Grind",
+        "trend": "+4",
+        "color": "#eab308",
+        "subMetrics": [
+            {
+                "name": "Social Volume",
+                "score": 100,
+                "weight": 20
+            },
+            {
+                "name": "Grok Sentiment",
+                "score": 44,
+                "weight": 25
+            },
+            {
+                "name": "Farming Activity",
+                "score": 78,
+                "weight": 20
+            },
+            {
+                "name": "Trading Hype",
+                "score": 85,
+                "weight": 15
+            },
+            {
+                "name": "UX Deposit Feedback",
+                "score": 62,
+                "weight": 10
+            },
+            {
+                "name": "Official Pulse",
+                "score": 90,
+                "weight": 10
+            }
+        ]
+    },
+    "summary": "Bullish vibes with high engagement",
+    "timestamp": "2026-04-16 (analyzed date)",
+    "analyzedPeriod": "2026-04-16 \u2192 2026-04-17"
+}
