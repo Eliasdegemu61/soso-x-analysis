@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-04-17T15:51:48.738113Z",
+    "lastUpdated": "2026-04-17T15:58:13.617431Z",
     "barometer": {
-        "overallScore": 82,
-        "label": "Farming Frenzy",
+        "overallScore": 78,
+        "label": "Bullish Grind",
         "trend": "+4",
-        "color": "#22c55e",
+        "color": "#eab308",
         "subMetrics": [
             {
                 "name": "Social Volume",
@@ -18,27 +18,27 @@
             },
             {
                 "name": "Farming Activity",
-                "score": 75,
+                "score": 78,
                 "weight": 20
             },
             {
                 "name": "Trading Hype",
-                "score": 82,
+                "score": 85,
                 "weight": 15
             },
             {
                 "name": "UX Deposit Feedback",
-                "score": 68,
+                "score": 62,
                 "weight": 10
             },
             {
                 "name": "Official Pulse",
-                "score": 90,
+                "score": 45,
                 "weight": 10
             }
         ]
     },
-    "summary": "The community is buzzing with excitement over SoDEX farming opportunities and smooth deposit experiences.",
-    "timestamp": "2026-04-15 (input date)",
-    "analyzedPeriod": "2026-04-15 to 2026-04-16"
+    "summary": "Bullish vibes with high engagement on farming and trading",
+    "timestamp": "2026-04-15 (analyzed date)",
+    "analyzedPeriod": "2026-04-15 \u2192 2026-04-16"
 }
