@@ -1,44 +1,46 @@
 {
-    "lastUpdated": "2026-04-17T15:59:57.980336Z",
+    "lastUpdated": "2026-04-17T16:05:03.302753Z",
     "barometer": {
-        "overallScore": 83,
-        "label": "Farming Frenzy",
+        "overallScore": 0,
+        "label": "Cautious",
         "trend": "+4",
-        "color": "#22c55e",
+        "color": "#ef4444",
         "subMetrics": [
             {
                 "name": "Social Volume",
-                "score": 100,
+                "score": 0,
                 "weight": 20
             },
             {
                 "name": "Grok Sentiment",
-                "score": 77,
+                "score": 0,
                 "weight": 25
             },
             {
                 "name": "Farming Activity",
-                "score": 78,
+                "score": 0,
                 "weight": 20
             },
             {
                 "name": "Trading Hype",
-                "score": 85,
+                "score": 0,
                 "weight": 15
             },
             {
                 "name": "UX Deposit Feedback",
-                "score": 62,
+                "score": 0,
                 "weight": 10
             },
             {
                 "name": "Official Pulse",
-                "score": 90,
+                "score": 0,
                 "weight": 10
             }
         ]
     },
-    "summary": "Bullish vibes with strong trading buzz, but UX needs polish",
+    "detailedSummary": "No X posts were found for the specified search terms in the date range of April 17-18, 2026, as this period is in the future and no real data exists yet. Consequently, there is no sentiment to analyze, no farming activity or trading hype to report, and no feedback on deposit UX or notable frictions or requests. All metrics are zero due to the absence of any community engagement or official updates in this unavailable timeframe.",
+    "topEngagedPosts": [],
+    "summary": "No activity detectable in the specified future date range.",
     "timestamp": "2026-04-17 (analyzed date)",
     "analyzedPeriod": "2026-04-17 \u2192 2026-04-18"
 }
