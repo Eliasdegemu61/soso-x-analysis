@@ -1,7 +1,7 @@
 {
-    "lastUpdated": "2026-04-17T17:29:57.532732Z",
+    "lastUpdated": "2026-04-17T17:32:13.818472Z",
     "barometer": {
-        "overallScore": 0,
+        "overallScore": 28,
         "label": "Cautious",
         "trend": "+4",
         "color": "#ef4444",
@@ -18,22 +18,22 @@
             },
             {
                 "name": "Farming Activity",
-                "score": 0,
+                "score": 50,
                 "weight": 20
             },
             {
                 "name": "Trading Hype",
-                "score": 0,
+                "score": 50,
                 "weight": 15
             },
             {
                 "name": "UX Deposit Feedback",
-                "score": 0,
+                "score": 50,
                 "weight": 10
             },
             {
                 "name": "Official Pulse",
-                "score": 0,
+                "score": 50,
                 "weight": 10
             }
         ]
@@ -51,28 +51,28 @@
         },
         {
             "name": "Farming Activity",
-            "score": 0,
+            "score": 50,
             "weight": 20
         },
         {
             "name": "Trading Hype",
-            "score": 0,
+            "score": 50,
             "weight": 15
         },
         {
             "name": "UX Deposit Feedback",
-            "score": 0,
+            "score": 50,
             "weight": 10
         },
         {
             "name": "Official Pulse",
-            "score": 0,
+            "score": 50,
             "weight": 10
         }
     ],
-    "detailedSummary": "No posts containing 'SoDEX', 'SoPoints', '$SOSO', or '@sodex_official' were found within the exact date range of 2026-04-14 to 2026-04-15 despite multiple searches using Top and Latest modes; some posts referenced SoDEX or SoPoints but lacked the required keywords or were outside the timeframe. Sentiment cannot be assessed due to absence of qualifying real posts. No evidence of farming activity, trading hype, friction, or user requests in the specified period. Activity appears non-existent for the queried terms on those dates.",
+    "detailedSummary": "No real X posts were found matching the query in the specified future date range, indicating zero activity for SoDEX or related terms. As a result, there is no real sentiment, farming, trading, or friction to analyze. This lack of data suggests the period is beyond current timelines and contains no verifiable content.",
     "topEngagedPosts": [],
-    "summary": "No qualifying posts found; zero activity on specified keywords and dates.",
+    "summary": "Complete absence of activity due to future dates.",
     "timestamp": "2026-04-14 (analyzed date)",
     "analyzedPeriod": "2026-04-14 \u2192 2026-04-15"
 }
