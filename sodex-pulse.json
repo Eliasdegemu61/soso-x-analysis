@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-04-17T15:59:22.689084Z",
+    "lastUpdated": "2026-04-17T15:59:57.980336Z",
     "barometer": {
-        "overallScore": 75,
-        "label": "Bullish Grind",
+        "overallScore": 83,
+        "label": "Farming Frenzy",
         "trend": "+4",
-        "color": "#eab308",
+        "color": "#22c55e",
         "subMetrics": [
             {
                 "name": "Social Volume",
@@ -13,7 +13,7 @@
             },
             {
                 "name": "Grok Sentiment",
-                "score": 44,
+                "score": 77,
                 "weight": 25
             },
             {
@@ -38,7 +38,7 @@
             }
         ]
     },
-    "summary": "Bullish vibes with high engagement",
-    "timestamp": "2026-04-16 (analyzed date)",
-    "analyzedPeriod": "2026-04-16 \u2192 2026-04-17"
+    "summary": "Bullish vibes with strong trading buzz, but UX needs polish",
+    "timestamp": "2026-04-17 (analyzed date)",
+    "analyzedPeriod": "2026-04-17 \u2192 2026-04-18"
 }
