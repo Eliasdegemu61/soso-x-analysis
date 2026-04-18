@@ -1,74 +1,64 @@
 {
   "date": "apr18",
-  "sentiment_score": 82,
+  "sentiment_score": 80,
   "hot_topics": [
     {
-      "topic": "SOPoints Farming Strategies",
-      "summary": "Users sharing tips and experiences on maximizing SOPoints through Sodex platform activities.",
+      "topic": "SoPoints Farming",
+      "summary": "Users are actively trading on SoDEX to earn SoPoints for the upcoming airdrop, with weekly distributions and referral boosts.",
       "related_posts": [
         {
-          "content": "Top SOPoints farming strat: Stake daily and refer friends! Up 500 points already #sodex #sopoints",
-          "url": "https://x.com/sodexfarmer/status/1781234567890"
+          "content": "I\u2019ve earned over 4,900 sPoints \ud83d\ude31 I joined one of the biggest airdrops right now, with 150M $SOSO tokens in the reward pool, valued at over $65M.",
+          "url": "https://x.com/allearning36/status/2045071827526111462"
         },
         {
-          "content": "Is SOPoints worth farming? My wallet shows 1200 pts in 3 days #sopoints #sodex",
-          "url": "https://x.com/cryptohustler/status/1781234567891"
-        },
-        {
-          "content": "Alert: New SOPoints multiplier event live on Sodex! Farm now \ud83d\ude80",
-          "url": "https://x.com/defiaddict/status/1781234567892"
+          "content": "did $1.2k volume last week on sodex using $5 Got 27 points in week 11",
+          "url": "https://x.com/vaibhavsingh634/status/2044272951344935401"
         }
       ]
     },
     {
-      "topic": "Sodex Platform Beta Launch",
-      "summary": "Discussions on the recent beta release, bugs, features, and user onboarding.",
+      "topic": "SoDEX Testnet Bug Bounty",
+      "summary": "SoDEX Testnet bug bounty rewarding SoPoints and $SOSO for trading data accuracy issues.",
       "related_posts": [
         {
-          "content": "Sodex beta is smooth! Connected wallet, earned first SOPoints instantly #sodex",
-          "url": "https://x.com/web3user/status/1781234567893"
-        },
-        {
-          "content": "Bug in Sodex beta: Points not updating? Anyone else? @sodex_official fix pls #sopoints",
-          "url": "https://x.com/betatester/status/1781234567894"
+          "content": "\ud83d\udea8 Find a trading-related bug on SoDEX Testnet and get rewarded. Valid bug reports may earn SoPoints and $SOSO.",
+          "url": "https://x.com/sodex_official/status/2043549836314804473"
         }
       ]
     }
   ],
   "official_announcements": [
     {
-      "content": "\ud83d\udea8 Official: SOPoints Season 1 starts now! Farm points for future airdrop. Details: link in bio. #sodex #sopoints",
-      "url": "https://x.com/sodex_official/status/1781000000000"
+      "content": "Scheduled SoDEX v3 Mainnet Upgrade: Taking Our High Performance Orderbook to the Next Level Dear SoDEX Community, From our earliest Testnet days to the bustling ecosystem we have built  today, your feedback and stress-testing have been the bedrock of our growth. To make your experience even better,  we are thrilled to announce the official launch of SoDEX v3. This major upgrade is designed to revolutionize our infrastructure, significantly enhancing the  block production stability and  API throughput. This ensures SoDEX can seamlessly serve millions of global traders on a concurrent basis with zero friction. Upgrade Schedule: \u23f0 Time: April 20, 2026, 6:00 \u2013 8:00 (UTC) - Estimated Duration: 2 Hours What to Expect: - Trade Access: The 'Trade' page (Spot & Perps) will be temporarily offline. During the upgrade, mark prices will not be updated and liquidations will not occur.  However, when the network upgrade is completed, mark prices will be updated to the latest and positions may be liquidated if the market has moved against them during the window. Users are encouraged to review their positions carefully prior to the upgrade and take actions as necessary. If you still have an open position when the upgrade starts, please return to SoDEX and monitor the position as soon as the upgrade is completed. - Wallet Services: Deposits and withdrawals will be paused . - Continuous Access: You can still access your Portfolio, Vault, and Referral pages throughout the process. Superior user experience must be powered by best-in-class infrastructure. Thank you for your support as we make our DEX faster, smoother and stronger! SoDEX Team April 18, 2026",
+      "url": "https://x.com/sodex_official/status/2045383419371335844"
     },
     {
-      "content": "Sodex Beta v0.9.2 released. Fixed UI issues and boosted SOPoints rewards by 20%. Update now!",
-      "url": "https://x.com/sodex_official/status/1781100000000"
+      "content": "We\u2019ve pushed another upgrade to SoDEX Testnet and fixed several important bugs. Testing is still open, and we\u2019d love everyone to keep going. For this round, please focus on trading data accuracy: prices, balances, order values, fills, position data, margin usage, and PnL. Available pairs: Spot: $SOSO, $ETH  Perps: $BTC, $ETH, $SOL Found an issue that affects trading data or execution? Report it through our ticket system.",
+      "url": "https://x.com/sodex_official/status/2044774176758829434"
+    },
+    {
+      "content": "$CL (WTI Crude Perp) is now live on SoDEX \ud83d\udee2\ufe0f Oil is back in focus. Hormuz-related tension has kept crude volatile. Goldman recently lowered its Q2 2026 WTI forecast on expectations the ceasefire may hold. Meanwhile, the next US\u2013Iran talks could happen as early as Apr 16. A bigger move may be close. So where does oil go next? Watch the full breakdown below \u2193 Trade $CL now: https://t.co/Kj8kg2heox #SoDEX #WTI #CrudeOil #Perps #Trading",
+      "url": "https://x.com/sodex_official/status/2044322307842420825"
     }
   ],
   "top_engaged_posts": [
     {
-      "username": "@sodexfarmer",
-      "content": "Top SOPoints farming strat: Stake daily and refer friends! Up 500 points already #sodex #sopoints",
-      "likes": 2456,
-      "url": "https://x.com/sodexfarmer/status/1781234567890"
-    },
-    {
-      "username": "@defiaddict",
-      "content": "Alert: New SOPoints multiplier event live on Sodex! Farm now \ud83d\ude80 #sopoints",
-      "likes": 1892,
-      "url": "https://x.com/defiaddict/status/1781234567892"
-    },
-    {
-      "username": "@web3user",
-      "content": "Sodex beta is smooth! Connected wallet, earned first SOPoints instantly #sodex",
-      "likes": 1678,
-      "url": "https://x.com/web3user/status/1781234567893"
+      "username": "@sodex_official",
+      "content": "Not sure how on-chain DEX deposits actually work? SoDEX lets you deposit straight from any CEX \u2014 same flow as a normal withdrawal on CEX. A few things worth double-checking first: \u2192 $5 minimum per deposit \u2014 anything less won't credit \u2192 Only supported tokens \u2014 wrong token = permanent loss \u2192 Pick the right network \u2014 wrong chain means funds are gone on-chain \u2192 Always verify the address \u2014 scan the QR or copy-paste, never retype Funds land in a couple of minutes. Then you're ready to open a position. \ud83c\udfa5 SoDEX 101 \u00b7 How to Deposit Safely 60s walkthrough \u2193",
+      "likes": 268,
+      "url": "https://x.com/sodex_official/status/2045012671293239391"
     },
     {
       "username": "@sodex_official",
-      "content": "\ud83d\udea8 Official: SOPoints Season 1 starts now! Farm points for future airdrop.",
-      "likes": 3124,
-      "url": "https://x.com/sodex_official/status/1781000000000"
+      "content": "What would you search for on SoDEX? \ud83d\udd0d Stocks, commodities, crypto \u2014 type any name and the ticker auto-matches. Drop the asset you want to trade in the replies \ud83d\udc47 Top requests maybe get listed next. #SoDEXDrops #SoDEX #ValueChain",
+      "likes": 260,
+      "url": "https://x.com/sodex_official/status/2044626840464007263"
+    },
+    {
+      "username": "@sodex_official",
+      "content": "\ud83d\udea8 Find a trading-related bug on SoDEX Testnet and get rewarded. ValueChain V3 is now live, and we\u2019re inviting traders, users, and builders to test trading data accuracy on SoDEX Testnet. \ud83d\udd10Key Areas to Test -Trading (Spot / Perps) \u2014 especially the accuracy of trading-related figures and calculations, including displayed prices, balances, order values, filled amounts, position data, margin usage, and PnL. \u2705 Available pairs for testing: - Spot: $SOSO, $ETH - Perps: $BTC, $ETH, $SOL Valid bug reports may earn SoPoints and $SOSO. Minor UI issues or general wallet issues are not eligible. \u23f0 Priority review window: - Apr 13,  UTC \u2013 Apr 19,  UTC \ud83d\udd17 Testnet: https://t.co/uf4fHVs4k0 \ud83d\udca7 Faucet: https://t.co/FMXSt26eWr \ud83c\udfab Report bugs: https://t.co/u03QiZfEj0 Break it before mainnet.",
+      "likes": 337,
+      "url": "https://x.com/sodex_official/status/2043549836314804473"
     }
   ]
 }
