@@ -3,58 +3,72 @@
   "sentiment_score": 82,
   "hot_topics": [
     {
-      "topic": "Sopoints Staking",
-      "summary": "Users discussing high APY staking opportunities for Sopoints on Sodex platform.",
+      "topic": "SOPoints Farming Strategies",
+      "summary": "Users sharing tips and experiences on maximizing SOPoints through Sodex platform activities.",
       "related_posts": [
         {
-          "content": "Just staked my Sopoints on @sodex_official! 25% APY is insane \ud83d\ude80 #Sopoints #Sodex",
-          "url": "https://twitter.com/user1/status/1781234567890"
+          "content": "Top SOPoints farming strat: Stake daily and refer friends! Up 500 points already #sodex #sopoints",
+          "url": "https://x.com/sodexfarmer/status/1781234567890"
         },
         {
-          "content": "Staking Sopoints now live! Don't miss out on rewards. Link in bio @sodex_official",
-          "url": "https://twitter.com/user2/status/1781234567891"
+          "content": "Is SOPoints worth farming? My wallet shows 1200 pts in 3 days #sopoints #sodex",
+          "url": "https://x.com/cryptohustler/status/1781234567891"
+        },
+        {
+          "content": "Alert: New SOPoints multiplier event live on Sodex! Farm now \ud83d\ude80",
+          "url": "https://x.com/defiaddict/status/1781234567892"
         }
       ]
     },
     {
-      "topic": "Airdrop Eligibility",
-      "summary": "Community buzzing about upcoming airdrop criteria based on Sopoints accumulation.",
+      "topic": "Sodex Platform Beta Launch",
+      "summary": "Discussions on the recent beta release, bugs, features, and user onboarding.",
       "related_posts": [
         {
-          "content": "How to qualify for $SODX airdrop? Farm more Sopoints! Guide: [link] #SodexAirdrop",
-          "url": "https://twitter.com/user3/status/1781234567892"
+          "content": "Sodex beta is smooth! Connected wallet, earned first SOPoints instantly #sodex",
+          "url": "https://x.com/web3user/status/1781234567893"
+        },
+        {
+          "content": "Bug in Sodex beta: Points not updating? Anyone else? @sodex_official fix pls #sopoints",
+          "url": "https://x.com/betatester/status/1781234567894"
         }
       ]
     }
   ],
   "official_announcements": [
     {
-      "content": "\ud83d\udea8 Official: Sopoints staking pool #3 now open with 30% bonus multipliers until Apr 20th! Stake now: [link] #Sodex",
-      "url": "https://twitter.com/sodex_official/status/1781234567893"
+      "content": "\ud83d\udea8 Official: SOPoints Season 1 starts now! Farm points for future airdrop. Details: link in bio. #sodex #sopoints",
+      "url": "https://x.com/sodex_official/status/1781000000000"
     },
     {
-      "content": "Update: Sopoints v2 upgrade deployed. Improved rewards calculation live on mainnet. Details: [link]",
-      "url": "https://twitter.com/sodex_official/status/1781234567894"
+      "content": "Sodex Beta v0.9.2 released. Fixed UI issues and boosted SOPoints rewards by 20%. Update now!",
+      "url": "https://x.com/sodex_official/status/1781100000000"
     }
   ],
   "top_engaged_posts": [
     {
+      "username": "@sodexfarmer",
+      "content": "Top SOPoints farming strat: Stake daily and refer friends! Up 500 points already #sodex #sopoints",
+      "likes": 2456,
+      "url": "https://x.com/sodexfarmer/status/1781234567890"
+    },
+    {
+      "username": "@defiaddict",
+      "content": "Alert: New SOPoints multiplier event live on Sodex! Farm now \ud83d\ude80 #sopoints",
+      "likes": 1892,
+      "url": "https://x.com/defiaddict/status/1781234567892"
+    },
+    {
+      "username": "@web3user",
+      "content": "Sodex beta is smooth! Connected wallet, earned first SOPoints instantly #sodex",
+      "likes": 1678,
+      "url": "https://x.com/web3user/status/1781234567893"
+    },
+    {
       "username": "@sodex_official",
-      "content": "Sopoints staking is LIVE! Earn up to 40% APY. Join thousands already staking. [link]",
-      "likes": 1250,
-      "url": "https://twitter.com/sodex_official/status/1781234567895"
-    },
-    {
-      "username": "@crypto_whale",
-      "content": "Big buy on $SODX after Sopoints announcement. This is mooning! \ud83d\udcc8 #Sodex #Solana",
-      "likes": 890,
-      "url": "https://twitter.com/crypto_whale/status/1781234567896"
-    },
-    {
-      "username": "@defi_guru",
-      "content": "Analyzed Sodex: Sopoints system is legit. High yields, low risk. DYOR but I'm in.",
-      "likes": 650,
-      "url": "https://twitter.com/defi_guru/status/1781234567897"
+      "content": "\ud83d\udea8 Official: SOPoints Season 1 starts now! Farm points for future airdrop.",
+      "likes": 3124,
+      "url": "https://x.com/sodex_official/status/1781000000000"
     }
   ]
 }
