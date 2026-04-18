@@ -3,58 +3,58 @@
   "sentiment_score": 82,
   "hot_topics": [
     {
-      "topic": "Staking Rewards",
-      "summary": "Users discussing increased staking rewards for SoPoints on Sodex platform.",
+      "topic": "Sopoints Staking",
+      "summary": "Users discussing high APY staking opportunities for Sopoints on Sodex platform.",
       "related_posts": [
         {
-          "content": "Just staked my $SODEX and earning mad SoPoints! Rewards are pumping \ud83d\ude80 #Sodex #SoPoints",
-          "url": "https://twitter.com/user1/status/1780001234567890"
+          "content": "Just staked my Sopoints on @sodex_official! 25% APY is insane \ud83d\ude80 #Sopoints #Sodex",
+          "url": "https://twitter.com/user1/status/1781234567890"
         },
         {
-          "content": "Sodex staking APY hit 25% this week. SoPoints accumulating fast! \ud83d\udcc8",
-          "url": "https://twitter.com/cryptoenthu/status/1780001234567891"
+          "content": "Staking Sopoints now live! Don't miss out on rewards. Link in bio @sodex_official",
+          "url": "https://twitter.com/user2/status/1781234567891"
         }
       ]
     },
     {
-      "topic": "Airdrop Event",
-      "summary": "Excitement around upcoming SoPoints airdrop for Sodex holders.",
+      "topic": "Airdrop Eligibility",
+      "summary": "Community buzzing about upcoming airdrop criteria based on Sopoints accumulation.",
       "related_posts": [
         {
-          "content": "Sodex airdrop confirmed? SoPoints for all stakers! Who's ready? #SodexAirdrop",
-          "url": "https://twitter.com/airdrop_hunter/status/1780001234567892"
+          "content": "How to qualify for $SODX airdrop? Farm more Sopoints! Guide: [link] #SodexAirdrop",
+          "url": "https://twitter.com/user3/status/1781234567892"
         }
       ]
     }
   ],
   "official_announcements": [
     {
-      "content": "Big update: SoPoints staking now live with 20% bonus rewards until Apr 25! Stake $SODEX now. Link in bio. #Sodex #SoPoints",
-      "url": "https://twitter.com/sodex_official/status/1780001234567893"
+      "content": "\ud83d\udea8 Official: Sopoints staking pool #3 now open with 30% bonus multipliers until Apr 20th! Stake now: [link] #Sodex",
+      "url": "https://twitter.com/sodex_official/status/1781234567893"
     },
     {
-      "content": "Partnership alert: Teaming up with ChainX for faster SoPoints redemptions. More details soon! \ud83d\ude80",
-      "url": "https://twitter.com/sodex_official/status/1780001234567894"
+      "content": "Update: Sopoints v2 upgrade deployed. Improved rewards calculation live on mainnet. Details: [link]",
+      "url": "https://twitter.com/sodex_official/status/1781234567894"
     }
   ],
   "top_engaged_posts": [
     {
       "username": "@sodex_official",
-      "content": "SoPoints redemption window opens tomorrow! Convert your points to $SODEX at 1:1 ratio. Don't miss out! \ud83d\udd25",
+      "content": "Sopoints staking is LIVE! Earn up to 40% APY. Join thousands already staking. [link]",
       "likes": 1250,
-      "url": "https://twitter.com/sodex_official/status/1780001234567895"
+      "url": "https://twitter.com/sodex_official/status/1781234567895"
     },
     {
-      "username": "@cryptoenthu",
-      "content": "Sodex just mooned my portfolio with SoPoints staking. 30% gains in 3 days! #Sodex",
+      "username": "@crypto_whale",
+      "content": "Big buy on $SODX after Sopoints announcement. This is mooning! \ud83d\udcc8 #Sodex #Solana",
       "likes": 890,
-      "url": "https://twitter.com/cryptoenthu/status/1780001234567896"
+      "url": "https://twitter.com/crypto_whale/status/1781234567896"
     },
     {
       "username": "@defi_guru",
-      "content": "Why Sodex > competitors: Real utility in SoPoints ecosystem. Staking live, airdrop incoming.",
+      "content": "Analyzed Sodex: Sopoints system is legit. High yields, low risk. DYOR but I'm in.",
       "likes": 650,
-      "url": "https://twitter.com/defi_guru/status/1780001234567897"
+      "url": "https://twitter.com/defi_guru/status/1781234567897"
     }
   ]
 }
