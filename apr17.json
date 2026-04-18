@@ -1,0 +1,35 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on April 17-18, 2026, is predominantly positive but low-volume, with users praising it as a clarity tool in crypto data overload, highlighting its on-chain analytics, macro signals, and unified insights for smarter trading decisions. Key discussions revolve around quoting official SoSoValue Flash updates on geopolitics like Israel-Lebanon truce, US-Iran talks, ETF inflows for SOL/XRP/BTC/ETH, and AI market rallies, often sharing SoSoValue links for deeper info; users also mention app usage, account connections, whitelist for SoDEX, and upcoming EXP season airdrop snapshots urging verification and trading. Metrics show minimal engagement overall\u2014most posts have 0-1 likes/reposts/views under 50, except one promotional post by @goodybtc with 15 likes, 1 repost, 177 views emphasizing early user advantages, indicating niche but loyal interest amid sparse activity excluding official accounts.",
+        "sodex": "No significant mentions found for Sodex independent of SoSoValue ecosystem; discussions are limited to brief references in SoSoValue contexts like trading on SoDEX L1 order book for SSI tokens such as MAG7.ssi and speculation on potential SoDEX token drop with decent liquidity but zero hype.",
+        "ssi": "SSI (SoSoValue Indexes) sees neutral to positive sentiment in low-engagement mentions, tied to ETF flow watches and passive investing via bundled on-chain portfolios like MAG7.ssi; one reply highlights it as 'your chance' to official SSI post on inflows, but no standalone discussions or questions, with metrics mirroring overall low activity (0-1 likes)."
+    },
+    "top_questions": {
+        "sosovalue": [],
+        "sodex": [
+            "wonder what SoDEX will drop. zero hype, but liquidity seems okay."
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@Mommagadger",
+            "content": "@SoSoValueCrypto https://t.co/sXEdpRpLnQ",
+            "engagement": "Likes=1, Reposts=0, Quotes=0, Replies=0, Views=4",
+            "post_link": "https://x.com/Mommagadger/status/2044998594550530104"
+        },
+        {
+            "username": "@goodybtc",
+            "content": "If you\u2019re still sleeping on SoSoValue, you\u2019re missing the bigger picture... [full post praising SoSoValue data insights and airdrop]",
+            "engagement": "Likes=15, Reposts=1, Quotes=0, Replies=15, Views=177",
+            "post_link": "https://x.com/goodybtc/status/2045187751570743341"
+        },
+        {
+            "username": "@bbrainman",
+            "content": "Announcement @SoSoValueCrypto !! My former X account... Pls let it be worth it\ud83d\ude4f.",
+            "engagement": "Likes=1, Reposts=1, Quotes=0, Replies=0, Views=10",
+            "post_link": "https://x.com/bbrainman/status/2045059038661038168"
+        }
+    ],
+    "timestamp": "2026-04-18 06:02:38"
+}
