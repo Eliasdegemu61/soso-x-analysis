@@ -1,43 +1,46 @@
 {
     "summary": {
-        "sosovalue": "On April 18, 2026, SoSoValue dominated discussions with its Buildathon announcement, offering a 10,000 USDC prize pool across three waves to encourage solo developers to build AI-powered on-chain finance applications using their comprehensive infrastructure including news, data, indexes, APIs, and order books. Users actively quoted and promoted the event, highlighting its potential for one-person teams to create empires, while sharing ETF inflow data like $13M into SOL spot ETFs sourced from SoSoValue. The $SOSO token traded around $0.40-$0.43 with minor volatility and a noted 5.55% dip on Bybit, but sentiment remained bullish amid ecosystem utility promotions and airdrop talks.",
-        "sodex": "Conversations focused on the scheduled SoDEX v3 mainnet upgrade on April 20 from 6-8 UTC, promising enhanced block production stability and API throughput to support millions of traders. Users shared warnings about paused trading, deposits, and withdrawals during the window, urging position reviews to avoid post-upgrade liquidations. Some expressed frustration with SoDEX vault deposits not registering for SoSoValue tasks like probability checks, but overall anticipation was positive for improved performance.",
-        "ssi": "No significant mentions found for SSI Index specifically; sparse references to 'SSI Layer1 index' noted a 3% 24-hour loss, and 'SSI staking' was mentioned as a factor for better SoSoValue reward allocations alongside SoDEX tasks. Limited engagement suggests neutral to slightly bearish sentiment on index performance with no broader discussions."
+        "sosovalue": "On April 18, 2026, SoSoValue generated strong positive sentiment through community discussions on Season 2 airdrop farming, with users claiming daily EXP, optimizing real-user probability via tasks like check-ins, SoDEX trading, and X engagement to boost allocations beyond mere EXP counts. The launch of a Buildathon offering 10,000 USDC in prizes for building on their AI-powered infrastructure\u2014including news, data, indexes, trading APIs, and SoDEX\u2014sparked excitement among solo developers aiming to create on-chain finance businesses. Users expressed optimism about upcoming snapshots and rewards, emphasizing consistency as key to success, while data reports on ETF flows further highlighted the platform's utility.",
+        "sodex": "SoDEX buzzed with anticipation on April 18 following the announcement of a v3 mainnet upgrade on April 20, promising enhanced stability and scalability for high-volume trading. Farmers actively traded spot and perps to accumulate SoPoints and volumes, tying into SoSoValue airdrop eligibility, with strategies focusing on avoiding liquidations during maintenance. Sentiment remains bullish as users view the upgrade and point farming as pathways to substantial rewards.",
+        "ssi": "No significant mentions found."
     },
     "top_questions": {
         "sosovalue": [
-            "Am i the Only one stuck at this Level on Soso value Probability check?"
+            "Am I the only one stuck at this level on SoSoValue Probability check? How did you complete yours?",
+            "Have you finished your verification for the snapshot?",
+            "Which tasks are you strong on: daily check-ins, EXP claims, SoDEX trading, X engagement, or liquidity staking?"
         ],
         "sodex": [
-            "How did you complete yours? [regarding SoDEX vault deposits for SoSoValue tasks]"
+            "How much does it cost to reach 1 million volume in SoDEX?",
+            "What happens to open positions during the v3 upgrade?"
         ],
         "ssi": []
     },
     "top_engaged_posts": [
         {
-            "username": "@_harsh__yadav_",
-            "content": "Let\u2019s talk about reality of @SoSoValueCrypto rewards\u2026 \ud83d\udc40\ud83e\udd76 \ud83d\udd38In Season 1, we saw very different outcomes: \u2022 Some users earned ~$300 for 1M EXP \u2022 Some got around ~$100 for 1M EXP...",
-            "engagement": "266 likes, 40 reposts, 3 quotes, 51 replies",
-            "url": "https://x.com/_harsh__yadav_/status/2045450699249737816"
+            "username": "Emmy_Crrypto",
+            "content": "2M EXP claimed successfully for today on $SOSO #SoSoValue Are you ready for snapshot?",
+            "engagement": "Likes=110, Reposts=5, Quotes=1, Replies=22, Views=3275",
+            "url": "https://x.com/Emmy_Crrypto/status/2045509596643475690"
         },
         {
-            "username": "@Szymansk_ii",
+            "username": "Szymansk_ii",
             "content": "\ud83d\udea8Am i the Only one stuck at this Level on Soso value Probability check. I've sent funds multiple times to the SoDEX Vault, I've also deposited but nothing works. How did you complete yours?",
-            "engagement": "101 likes, 2 reposts, 0 quotes, 39 replies",
+            "engagement": "Likes=101, Reposts=2, Quotes=0, Replies=41, Views=3853",
             "url": "https://x.com/Szymansk_ii/status/2045496572582969665"
         },
         {
-            "username": "@Victorerick001",
-            "content": "Yo it's time to build on @SoSoValueCrypto In the old days, to start a finance business you needed a big team... Sosovalue makes it easy by giving you: \u2022 Real-time news \u2022 Market data...",
-            "engagement": "11 likes, 0 reposts, 1 quote, 8 replies",
-            "url": "https://x.com/Victorerick001/status/2045489025822179713"
+            "username": "whitelisttakip",
+            "content": "\ud83d\udce2 Sodex / @sodex_official alt\u0131n f\u0131rsat m\u0131 ? 10K USD hedefi gelir mi ? Olas\u0131 k\u00f6t\u00fc senaryolarda bile 1 Soso Point de\u011feri 0.50 USD den a\u015fa\u011f\u0131 beklenmiyor. ...",
+            "engagement": "Likes=18, Reposts=1, Quotes=0, Replies=4, Views=1563",
+            "url": "https://x.com/whitelisttakip/status/2045562572615938273"
         },
         {
-            "username": "@AminuCryptoLabs",
-            "content": "Scheduled SoDEX v3 Mainnet Upgrade: Taking Our High Performance Orderbook to the Next Level Dear SoDEX Community... Upgrade Schedule: \u23f0 Time: April 20, 2026, 6:00 \u2013 8:00 (UTC)...",
-            "engagement": "7 likes, 0 reposts, 0 quotes, 1 reply",
-            "url": "https://x.com/AminuCryptoLabs/status/2045409403390530009"
+            "username": "wublockchain12",
+            "content": "\u5434\u8bf4\u83b7\u6089\uff0c\u636e SoSoValue \u6570\u636e\uff0c\u6628\u65e5\uff08\u7f8e\u4e1c\u65f6\u95f4 4 \u6708 17 \u65e5\uff09\u6bd4\u7279\u5e01\u73b0\u8d27 ETF \u603b\u51c0\u6d41\u5165 6.64 \u4ebf\u7f8e\u5143\uff0c\u6301\u7eed 4 \u65e5\u51c0\u6d41\u5165\u3002\u4ee5\u592a\u574a\u73b0\u8d27 ETF \u603b\u51c0\u6d41\u5165 1.27 \u4ebf\u7f8e\u5143\uff0c\u6301\u7eed 7 \u65e5\u51c0\u6d41\u5165\u3002",
+            "engagement": "Likes=4, Reposts=1, Quotes=0, Replies=4, Views=2918",
+            "url": "https://x.com/wublockchain12/status/2045359818815537186"
         }
     ],
-    "timestamp": "2026-04-19 08:52:23"
+    "timestamp": "2026-04-19 09:45:19"
 }
