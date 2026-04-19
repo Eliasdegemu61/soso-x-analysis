@@ -1,0 +1,78 @@
+{
+    "lastUpdated": "2026-04-19T08:22:54.960254Z",
+    "barometer": {
+        "overallScore": 28,
+        "label": "Cautious",
+        "trend": "+4",
+        "color": "#ef4444",
+        "subMetrics": [
+            {
+                "name": "Social Volume",
+                "score": 0,
+                "weight": 20
+            },
+            {
+                "name": "Grok Sentiment",
+                "score": 0,
+                "weight": 25
+            },
+            {
+                "name": "Farming Activity",
+                "score": 50,
+                "weight": 20
+            },
+            {
+                "name": "Trading Hype",
+                "score": 50,
+                "weight": 15
+            },
+            {
+                "name": "UX Deposit Feedback",
+                "score": 50,
+                "weight": 10
+            },
+            {
+                "name": "Official Pulse",
+                "score": 50,
+                "weight": 10
+            }
+        ]
+    },
+    "subMetrics": [
+        {
+            "name": "Social Volume",
+            "score": 0,
+            "weight": 20
+        },
+        {
+            "name": "Grok Sentiment",
+            "score": 0,
+            "weight": 25
+        },
+        {
+            "name": "Farming Activity",
+            "score": 50,
+            "weight": 20
+        },
+        {
+            "name": "Trading Hype",
+            "score": 50,
+            "weight": 15
+        },
+        {
+            "name": "UX Deposit Feedback",
+            "score": 50,
+            "weight": 10
+        },
+        {
+            "name": "Official Pulse",
+            "score": 50,
+            "weight": 10
+        }
+    ],
+    "detailedSummary": "No real X posts were found for the specified query in the given future date range, indicating a complete absence of activity related to SoDEX or SoPoints. This lack of data suggests no sentiment, farming, or trading discussions occurred during this period. There is no evidence of any friction or engagement as no posts exist to analyze.",
+    "topEngagedPosts": [],
+    "summary": "No activity detected in the queried period.",
+    "timestamp": "2026-04-18 (analyzed date)",
+    "analyzedPeriod": "2026-04-18 \u2192 2026-04-19"
+}
