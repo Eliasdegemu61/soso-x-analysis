@@ -3,62 +3,64 @@
   "sentiment_score": 75,
   "hot_topics": [
     {
-      "topic": "SoPoints Weekly Distribution",
-      "summary": "Community members sharing their weekly SoPoints earnings, rankings, and referral boosts",
+      "topic": "SoPoints Weekly Snapshot",
+      "summary": "W11 Snapshot has been taken Another week locked in & we are roughly half way through the Season 1.",
       "related_posts": [
         {
-          "content": "Sodex Week 10 points have been distributed \ud83c\udf89\n\nThis week, I earned 830 points and moved up to 145th place\n\nThere\u2019s not much to say. I trust @sodex_official and will continue to conduct all my transactions here.\n\nIn the worst-case scenario, I expect 1 point to be worth between $0.30 and $0.50\n\nYou still have three months to get started. It\u2019s not too late, but it\u2019s not too early either.\n\nGet a 5% SoPoints Boost!",
-          "url": "https://x.com/jose_donpablo/status/2044021606482120993"
-        },
-        {
-          "content": "UPDATE!!!\n\nWeek 10 SoPoints have now been updated and added to your SoDEX account.\n\nGo and check your account to confirm that your points have reflected.\n\nWith 153k total users and about half of that only being active, coupled with a reward pool of 150M $SOSO. I believe SoDEX Mainnet Airdrop will cook really good for those who take it seriously. \n\nHow many points do you have so far?\n\nWant to get started? It's simple, Go to:\nhttps://t.co/GULZELAkQf\n- Use code: JVFWURPI \n- Sign in with your wallet \n- Click deposit funds \n- Fund your account \n- Trade Spot or Futures \n- Accumulate points (Credited at the end of every week)\n- Finished \u2705\n\nSee you on the winning side!",
-          "url": "https://x.com/MrMatok/status/2044707859309506621"
+          "content": "\ud83d\udcf8W11 Snapshot has been taken Another week locked in & we are roughly half way through the Season 1. You dont wanna misse out on SoDEX S1 and/or boost your points by 5% for life .. Use code SOSO on register or \ud83d\udc47 https://sodex.com/join/SOSO",
+          "url": "https://x.com/So_Points/status/2045582196879024481"
         }
       ]
     },
     {
-      "topic": "SoDEX Trading Activity",
-      "summary": "Discussions on trading volumes, API access, and asset watchlists including $CL oil",
+      "topic": "SoDEX Mainnet Upgrade",
+      "summary": "Scheduled SoDEX v3 Mainnet Upgrade: Taking Our High Performance Orderbook to the Next Level",
       "related_posts": [
         {
-          "content": "I\u2019m really impressed with how @sodex_official  is simplifying the entry for automated trading. \n\nThose of us in Silver tier can now access the API application \n\ud83d\udc49 https://sodex.com/apikeys\n\nIf you\u2019ve been looking for a way to bridge the gap between your trading strategy and automated execution, this is definitely worth watching. \ud83d\udc47\ud83c\udfa5\ud83d\udcca\n\nIn my opinion, being able to plug in an LLM to trade on SoDEX opens up so many possibilities for sentiment-based strategies and complex data analysis.\n\nTrade top Crypto and Stocks on SoDEX. Share 1M SoPoints weekly rewards.\nJoin SoDEX Mainnet with my referral code and get a 5% SoPoints Boost\nhttps://t.co/jsunScS4Kt\n\n #SoDEX #Trading",
-          "url": "https://x.com/Victorerick001/status/2043694655666032925"
+          "content": "Scheduled SoDEX v3 Mainnet Upgrade: Taking Our High Performance Orderbook to the Next Level Dear SoDEX Community, From our earliest Testnet days to the bustling ecosystem we have built  today, your feedback and stress-testing have been the bedrock of our growth. To make your experience even better,  we are thrilled to announce the official launch of SoDEX v3.",
+          "url": "https://x.com/sodex_official/status/2045383419371335844"
         }
       ]
     }
   ],
   "official_announcements": [
     {
-      "content": "Scheduled SoDEX v3 Mainnet Upgrade: Taking Our High Performance Orderbook to the Next Level\n\nDear SoDEX Community,\nFrom our earliest Testnet days to the bustling ecosystem we have built  today, your feedback and stress-testing have been the bedrock of our growth. To make your experience even better,  we are thrilled to announce the official launch of SoDEX v3.\n\nThis major upgrade is designed to revolutionize our infrastructure, significantly enhancing the  block production stability and  API throughput. This ensures SoDEX can seamlessly serve millions of global traders on a concurrent basis with zero friction.\n\nUpgrade Schedule:\n\u23f0 Time: April 20, 2026, 6:00 \u2013 8:00 (UTC)\n- Estimated Duration: 2 Hours\n\nWhat to Expect:\n- Trade Access: The 'Trade' page (Spot & Perps) will be temporarily offline. During the upgrade, mark prices will not be updated and liquidations will not occur.  However, when the network upgrade is completed, mark prices will be updated to the latest and positions may be liquidated if the market has moved against them during the window. Users are encouraged to review their positions carefully prior to the upgrade and take actions as necessary. If you still have an open position when the upgrade starts, please return to SoDEX and monitor the position as soon as the upgrade is completed.\n- Wallet Services: Deposits and withdrawals will be paused .\n- Continuous Access: You can still access your Portfolio, Vault, and Referral pages throughout the process.\n\nSuperior user experience must be powered by best-in-class infrastructure. Thank you for your support as we make our DEX faster, smoother and stronger!\n\nSoDEX Team April 18, 2026",
+      "content": "Scheduled SoDEX v3 Mainnet Upgrade: Taking Our High Performance Orderbook to the Next Level Dear SoDEX Community, From our earliest Testnet days to the bustling ecosystem we have built  today, your feedback and stress-testing have been the bedrock of our growth. To make your experience even better,  we are thrilled to announce the official launch of SoDEX v3. This major upgrade is designed to revolutionize our infrastructure, significantly enhancing the  block production stability and  API throughput. This ensures SoDEX can seamlessly serve millions of global traders on a concurrent basis with zero friction. Upgrade Schedule: \u23f0 Time: April 20, 2026, 6:00 \u2013 8:00 (UTC) - Estimated Duration: 2 Hours What to Expect: - Trade Access: The 'Trade' page (Spot & Perps) will be temporarily offline. During the upgrade, mark prices will not be updated and liquidations will not occur.  However, when the network upgrade is completed, mark prices will be updated to the latest and positions may be liquidated if the market has moved against them during the window. Users are encouraged to review their positions carefully prior to the upgrade and take actions as necessary. If you still have an open position when the upgrade starts, please return to SoDEX and monitor the position as soon as the upgrade is completed. - Wallet Services: Deposits and withdrawals will be paused . - Continuous Access: You can still access your Portfolio, Vault, and Referral pages throughout the process. Superior user experience must be powered by best-in-class infrastructure. Thank you for your support as we make our DEX faster, smoother and stronger! SoDEX Team April 18, 2026",
       "url": "https://x.com/sodex_official/status/2045383419371335844"
     },
     {
-      "content": "Not sure how on-chain DEX deposits actually work?\n\nSoDEX lets you deposit straight from any CEX \u2014 same flow as a normal withdrawal on CEX.\n\nA few things worth double-checking first:\n\n\u2192 $5 minimum per deposit \u2014 anything less won't credit\n\u2192 Only supported tokens \u2014 wrong token = permanent loss\n\u2192 Pick the right network \u2014 wrong chain means funds are gone on-chain\n\u2192 Always verify the address \u2014 scan the QR or copy-paste, never retype\n\nFunds land in a couple of minutes. Then you're ready to open a position.\n\n\ud83c\udfa5 SoDEX 101 \u00b7 How to Deposit Safely\n\n60s walkthrough \u2193",
+      "content": "Not sure how on-chain DEX deposits actually work? SoDEX lets you deposit straight from any CEX \u2014 same flow as a normal withdrawal on CEX. A few things worth double-checking first: \u2192 $5 minimum per deposit \u2014 anything less won't credit \u2192 Only supported tokens \u2014 wrong token = permanent loss \u2192 Pick the right network \u2014 wrong chain means funds are gone on-chain \u2192 Always verify the address \u2014 scan the QR or copy-paste, never retype Funds land in a couple of minutes. Then you're ready to open a position. \ud83c\udfa5 SoDEX 101 \u00b7 How to Deposit Safely 60s walkthrough \u2193",
       "url": "https://x.com/sodex_official/status/2045012671293239391"
     },
     {
-      "content": "$CL (WTI Crude Perp) is now live on SoDEX \ud83d\udee2\ufe0f\n\nOil is back in focus.\n\nHormuz-related tension has kept crude volatile.\nGoldman recently lowered its Q2 2026 WTI forecast on expectations the ceasefire may hold.\n\nMeanwhile, the next US\u2013Iran talks could happen as early as Apr 16.\n\nA bigger move may be close.\n\nSo where does oil go next?\n\nWatch the full breakdown below \u2193\n\nTrade $CL now: https://t.co/Kj8kg2heox\n\n#SoDEX #WTI #CrudeOil #Perps #Trading",
-      "url": "https://x.com/sodex_official/status/2044322307842420825"
+      "content": "$CL Perps are now live on SoDEX. Trade $CL with up to 20x leverage on SoDEX and get exposure with speed, flexibility, and deep on-chain execution. Start trading: https://sodex.com/trade/futures/CL-USD #SoDEX #Perps #CL #Oil #CryptoTrading #DeFi",
+      "url": "https://x.com/sodex_official/status/2044048830552064060"
     }
   ],
   "top_engaged_posts": [
     {
-      "username": "@SosovalueVN",
-      "content": "\ud83d\udea8 SoSoValue Flash: \u0110\u00e0m ph\u00e1n \u0111\u1ed5 v\u1ee1 & phong t\u1ecfa eo bi\u1ec3n, Trump tri\u1ec3n khai \u201cMaximum Pressure\u201d 2.0\n\n\ud83d\udca5 Catalyst c\u1ed1t l\u00f5i: \u0110\u00e0m ph\u00e1n \u0111\u00ecnh tr\u1ec7, phong t\u1ecfa ch\u00ednh th\u1ee9c c\u00f3 hi\u1ec7u l\u1ef1c\n\nCu\u1ed9c \u0111\u00e0m ph\u00e1n k\u00e9o d\u00e0i 21 gi\u1edd t\u1ea1i Islamabad k\u1ebft th\u00fac m\u00e0 kh\u00f4ng \u0111\u1ea1t \u0111\u01b0\u1ee3c th\u1ecfa thu\u1eadn, khi\u1ebfn c\u1ea3 hai ph\u00e1i \u0111o\u00e0n r\u00fat lui. Donald Trump ngay l\u1eadp t\u1ee9c ph\u1ea3n \u1ee9ng b\u1eb1ng c\u00e1ch ra l\u1ec7nh phong t\u1ecfa h\u1ea3i qu\u00e2n t\u1ea1i Eo bi\u1ec3n Hormuz, c\u00f3 hi\u1ec7u l\u1ef1c t\u1eeb 10:00 s\u00e1ng ET ng\u00e0y 13/04. CENTCOM c\u0169ng s\u1ebd tri\u1ec3n khai ho\u1ea1t \u0111\u1ed9ng r\u00e0 ph\u00e1 th\u1ee7y l\u00f4i. Gi\u00e1 d\u1ea7u \u0111\u00e3 b\u1eadt t\u0103ng tr\u1edf l\u1ea1i tr\u00ean m\u1ed1c $100.\n\n\ud83d\udd0d C\u00e1c tin t\u1ee9c m\u1edbi:\n\n1\ufe0f\u20e3 Cu\u1ed9c chi\u1ebfn \u0111\u00f2n b\u1ea9y: \u0110\u00e0m ph\u00e1n th\u1ea5t b\u1ea1i xoay quanh v\u1ea5n \u0111\u1ec1 chia s\u1ebb doanh thu v\u00e0 l\u1ec7nh c\u1ea5m l\u00e0m gi\u00e0u uranium trong 20 n\u0103m. Chi\u1ebfn l\u01b0\u1ee3c phong t\u1ecfa c\u1ee7a Trump nh\u1eb1m ch\u1eb7n d\u00f2ng d\u1ea7u bu\u00f4n l\u1eadu c\u1ee7a Iran v\u00e0 ph\u00e1 v\u1ee1 \u201ctr\u1ea1m thu ph\u00ed\u201d c\u1ee7a Tehran t\u1ea1i eo bi\u1ec3n, t\u1eeb \u0111\u00f3 lo\u1ea1i b\u1ecf \u0111\u00f2n b\u1ea9y kinh t\u1ebf c\u1ed1t l\u00f5i c\u1ee7a Iran.\n\n2\ufe0f\u20e3 Boss cu\u1ed1i c\u1ee7a l\u1ea1m ph\u00e1t: D\u1eef li\u1ec7u CPI th\u00e1ng 3 x\u00e1c nh\u1eadn l\u1ea1m ph\u00e1t ph\u1ea7n l\u1edbn \u0111\u00e3 \u0111\u01b0\u1ee3c ki\u1ec3m so\u00e1t, ngo\u1ea1i tr\u1eeb th\u00e0nh ph\u1ea7n n\u0103ng l\u01b0\u1ee3ng. Federal Reserve v\u1eabn gi\u1eef l\u1eadp tr\u01b0\u1eddng c\u1ee9ng r\u1eafn, t\u1eeb ch\u1ed1i xem x\u00e9t c\u1eaft gi\u1ea3m l\u00e3i su\u1ea5t cho \u0111\u1ebfn khi xung \u0111\u1ed9t \u0111\u01b0\u1ee3c gi\u1ea3i quy\u1ebft \u2014 gi\u1eef th\u1ecb tr\u01b0\u1eddng trong tr\u1ea1ng th\u00e1i b\u1ecb si\u1ebft ch\u1eb7t b\u1edfi l\u00e3i su\u1ea5t cao.\n\n3\ufe0f\u20e3 S\u1ef1 m\u1ec7t m\u1ecfi c\u1ee7a th\u1ecb tr\u01b0\u1eddng: Trong khi Trump ti\u1ebfp t\u1ee5c theo \u0111u\u1ed5i chi\u1ebfn l\u01b0\u1ee3c \u201cMaximum Pressure\u201d, th\u1ecb tr\u01b0\u1eddng b\u1eaft \u0111\u1ea7u ch\u00e1n n\u1ea3n v\u1edbi s\u1ef1 b\u1ea5t \u0111\u1ecbnh k\u00e9o d\u00e0i. D\u00f2ng ti\u1ec1n \u0111ang xoay chuy\u1ec3n kh\u1ecfi c\u00e1c y\u1ebfu t\u1ed1 \u0111\u1ecba ch\u00ednh tr\u1ecb sang c\u00e1c c\u1ed5 phi\u1ebfu AI c\u00f3 n\u1ec1n t\u1ea3ng \u201cclean\u201d khi m\u00f9a b\u00e1o c\u00e1o l\u1ee3i nhu\u1eadn b\u1eaft \u0111\u1ea7u.\n\n\ud83d\udcca Thi\u1ebft l\u1eadp giao d\u1ecbch (c\u00e1c t\u00e0i s\u1ea3n SoDEX c\u1ea7n theo d\u00f5i):\n\nDanh s\u00e1ch theo d\u00f5i ch\u00ednh: $USTECH-100 | $XAUT | $BTC\n\nT\u00e0i s\u1ea3n tr\u00fa \u1ea9n: Nh\u00f3m MAG7 v\u00e0 c\u1ed5 phi\u1ebfu ph\u1ea7n c\u1ee9ng AI (MU, AMD,...) \u0111\u01b0\u1ee3c \u01b0u ti\u00ean nh\u1edd kh\u1ea3 n\u0103ng duy tr\u00ec l\u1ee3i nhu\u1eadn \u1ed5n \u0111\u1ecbnh.\n\nChi\u1ebfn l\u01b0\u1ee3c chi\u1ebfn thu\u1eadt: Theo d\u00f5i m\u1ee9c \u0111\u1ed9 si\u1ebft ch\u1eb7t phong t\u1ecfa t\u1eeb 10:00 s\u00e1ng ET. N\u1ebfu leo thang th\u00e0nh xung \u0111\u1ed9t qu\u00e2n s\u1ef1 tr\u1ef1c ti\u1ebfp, th\u1ecb tr\u01b0\u1eddng c\u00f3 th\u1ec3 chuy\u1ec3n m\u1ea1nh sang tr\u1ea1ng th\u00e1i Risk-Off.\n\n#Geopolitics #Trump #SoSoValue #OilPrice #AI #Fed #HormuzBlockade #Macro",
-      "likes": 53,
-      "url": "https://x.com/SosovalueVN/status/2043536801617637810"
+      "username": "@So_Points",
+      "content": "\ud83d\udcf8W11 Snapshot has been taken Another week locked in & we are roughly half way through the Season 1. You dont wanna misse out on SoDEX S1 and/or boost your points by 5% for life .. Use code SOSO on register or \ud83d\udc47 https://sodex.com/join/SOSO",
+      "likes": 74,
+      "url": "https://x.com/So_Points/status/2045582196879024481"
     },
     {
       "username": "@jose_donpablo",
-      "content": "Sodex Week 10 points have been distributed \ud83c\udf89\n\nThis week, I earned 830 points and moved up to 145th place\n\nThere\u2019s not much to say. I trust @sodex_official and will continue to conduct all my transactions here.\n\nIn the worst-case scenario, I expect 1 point to be worth between $0.30 and $0.50\n\nYou still have three months to get started. It\u2019s not too late, but it\u2019s not too early either.\n\nGet a 5% SoPoints Boost!",
+      "content": "Sodex Week 10 points have been distributed \ud83c\udf89 This week, I earned 830 points and moved up to 145th place There\u2019s not much to say. I trust @sodex_official and will continue to conduct all my transactions here. In the worst-case scenario, I expect 1 point to be worth between $0.30 and $0.50 You still have three months to get started. It\u2019s not too late, but it\u2019s not too early either. Get a 5% SoPoints Boost!",
       "likes": 40,
       "url": "https://x.com/jose_donpablo/status/2044021606482120993"
     },
     {
-      "username": "@Victorerick001",
-      "content": "I\u2019m really impressed with how @sodex_official  is simplifying the entry for automated trading. \n\nThose of us in Silver tier can now access the API application \n\ud83d\udc49 https://sodex.com/apikeys\n\nIf you\u2019ve been looking for a way to bridge the gap between your trading strategy and automated execution, this is definitely worth watching. \ud83d\udc47\ud83c\udfa5\ud83d\udcca\n\nIn my opinion, being able to plug in an LLM to trade on SoDEX opens up so many possibilities for sentiment-based strategies and complex data analysis.\n\nTrade top Crypto and Stocks on SoDEX. Share 1M SoPoints weekly rewards.\nJoin SoDEX Mainnet with my referral code and get a 5% SoPoints Boost\nhttps://t.co/jsunScS4Kt\n\n #SoDEX #Trading",
-      "likes": 16,
-      "url": "https://x.com/Victorerick001/status/2043694655666032925"
+      "username": "@richie_bitcoin",
+      "content": "SoDex week 11 snapshot have been taken. Week 12 has just started, you can trade on @sodex_official with just $10 USDC. 1,000,000 SoPoints is the weekly rewards for traders. The more volumes you generate, the more SoPoints you earn.",
+      "likes": 23,
+      "url": "https://x.com/richie_bitcoin/status/2045599637311050148"
+    },
+    {
+      "username": "@MrMatok",
+      "content": "UPDATE!!! Week 10 SoPoints have now been updated and added to your SoDEX account. Go and check your account to confirm that your points have reflected. With 153k total users and about half of that only being active, coupled with a reward pool of 150M $SOSO. I believe SoDEX Mainnet Airdrop will cook really good for those who take it seriously. How many points do you have so far? Want to get started? It's simple, Go to: https://t.co/GULZELAkQf - Use code: JVFWURPI  - Sign in with your wallet  - Click deposit funds  - Fund your account  - Trade Spot or Futures  - Accumulate points (Credited at the end of every week) - Finished \u2705 See you on the winning side!",
+      "likes": 10,
+      "url": "https://x.com/MrMatok/status/2044707859309506621"
     }
   ]
 }
