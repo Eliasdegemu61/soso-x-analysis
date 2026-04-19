@@ -1,35 +1,41 @@
 {
     "summary": {
-        "sosovalue": "Community sentiment around SoSoValue on April 17-18, 2026, is predominantly positive but low-volume, with users praising it as a clarity tool in crypto data overload, highlighting its on-chain analytics, macro signals, and unified insights for smarter trading decisions. Key discussions revolve around quoting official SoSoValue Flash updates on geopolitics like Israel-Lebanon truce, US-Iran talks, ETF inflows for SOL/XRP/BTC/ETH, and AI market rallies, often sharing SoSoValue links for deeper info; users also mention app usage, account connections, whitelist for SoDEX, and upcoming EXP season airdrop snapshots urging verification and trading. Metrics show minimal engagement overall\u2014most posts have 0-1 likes/reposts/views under 50, except one promotional post by @goodybtc with 15 likes, 1 repost, 177 views emphasizing early user advantages, indicating niche but loyal interest amid sparse activity excluding official accounts.",
-        "sodex": "No significant mentions found for Sodex independent of SoSoValue ecosystem; discussions are limited to brief references in SoSoValue contexts like trading on SoDEX L1 order book for SSI tokens such as MAG7.ssi and speculation on potential SoDEX token drop with decent liquidity but zero hype.",
-        "ssi": "SSI (SoSoValue Indexes) sees neutral to positive sentiment in low-engagement mentions, tied to ETF flow watches and passive investing via bundled on-chain portfolios like MAG7.ssi; one reply highlights it as 'your chance' to official SSI post on inflows, but no standalone discussions or questions, with metrics mirroring overall low activity (0-1 likes)."
+        "sosovalue": "On April 17, 2026, SoSoValue dominated discussions through its platform updates on memecoin surges like $SIREN and BRC-20 tokens, ETF inflows for SOL and XRP, and geopolitical developments including US-Iran talks and Israel-Lebanon truce impacting markets. Users shared and replied to these insights, highlighting the platform's role in cutting noise for better crypto investment decisions, with promotions linking to SoDEX trading. Sentiment was overwhelmingly positive, reflecting bullish market momentum and appreciation for SoSoValue's AI-driven analytics amid altcoin recovery.",
+        "sodex": "Sodex was frequently mentioned alongside SoSoValue promotions, with users expressing enthusiasm for its whitelist, trading features like $CL-USD spot trading on ValueChain L1, and community access. Non-official posts praised it as a secure, high-performance DEX for RWAs without intermediaries, and some sought entry into exclusive groups. Overall sentiment leaned positive, indicating growing interest in its on-chain trading capabilities and airdrop incentives.",
+        "ssi": "No significant mentions found."
     },
     "top_questions": {
         "sosovalue": [],
         "sodex": [
-            "wonder what SoDEX will drop. zero hype, but liquidity seems okay."
+            "Asking a sodex OG for WhatsApp group link...? @jpremewwcoin day 1"
         ],
         "ssi": []
     },
-    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+    "top_engaged_posts": [
         {
-            "username": "@Mommagadger",
-            "content": "@SoSoValueCrypto https://t.co/sXEdpRpLnQ",
-            "engagement": "Likes=1, Reposts=0, Quotes=0, Replies=0, Views=4",
-            "post_link": "https://x.com/Mommagadger/status/2044998594550530104"
+            "username": "sammylolo1514",
+            "content": "r\u1ee7i ro on's flow \u0111ang m\u1ea1nh l\u00ean nh\u01b0ng v\u1eabn mong manh\u2014n\u1ebfu l\u1ee3i nhu\u1eadn AI kh\u00f4ng v\u01b0\u1ee3t xa k\u1ef3 v\u1ecdng, \u0111\u00e0 t\u0103ng s\u1ebd nhanh ch\u00f3ng b\u1ecb cu\u1ed1n ng\u01b0\u1ee3c.",
+            "engagement": "Likes: 6, Reposts: 2, Replies: 0, Views: 595",
+            "url": "https://x.com/sammylolo1514/status/2045016585434272082"
         },
         {
-            "username": "@goodybtc",
-            "content": "If you\u2019re still sleeping on SoSoValue, you\u2019re missing the bigger picture... [full post praising SoSoValue data insights and airdrop]",
-            "engagement": "Likes=15, Reposts=1, Quotes=0, Replies=15, Views=177",
-            "post_link": "https://x.com/goodybtc/status/2045187751570743341"
+            "username": "SudaisAbub9042",
+            "content": "Sodex is good",
+            "engagement": "Likes: 3, Reposts: 1, Replies: 0, Views: 19",
+            "url": "https://x.com/SudaisAbub9042/status/2045002550311579823"
         },
         {
-            "username": "@bbrainman",
-            "content": "Announcement @SoSoValueCrypto !! My former X account... Pls let it be worth it\ud83d\ude4f.",
-            "engagement": "Likes=1, Reposts=1, Quotes=0, Replies=0, Views=10",
-            "post_link": "https://x.com/bbrainman/status/2045059038661038168"
+            "username": "Charliton_Luiz",
+            "content": "\ud83d\udee2\ufe0f NOVIDADE: A @sodex_official acabou de listar o CL-USD na plataforma. Petr\u00f3leo tokenizado. On-chain. Spot. Ao vivo. Sem banco. Sem cust\u00f3dia central. S\u00f3 voc\u00ea e o ativo.",
+            "engagement": "Likes: 4, Reposts: 0, Replies: 1, Views: 79",
+            "url": "https://x.com/Charliton_Luiz/status/2045227595906597230"
+        },
+        {
+            "username": "Charliton_Luiz",
+            "content": "\ud83d\udd12 POR QUE \u00c9 SEGURO? Mirror Protocol + cust\u00f3dia terceirizada protege os ativos. $SOSO = gas + governance. 150M tokens p/ incentivar o ecossistema. +400.000 usu\u00e1rios no testnet. Mainnet live em 2026. Fundamentos s\u00f3lidos. N\u00e3o \u00e9 hype.",
+            "engagement": "Likes: 3, Reposts: 0, Replies: 1, Views: 96",
+            "url": "https://x.com/Charliton_Luiz/status/2045227951143178478"
         }
     ],
-    "timestamp": "2026-04-18 06:02:38"
+    "timestamp": "2026-04-19 08:50:40"
 }
