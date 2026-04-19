@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-04-17T17:32:13.818472Z",
+    "lastUpdated": "2026-04-19T08:22:54.960254Z",
     "barometer": {
         "overallScore": 28,
         "label": "Cautious",
@@ -70,9 +70,9 @@
             "weight": 10
         }
     ],
-    "detailedSummary": "No real X posts were found matching the query in the specified future date range, indicating zero activity for SoDEX or related terms. As a result, there is no real sentiment, farming, trading, or friction to analyze. This lack of data suggests the period is beyond current timelines and contains no verifiable content.",
+    "detailedSummary": "No real X posts were found for the specified query in the given future date range, indicating a complete absence of activity related to SoDEX or SoPoints. This lack of data suggests no sentiment, farming, or trading discussions occurred during this period. There is no evidence of any friction or engagement as no posts exist to analyze.",
     "topEngagedPosts": [],
-    "summary": "Complete absence of activity due to future dates.",
-    "timestamp": "2026-04-14 (analyzed date)",
-    "analyzedPeriod": "2026-04-14 \u2192 2026-04-15"
+    "summary": "No activity detected in the queried period.",
+    "timestamp": "2026-04-18 (analyzed date)",
+    "analyzedPeriod": "2026-04-18 \u2192 2026-04-19"
 }
