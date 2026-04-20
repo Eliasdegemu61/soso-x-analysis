@@ -1,0 +1,41 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on April 19-20, 2026, is predominantly promotional and cautiously optimistic, with users hyping Season 2 airdrop opportunities, daily check-ins, trading on SoDex for points, and the ongoing Buildathon event offering $10,000 in prizes for agentic on-chain finance apps using SoSoValue's API and tools. Key discussions revolve around snapshot completion for Week 11, real human verification probabilities causing some frustration and rumors of low rewards leading to users giving up, upcoming system upgrades on April 20, and invitations to join with referral codes for boosts; promotional posts dominate, sharing market data, airdrop guides, and Buildathon participation, while technical issues like portfolio transfers are noted. Metrics show low to moderate engagement overall, with top posts garnering 40-75 likes, 2-6 reposts, and thousands of views, indicating niche interest amid broader crypto market pullbacks and geopolitical news shared via SoSoValue links.",
+        "sodex": "Sentiment for Sodex, SoSoValue's DEX, is positive and action-oriented, focusing on trading volume for points accrual, Season 2 snapshot nearing (April 27-28) with 150M tokens to real users only, and low-fee perp trading on Base; users encourage depositing USDC, trading for boosts via invite codes, and avoiding bots as multi-accounts offer no edge. Discussions highlight Week 11 snapshot done, API access eased for Silver tier and Buildathon builders, system maintenance on April 20 (6-8 UTC), and reminders not to hold positions then; Japanese community notes stable perp volumes despite fees. Engagement metrics are modest, peaking at 61 likes and 4367 views on high-engagement promo posts urging new users to join with ~3 months left.",
+        "ssi": "No significant mentions found for SSI Index specifically; isolated references in market updates (e.g., ssiLayer1 index down 3%) appear incidental without dedicated discussions, questions, or sentiment analysis."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "Drop me any questions about @sodex_official & @SoSoValueCrypto \ud83d\udc47",
+            "Hey @aixbt_agent could you please bring the latest news about @SoSoValue Airdrop Season 2 Distribution??? is the snapshot taken or not? when is the distribution date. is is May or Aril?",
+            "Why does \"transfer\" option in portfolio keep bringing up the \"deposit\", I've made deposit on my account since yesterday. It was credited to EVM, I was trying to transfer it to SPOT and it was stuck."
+        ],
+        "sodex": [
+            "Why does \"transfer\" option in portfolio keep bringing up the \"deposit\"?",
+            "I\u2019ll my best with sodex and 01 this week\ud83e\udee1 (implying strategy questions)",
+            "no public dates on the snapshot or distribution yet. season 2 and 3 confirmed but timing still under wraps"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@CryptoLakhan",
+            "content": "\ud83d\udea8 SoSoValue Season 2 \u2013 SoDex Snapshot Complete! \ud83d\udea8 Week 11 is officially done \u2705 and everyone can now check their points. \ud83d\udd17 Check here: https://sodex.com/join/SNKBSXFH",
+            "engagement": "Likes=61, Reposts=2, Quotes=0, Replies=6, Bookmarks=9, Views=4367",
+            "post_link": "https://x.com/CryptoLakhan/status/2045947282441515301"
+        },
+        {
+            "username": "@MrMatok",
+            "content": "A lot of people have stopped checking in on their Sosovalue EXP season 2 page. Could it be because they have given up after the real human probability verification...",
+            "engagement": "Likes=75, Reposts=5, Quotes=0, Replies=19, Bookmarks=4, Views=4149",
+            "post_link": "https://x.com/MrMatok/status/2045763558764363903"
+        },
+        {
+            "username": "@kengnoorweb3",
+            "content": "GM CT & Grinders \u2615\ud83e\ude75 New Day New chance to make any things \ud83d\udcaa Drop me any questions about @sodex_official & @SoSoValueCrypto \ud83d\udc47",
+            "engagement": "Likes=40, Reposts=1, Quotes=1, Replies=39, Bookmarks=1, Views=372",
+            "post_link": "https://x.com/kengnoorweb3/status/2045727625025347649"
+        }
+    ],
+    "timestamp": "2026-04-20 05:46:56"
+}
