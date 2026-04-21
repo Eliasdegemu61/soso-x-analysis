@@ -1,80 +1,76 @@
 {
-  "date": "apr19",
-  "sentiment_score": 75,
+  "date": "apr20",
+  "sentiment_score": 80,
   "hot_topics": [
     {
-      "topic": "SoPoints Distributions and Snapshots",
-      "summary": "Community posts about weekly SoPoints snapshots for week 11 completion and week 12 start, earned via trading volume on SoDEX.",
+      "topic": "SoPoints Weekly Rewards",
+      "summary": "Community posts about Week 11 SoPoints snapshot taken on SoDEX, Week 12 live, 1M SoPoints distributed weekly based on trading volume.",
       "related_posts": [
         {
-          "content": "\ud83d\udea8 SoSoValue Season 2 \u2013 SoDex Snapshot Complete! \ud83d\udea8\n\nWeek 11 is officially done \u2705 and everyone can now check their points.\n\n\ud83d\udd17 Check here: https://sodex.com/join/SNKBSXFH\n\n\u23f3 SoSoValue Season 2 snapshot will be completed between April 27\u201328\n\nThis is shaping up to be one of the biggest opportunities in 2026.\n\n\ud83d\udcb0 150M tokens will be distributed\n\ud83d\udc65 Real users only \u2014 no bots, no multi-account advantage\n\ud83c\udd95 New users can still join (\u2248 3 months left)\n\n\ud83e\udded How to start: \n\ud83d\udd17 Go To - https://t.co/JfxJ8BcIt2\n1\ufe0f\u20e3 Connect your wallet\n2\ufe0f\u20e3 Deposit USDC (Base Network)\n3\ufe0f\u20e3 Start trading (more volume = more points)\n\n\ud83c\udf81 Use invite code for +5% boost: SNKBSXFH\n\nJoin now & maximize your points \ud83d\ude80 @SoSoValueCrypto @sodex_official\n\n#SoDex #SoSoValue #CryptoAirdrop #Web3 #sosovalyeseason2 #sodexsnapshorcomplete",
-          "url": "https://x.com/CryptoLakhan/status/2045947282441515301"
+          "content": "\ud83d\udcf8W11 Snapshot has been taken Another week locked in & we are roughly half way through the Season 1. You dont wanna misse out on SoDEX S1 and/or boost your points by 5% for life .. Use code SOSO on register or \ud83d\udc47 https://sodex.com/join/SOSO",
+          "url": "https://x.com/So_Points/status/2045582196879024481"
         },
         {
-          "content": ">> sodex by sosovalue \n\n  \u2022 sopoints week 10 has been distributed\n \u2022 total 150 million $soso token for distribution \n\u2022 point depend on volume \n\nguide = https://t.me/alphayaz/7165",
-          "url": "https://x.com/aslibhai111/status/2044456812150473062"
+          "content": "Week 11 snapshot is complete Week 12 is live on @sodex_official  Only $10 USDC needed to start 1 Million SoPoints distributed weekly More volume = Higher SoPoints allocation \ud83d\udc47 new traders join now - https://sodex.com/join/AJEETJHURAWAT 150M $SOSO reward pool is still active",
+          "url": "https://x.com/ajeetjhurawat/status/2045610677247881473"
         }
       ]
     },
     {
-      "topic": "SoDEX v3 Mainnet Upgrade",
-      "summary": "Announcement of scheduled v3 upgrade on April 20, with details on impacts to trading and services.",
+      "topic": "EXP Real-User Verification",
+      "summary": "Tutorials and discussions on SoSoValue EXP Real-User Verification process, including SoDEX activation to reach higher percentages for Season 2 airdrop eligibility.",
       "related_posts": [
         {
-          "content": "Scheduled SoDEX v3 Mainnet Upgrade: Taking Our High Performance Orderbook to the Next Level\n\nDear SoDEX Community,\nFrom our earliest Testnet days to the bustling ecosystem we have built  today, your feedback and stress-testing have been the bedrock of our growth. To make your experience even better,  we are thrilled to announce the official launch of SoDEX v3.\n\nThis major upgrade is designed to revolutionize our infrastructure, significantly enhancing the  block production stability and  API throughput. This ensures SoDEX can seamlessly serve millions of global traders on a concurrent basis with zero friction.\n\nUpgrade Schedule:\n\u23f0 Time: April 20, 2026, 6:00 \u2013 8:00 (UTC)\n- Estimated Duration: 2 Hours\n\nWhat to Expect:\n- Trade Access: The 'Trade' page (Spot & Perps) will be temporarily offline. During the upgrade, mark prices will not be updated and liquidations will not occur.  However, when the network upgrade is completed, mark prices will be updated to the latest and positions may be liquidated if the market has moved against them during the window. Users are encouraged to review their positions carefully prior to the upgrade and take actions as necessary. If you still have an open position when the upgrade starts, please return to SoDEX and monitor the position as soon as the upgrade is completed.\n- Wallet Services: Deposits and withdrawals will be paused .\n- Continuous Access: You can still access your Portfolio, Vault, and Referral pages throughout the process.\n\nSuperior user experience must be powered by best-in-class infrastructure. Thank you for your support as we make our DEX faster, smoother and stronger!\n\nSoDEX Team April 18, 2026",
-          "url": "https://x.com/sodex_official/status/2045383419371335844"
-        }
-      ]
-    },
-    {
-      "topic": "$CL Crude Oil Trading",
-      "summary": "Launch of $CL perps and trading events related to US-Iran talks.",
-      "related_posts": [
+          "content": "Hello guys...real user verification is the major criteria for Sosovalue season 2 eligible. 15% 30% 60% 100% 120% I'm currently in level 120%, what level are you?",
+          "url": "https://x.com/richie_bitcoin/status/2046226994510119293"
+        },
         {
-          "content": "$CL Perps are now live on SoDEX.\n\nTrade $CL with up to 20x leverage on SoDEX and get exposure with speed, flexibility, and deep on-chain execution.\n\nStart trading: https://sodex.com/trade/futures/CL-USD\n\n#SoDEX #Perps #CL #Oil #CryptoTrading #DeFi",
-          "url": "https://x.com/sodex_official/status/2044048830552064060"
+          "content": "most users on sosovalue should be able to reach 60% here i reached 100% while spending around $10 trading on sodex",
+          "url": "https://x.com/olamide_420/status/2046259852436017510"
         }
       ]
     }
   ],
   "official_announcements": [
     {
-      "content": "Scheduled SoDEX v3 Mainnet Upgrade: Taking Our High Performance Orderbook to the Next Level\n\nDear SoDEX Community,\nFrom our earliest Testnet days to the bustling ecosystem we have built  today, your feedback and stress-testing have been the bedrock of our growth. To make your experience even better,  we are thrilled to announce the official launch of SoDEX v3.\n\nThis major upgrade is designed to revolutionize our infrastructure, significantly enhancing the  block production stability and  API throughput. This ensures SoDEX can seamlessly serve millions of global traders on a concurrent basis with zero friction.\n\nUpgrade Schedule:\n\u23f0 Time: April 20, 2026, 6:00 \u2013 8:00 (UTC)\n- Estimated Duration: 2 Hours\n\nWhat to Expect:\n- Trade Access: The 'Trade' page (Spot & Perps) will be temporarily offline. During the upgrade, mark prices will not be updated and liquidations will not occur.  However, when the network upgrade is completed, mark prices will be updated to the latest and positions may be liquidated if the market has moved against them during the window. Users are encouraged to review their positions carefully prior to the upgrade and take actions as necessary. If you still have an open position when the upgrade starts, please return to SoDEX and monitor the position as soon as the upgrade is completed.\n- Wallet Services: Deposits and withdrawals will be paused .\n- Continuous Access: You can still access your Portfolio, Vault, and Referral pages throughout the process.\n\nSuperior user experience must be powered by best-in-class infrastructure. Thank you for your support as we make our DEX faster, smoother and stronger!\n\nSoDEX Team April 18, 2026",
-      "url": "https://x.com/sodex_official/status/2045383419371335844"
+      "content": "SoDEX v3 is LIVE! Experience the Upgrade We are back online and faster than ever! The SoDEX v3 upgrade was successfully completed at 7:00 UTC. What\u2019s New in v3: - Enhanced Stability: Smoother block production even during peak, volatile sessions . - Higher Throughput: Increased API limits to support higher concurrent trading volume . - Resume Trading: All Spot and Perp markets are now fully operational. A Heartfelt Thank You and a special shout-out to our \"OG\" testers who have been with us since the early days. This v3 milestone belongs to all of us. Log in now to experience the new standard of decentralized trading. Trade Now: https://t.co/UrOjlrJbk3 SoDEX Team April 20, 2026",
+      "url": "https://x.com/sodex_official/status/2046131327108624892"
     },
     {
-      "content": "$CL Perps are now live on SoDEX.\n\nTrade $CL with up to 20x leverage on SoDEX and get exposure with speed, flexibility, and deep on-chain execution.\n\nStart trading: https://sodex.com/trade/futures/CL-USD\n\n#SoDEX #Perps #CL #Oil #CryptoTrading #DeFi",
-      "url": "https://x.com/sodex_official/status/2044048830552064060"
-    },
-    {
-      "content": "$CL (WTI Crude Perp) is now live on SoDEX \ud83d\udee2\ufe0f\n\nOil is back in focus.\n\nHormuz-related tension has kept crude volatile.\nGoldman recently lowered its Q2 2026 WTI forecast on expectations the ceasefire may hold.\n\nMeanwhile, the next US\u2013Iran talks could happen as early as Apr 16.\n\nA bigger move may be close.\n\nSo where does oil go next?\n\nWatch the full breakdown below \u2193\n\nTrade $CL now: https://t.co/Kj8kg2heox\n\n#SoDEX #WTI #CrudeOil #Perps #Trading",
-      "url": "https://x.com/sodex_official/status/2044322307842420825"
+      "content": "SoDEX v3 Upgrade in Progress The SoDEX v3 mainnet upgrade is ongoing! Our engineering team is currently deploying the new core logic to further enhance block production stability and expand API capacity. Status: Mainnet Upgrade in Progress. Web Access: All non-trading pages are LIVE and accessible. Positions: Safe and monitored.During the upgrade, mark prices will not be updated and liquidations will not occur.  However, when the network upgrade is completed, mark prices will be updated to the latest and positions may be liquidated if the market has moved against them during the window. Users are encouraged to review their positions carefully prior to the upgrade and take actions as necessary.  If you still have an open position when the upgrade starts, please return to SoDEX and monitor the position as soon as the upgrade is completed. Stay tuned for further updates.  Thank you for your patience as we upgrade  the engine to power  a faster, stronger SoDEX! SoDEX Team April 20, 2026",
+      "url": "https://x.com/sodex_official/status/2046106714773037195"
     }
   ],
   "top_engaged_posts": [
     {
-      "username": "@SosovalueVN",
-      "content": "\ud83d\udea8 SoSoValue News : Iran Mu\u1ed1n Tho\u1ea3 Thu\u1eadn- Hormuz V\u1eabn B\u1ecb Phong To\u1ea3- M\u00f9a B\u00e1o C\u00e1o B\u1eaft \u0110\u1ea7u\n\nTin m\u1edbi\n\n1\u20e3T\u1ed5ng th\u1ed1ng Trump cho bi\u1ebft Iran \u0111\u00e3 g\u1ecdi cho M\u1ef9 b\u00e0y t\u1ecf s\u1eb5n s\u00e0ng \u0111\u1ea1t th\u1ecfa thu\u1eadn. Chi ti\u1ebft v\u1ec1 eo bi\u1ec3n Hormuz s\u1ebd \u0111\u01b0\u1ee3c c\u00f4ng b\u1ed1 ng\u00e0y mai.\n\n2\u20e3Pakistan, Ai C\u1eadp v\u00e0 Th\u1ed5 Nh\u0129 K\u1ef3 s\u1ebd ti\u1ebfp t\u1ee5c \u0111\u00e0m ph\u00e1n v\u1edbi M\u1ef9 v\u00e0 Iran trong nh\u1eefng ng\u00e0y t\u1edbi. V\u00f2ng tr\u1ef1c ti\u1ebfp ti\u1ebfp theo c\u00f3 th\u1ec3 di\u1ec5n ra ng\u00e0y 16/4 t\u1ea1i Islamabad.\n\n3\u20e3Theo WSJ, l\u1ec7nh phong t\u1ecfa h\u00e0ng h\u1ea3i c\u1ee7a M\u1ef9 \u0111\u00e3 c\u00f3 hi\u1ec7u l\u1ef1c v\u1edbi 15+ t\u00e0u chi\u1ebfn \u0111\u01b0\u1ee3c tri\u1ec3n khai. \u00cdt nh\u1ea5t 2 t\u00e0u ch\u1edf d\u1ea7u \u0111\u00e3 quay \u0111\u1ea7u g\u1ea7n eo bi\u1ec3n Hormuz.\n\n4\u20e3Th\u1ed1ng \u0111\u1ed1c BoJ Ueda ph\u00e1t bi\u1ec3u th\u1eadn tr\u1ecdng, kh\u00f4ng g\u1ee3i \u00fd t\u0103ng l\u00e3i su\u1ea5t, gi\u1ea3m k\u1ef3 v\u1ecdng th\u1ecb tr\u01b0\u1eddng v\u1ec1 \u0111\u1ee3t t\u0103ng th\u00e1ng 4.\n\nPh\u00e2n T\u00edch Giao D\u1ecbch\n\nD\u1ef1a tr\u00ean c\u00e1c t\u00edn hi\u1ec7u m\u1edbi nh\u1ea5t, d\u00f9 hai b\u00ean v\u1eabn \u0111\u1ed5 l\u1ed7i qua l\u1ea1i, r\u00f5 r\u00e0ng c\u1ea3 M\u1ef9 v\u00e0 Iran v\u1eabn ch\u01b0a \u0111\u00f3ng c\u00e1nh c\u1eeda \u0111\u00e0m ph\u00e1n. C\u00e1c th\u00f4ng tin r\u00f2 r\u1ec9 cho th\u1ea5y kho\u1ea3ng c\u00e1ch th\u1ef1c ch\u1ea5t gi\u1eefa hai b\u00ean h\u1eb9p h\u01a1n so v\u1edbi k\u1ef3 v\u1ecdng tr\u01b0\u1edbc \u0111\u00f3, tail risk li\u00ean quan \u0111\u1ebfn Iran \u0111\u00e3 gi\u1ea3m m\u1ea1nh, ph\u1ea3n \u00e1nh qua vi\u1ec7c S&P 500 ph\u1ee5c h\u1ed3i v\u1ec1 v\u00f9ng tr\u01b0\u1edbc xung \u0111\u1ed9t.\n\n\u1ede chi\u1ec1u ng\u01b0\u1ee3c l\u1ea1i, M\u1ef9 \u0111ang ti\u1ebfp t\u1ee5c si\u1ebft ch\u1eb7t phong t\u1ecfa Eo bi\u1ec3n Hormuz, g\u00e2y gi\u00e1n \u0111o\u1ea1n \u0111\u00e1ng k\u1ec3 d\u00f2ng ch\u1ea3y t\u00e0u ch\u1edf d\u1ea7u. N\u1ebfu \u00e1p l\u1ef1c n\u00e0y th\u00fac \u0111\u1ea9y Iran s\u1edbm quay l\u1ea1i b\u00e0n \u0111\u00e0m ph\u00e1n, kh\u1ea9u v\u1ecb r\u1ee7i ro (risk appetite) c\u1ee7a th\u1ecb tr\u01b0\u1eddng c\u00f3 th\u1ec3 ti\u1ebfp t\u1ee5c ph\u1ee5c h\u1ed3i. M\u1ed1c c\u1ea7n theo d\u00f5i l\u00e0 li\u1ec7u v\u00f2ng \u0111\u00e0m ph\u00e1n m\u1edbi c\u00f3 \u0111\u01b0\u1ee3c x\u00e1c nh\u1eadn tr\u01b0\u1edbc cu\u1ed1i tu\u1ea7n hay kh\u00f4ng. B\u1ea5t k\u1ef3 s\u1ef1 tr\u00ec ho\u00e3n k\u00e9o d\u00e0i n\u00e0o c\u0169ng c\u00f3 th\u1ec3 k\u00edch ho\u1ea1t l\u1ea1i lo ng\u1ea1i l\u1ea1m ph\u00e1t v\u00e0 k\u00e9o theo bi\u1ebfn \u0111\u1ed9ng m\u1edbi.\n\nTrong khi \u0111\u00f3, m\u00f9a b\u00e1o c\u00e1o l\u1ee3i nhu\u1eadn t\u1ea1i M\u1ef9 b\u01b0\u1edbc v\u00e0o tu\u1ea7n cao \u0111i\u1ec3m. D\u00f2ng ti\u1ec1n \u0111ang c\u00f3 xu h\u01b0\u1edbng screening c\u00e1c k\u00e8o c\u00f3 conviction cao, earnings m\u1ea1nh, \u0111\u1eb7c bi\u1ec7t l\u00e0 narrative xoay quanh AI.\n\nWatchlist SoDEX:\n\nUSTECH-100 \u00b7 XAUT \u00b7 Bitcoin \u00b7 MAG7 (NVDA, AMZN, GOOGL, META, MSFT, TSLA, AAPL) \u00b7 AI (SNDK, MU, AMD, INTC)\n\n#Geopolitics #Trump #SoSoValue  #AI #MAG7 #HormuzBlockade #Macro",
-      "likes": 660,
-      "url": "https://x.com/SosovalueVN/status/2043972599391367545"
-    },
-    {
       "username": "@SoSoValue",
-      "content": "MAG7 ETF Flow Watch | Apr 16\n\n- BTC ETFs: +$26.05M net inflow\n- ETH ETFs: +$18.02M net inflow\n- SOL ETFs: +$15.50M net inflow\n- XRP ETFs: +$11.87M net inflow\nMulti-Asset in One Token, Capture Crypto Growth with Ease.\n\nTrade MAG7.ssi on SoDEX \u2014 powered by an L1 order book:\nhttps://t.co/poA6q1EOaQ\n#SOL #XRP #ETF #Crypto #MAG7ssi #SoDEX",
-      "likes": 242,
-      "url": "https://x.com/SoSoValue/status/2045018945011482908"
+      "content": "MAG7 ETF Flow Watch | Apr 17 BTC ETFs: +$663.91M net inflow ETH ETFs: +$127.49M net inflow XRP ETFs: +$13.74M net inflow SOL ETFs: +$13.04M net inflow Multi-Asset in One Token, Capture Crypto Growth with Ease. Trade MAG7.ssi on SoDEX \u2014 powered by an L1 order book: https://t.co/poA6q1EOaQ #BTC #ETH #SOL #XRP #ETF #Crypto #MAG7ssi #SoDEX",
+      "likes": 426,
+      "url": "https://x.com/SoSoValue/status/2045414055876415748"
     },
     {
-      "username": "@CryptoLakhan",
-      "content": "\ud83d\udea8 SoSoValue Season 2 \u2013 SoDex Snapshot Complete! \ud83d\udea8\n\nWeek 11 is officially done \u2705 and everyone can now check their points.\n\n\ud83d\udd17 Check here: https://sodex.com/join/SNKBSXFH\n\n\u23f3 SoSoValue Season 2 snapshot will be completed between April 27\u201328\n\nThis is shaping up to be one of the biggest opportunities in 2026.\n\n\ud83d\udcb0 150M tokens will be distributed\n\ud83d\udc65 Real users only \u2014 no bots, no multi-account advantage\n\ud83c\udd95 New users can still join (\u2248 3 months left)\n\n\ud83e\udded How to start: \n\ud83d\udd17 Go To - https://t.co/JfxJ8BcIt2\n1\ufe0f\u20e3 Connect your wallet\n2\ufe0f\u20e3 Deposit USDC (Base Network)\n3\ufe0f\u20e3 Start trading (more volume = more points)\n\n\ud83c\udf81 Use invite code for +5% boost: SNKBSXFH\n\nJoin now & maximize your points \ud83d\ude80 @SoSoValueCrypto @sodex_official\n\n#SoDex #SoSoValue #CryptoAirdrop #Web3 #sosovalyeseason2 #sodexsnapshorcomplete",
-      "likes": 62,
-      "url": "https://x.com/CryptoLakhan/status/2045947282441515301"
+      "username": "@So_Points",
+      "content": "\ud83d\udcf8W11 Snapshot has been taken Another week locked in & we are roughly half way through the Season 1. You dont wanna misse out on SoDEX S1 and/or boost your points by 5% for life .. Use code SOSO on register or \ud83d\udc47 https://sodex.com/join/SOSO",
+      "likes": 147,
+      "url": "https://x.com/So_Points/status/2045582196879024481"
     },
     {
-      "username": "@SosovalueVN",
-      "content": "trade tr\u00ean SoDEX t\u1ea1i \u0111\u00e2y : https://sodex.com/join/DDYMOJJM",
-      "likes": 124,
-      "url": "https://x.com/SosovalueVN/status/2043972715753926967"
+      "username": "@SosovalueJP",
+      "content": "\u53cb\u9054\u306e EXP Real-User Verification \u3092\u624b\u4f1d\u3044\u305f\u3044\u3051\u3069\u3001\u6bce\u56de\u30b9\u30c6\u30c3\u30d7\u3054\u3068\u306b\u8aac\u660e\u3059\u308b\u306e\u306f\u5927\u5909\u3067\u3059\u304b\uff1f \u3053\u3061\u3089\u304c\u516c\u5f0f\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\u3067\u3059\uff1a SoSoValue 101 Ep.01 \u2014 EXP Real-User Verification \u5b8c\u4e86\u30ac\u30a4\u30c9 \u3053\u306e\u52d5\u753b\u3067\u306f\uff1a \u30fbCrypto Native Quiz \u5b8c\u4e86\u3067 15% \u89e3\u653e \u30fbSoDEX \u30a2\u30af\u30c6\u30a3\u30d9\u30fc\u30b7\u30e7\u30f3\u3067 30% \u5230\u9054 \u30fb\u30aa\u30f3\u30c1\u30a7\u30fc\u30f3\u30bf\u30b9\u30af\u5b8c\u4e86\u3067 60% \u307e\u3067\u5230\u9054 \u3068\u3044\u3063\u305f\u6d41\u308c\u3092\u30b9\u30c6\u30c3\u30d7\u3054\u3068\u306b\u89e3\u8aac\u3057\u3066\u3044\u307e\u3059\u3002 Real-User Probability \u306f Season 2 EXP \u3068\u30a8\u30a2\u30c9\u30ed\u30c3\u30d7\u53c2\u52a0\u53ef\u5426\u3092\u5de6\u53f3\u3059\u308b\u91cd\u8981\u306a\u8981\u7d20\u306e\u3072\u3068\u3064\u3067\u3059\u3002 \u305c\u3072\u30ac\u30a4\u30c9\u3092\u78ba\u8a8d\u3057\u306a\u304c\u3089\u9032\u3081\u3066\u307f\u3066\u304f\u3060\u3055\u3044\u3002 #SoSoValue #EXP #Airdrop #SoDEX #Crypto",
+      "likes": 127,
+      "url": "https://x.com/SosovalueJP/status/2046188478233526322"
+    },
+    {
+      "username": "@olamide_420",
+      "content": "most users on sosovalue should be able to reach 60% here i reached 100% while spending around $10 trading on sodex",
+      "likes": 99,
+      "url": "https://x.com/olamide_420/status/2046259852436017510"
+    },
+    {
+      "username": "@richie_bitcoin",
+      "content": "Hello guys...real user verification is the major criteria for Sosovalue season 2 eligible. 15% 30% 60% 100% 120% I'm currently in level 120%, what level are you?",
+      "likes": 46,
+      "url": "https://x.com/richie_bitcoin/status/2046226994510119293"
     }
   ]
 }
