@@ -1,0 +1,36 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on April 20-21, 2026, appears predominantly promotional and positive, driven by user shares of official tutorials on EXP Real-User Verification for Season 2 airdrop eligibility, highlighting steps like the Crypto Native Quiz (15%), SoDEX activation (30%), and on-chain paths (60%). Key discussions revolve around helping friends complete verifications, speculation on snapshot dates around April 24-25 with distributions in May, daily check-ins on market flows like BTC/ETH ETF inflows, and integrations with SoDEX trading incentives. Metrics show low individual engagement (mostly 1 like, 0-46 views per post), but quoted official SoSoValue posts have high traction (e.g., 8415 likes, 2180 reposts, 109K views on verification video; 3650 likes on ETF flows), indicating indirect hype amplification rather than organic buzz, with some spam-like referrals and conviction posts on potential large airdrops (150M $SOSO pool). No negative mentions found.",
+        "sodex": "Sentiment for Sodex is neutral to positive amid low-volume discussions, focusing on recent maintenance completion for v3 upgrade praised for 60-minute execution and high-performance trading enhancements, alongside ongoing campaigns like $CL-USD positions with $SOSO rewards tied to US-Iran talks. Users encourage trading on Sodex for liquidity incentives from the 150M $SOSO pool, noting low slippage and SoPoints earnings, with one post highlighting 100+ points from 20K spot volume. Engagement remains minimal (e.g., 1 like on maintenance repost, official posts at 95 likes/24 reposts), suggesting niche interest without widespread hype; no explicit questions or criticisms observed.",
+        "ssi": "No significant mentions found for SSI Index specifically within the queried period excluding official accounts; discussions tangentially reference SSI protocol in broader SoSoValue contexts like staking MAG7.ssi or DEFI.ssi for exposure to rebalanced baskets with over $100M TVL and loyalty points in Epoch 4, but no dedicated posts or metrics on SSI standalone."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How many percentage have y'all completed in Real-User Verification?",
+            "When will the SoSoValue snapshot happen for airdrop (24 or 25 April)?"
+        ],
+        "sodex": [],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@niloyahmed1228",
+            "content": "SosoValue Just confirmed that Real User probability is one of the key factors in Season 2 EXP and airdrop eligibility. How many percentage have y'all completed? @SoSoValueCrypto $SOSO #Crypto",
+            "engagement": "Likes=1, Reposts=0, Quotes=0, Replies=1, Views=40",
+            "post_link": "https://x.com/niloyahmed1228/status/2046298696590229865"
+        },
+        {
+            "username": "@Adellbah",
+            "content": "in my opinion soso value is going to drop one of the better airdrops this 2026..... silently people are gathering points with low liquidity... there will be 150M $SOSO for Sodex campaign. which is $63M on current price which is obviosly gonna be spilt into seasons but still a good money last week 20K volume got me arround 100+ points on spots !!!! i like how its kinda non existent on CT its means good. this is just my conviction anyways NFA and DYOR.. \ud83d\uded1 im not paid for this post",
+            "engagement": "Likes=66, Reposts=7, Quotes=0, Replies=15, Views=3896",
+            "post_link": "https://x.com/Adellbah/status/2046114893578051624"
+        },
+        {
+            "username": "@stechhub1",
+            "content": "@SoSoValueCrypto https://t.co/QyQRHaILZ4 yes",
+            "engagement": "Likes=2, Reposts=0, Quotes=0, Replies=0, Views=12",
+            "post_link": "https://x.com/stechhub1/status/2046192927429292482"
+        }
+    ],
+    "timestamp": "2026-04-21 06:18:15"
+}
