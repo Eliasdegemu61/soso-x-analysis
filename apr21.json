@@ -1,0 +1,47 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on April 21-22, 2026, is predominantly positive, with users praising its data reliability, ETF flow reports (e.g., Wu Blockchain citing $238M BTC ETF inflows and $67.77M ETH ETF inflows), and upcoming Season 2 $SOSO airdrop snapshot expected this month, urging completion of real-user verification (RUP) to at least 60-100% eligibility and accumulation of EXP through tasks. Key discussions revolve around airdrop eligibility criteria emphasizing real-user activity over mere volume, integration with SoDEX for trading and vaults, $SOSO price stability at ~$0.42 amid bear market resilience (down only 70% since Jan 2025 launch vs. 95% for peers), and promotional referrals offering 30K EXP. Metrics show high engagement on official-like posts (e.g., 8K+ likes on market flash updates), but low non-official activity (mostly 0-5 likes), indicating buzz tied to rewards and ecosystem utility rather than organic hype.",
+        "sodex": "Sentiment for SoDEX is highly enthusiastic and promotional, focusing on Week 11 SoPoints leaderboard updates, vault deposits (e.g., MAG7.ssi LP for spreads/funding), v3 mainnet upgrade progress, and 150M $SOSO reward pool (~$62M) for trading spot/perps on ValueChain L1, with users sharing ranks (e.g., top 1.36%), referral rebates, and badges like 'Co-builder' or 'Advocate'. Discussions highlight performance-based rewards, separation from SoSoValue S2 (30M vs 150M $SOSO), on-chain orderbook advantages, and calls to grind activity amid dropping participation as snapshot nears. Engagement metrics peak on official posts (409 likes/13K views for SoPoints Week 11, 378 likes/7K views for vault tutorial), with community replies showing motivation but limited reach (mostly <10 likes).",
+        "ssi": "No significant mentions found for SSI Index specifically on April 21-22, 2026, excluding official accounts; passing references in SoDEX contexts (e.g., MAG7.ssi vaults) but no standalone discussions, sentiment analysis, or metrics."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How much $SOSO airdrop will I get with X EXP and 100% RUP but no referrals?",
+            "When exactly is the Season 2 snapshot, and what is the minimum eligibility %?",
+            "Does interacting with SSI indexes or SoDEX vaults boost EXP beyond daily tasks?"
+        ],
+        "sodex": [
+            "What tier/rank am I in for Week 11 SoPoints, and how to improve?",
+            "How does vault deposit flow work for MAG7.ssi LP, and what are withdrawal rules?",
+            "Are SoDEX rewards separate from SoSoValue S2, and how to maximize both?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@sodex_official",
+            "content": "SoPoints Week 11 is now live. \ud83d\udd25 How\u2019s your score looking this week? What tier are you in now? \ud83d\udc40 Drop your Week 11 update below. #SoDEX #SoPoints",
+            "engagement": "Likes=409, Reposts=70, Quotes=13, Replies=76, Views=13253",
+            "post_link": "https://x.com/sodex_official/status/2046562956180345002"
+        },
+        {
+            "username": "@sodex_official",
+            "content": "New to SoDEX vault deposits? Deposit MAG7.ssi \u2192 LP the SoDEX perp DEX \u2192 earn spreads, funding & liquidations. ... #SoDEX101 #SoDEX",
+            "engagement": "Likes=378, Reposts=101, Quotes=16, Replies=33, Views=7249",
+            "post_link": "https://x.com/sodex_official/status/2046523417701347744"
+        },
+        {
+            "username": "@So_Points",
+            "content": "\ud83d\udcf8SosoValue snapshot incoming. SoDEX halfway there. ... https://t.co/wDdhSWa3JN",
+            "engagement": "Likes=97, Reposts=19, Quotes=0, Replies=6, Views=2393",
+            "post_link": "https://x.com/So_Points/status/2046642902294503907"
+        },
+        {
+            "username": "@MrMatok",
+            "content": "Everyone talks about token price dips ... To get started, Go to: https://t.co/rPonZ3MijC",
+            "engagement": "Likes=112, Reposts=7, Quotes=1, Replies=14, Views=5078",
+            "post_link": "https://x.com/MrMatok/status/2046548338854478189"
+        }
+    ],
+    "timestamp": "2026-04-22 04:09:59"
+}
