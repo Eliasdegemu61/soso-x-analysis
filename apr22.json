@@ -1,0 +1,47 @@
+{
+    "summary": {
+        "sosovalue": "Community discussions around SoSoValue on April 22, 2026, primarily revolved around ETF inflow data sourced from SoSoValue, with positive mentions in contexts like Ethereum ETFs outperforming Bitcoin ($43M vs $11.84M inflows) and Hedera ETF updates, indicating neutral to positive sentiment as a reliable data provider. Users shared trading volumes, airdrop expectations for EXP Season 2, and promotions linking to SoSoValue platforms, with excitement building for the upcoming Community Call #2 on April 24 discussing SoDEX testnet airdrop reviews and ecosystem updates. Engagement metrics show modest likes (2-68) and views (260-3799) on key posts, reflecting niche but active interest among crypto traders and airdrop farmers, though no overwhelming hype or controversy noted.",
+        "sodex": "Sodex garnered attention through promotional posts and farming updates, with sentiment leaning bullish among dedicated users sharing macro analyses, weekly points earned (e.g., 252 points from 27k volume), and invitations via referral links, highlighting its DEX features on ValueChain L1 with SoPoints rewards. Discussions included tier achievements (e.g., Silver tier, top 7.56%) and trading tokenized assets, suggesting growing community engagement despite low individual post metrics (likes 0-3, views low). No major criticisms surfaced, positioning Sodex as an underfarmed opportunity tied to SoSoValue's ecosystem.",
+        "ssi": "No significant mentions of 'SSI Index' found in the searched posts from April 22-23, 2026; isolated unrelated references to similar terms like MAG7SSI token or stock tickers (e.g., $SOXX ETF) appeared but lacked context tying to crypto SSI Index, resulting in negligible discussion or sentiment data."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How much $SOSO can I expect from 500k-5M EXP in Season 2 airdrop?",
+            "What updates on EXP Season 2 and SoDEX testnet airdrop review will be shared in Community Call #2?",
+            "How to maximize EXP and authentication levels before May airdrop snapshot?"
+        ],
+        "sodex": [
+            "How to achieve higher SoPoints and tiers on Sodex weekly rewards?",
+            "What's the process for Sodex vault and trading on L1 order book?",
+            "When will Sodex mainnet launch post-testnet?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@BSCNews",
+            "content": "ETHEREUM ETF INFLOWS BEAT BITCOIN WITH 9 DAY STREAK\n\nEthereum $ETH spot ETFs are now outpacing Bitcoin $BTC ETFs in recent inflows. \n\nETH products recorded over $43 million in net inflows on April 21 per SoSoValue Crypto. This extends their inflow streak to nine consecutive days.\n\nBlackRock\u2019s ETHA led the charge with around $37 million.\n\nBitcoin ETFs saw a modest $11.84 million in inflows, marking a six day streak.",
+            "engagement": "Likes=68, Reposts=10, Quotes=1, Replies=6, Views=3799",
+            "post_link": "https://x.com/BSCNews/status/2046870623138222503"
+        },
+        {
+            "username": "@wublockchain12",
+            "content": "\u636e SoSoValue \u6570\u636e\uff0c\u6628\u65e5\uff08\u7f8e\u4e1c\u65f6\u95f4 4 \u6708 21 \u65e5\uff09\u6bd4\u7279\u5e01\u73b0\u8d27 ETF \u603b\u51c0\u6d41\u5165 1184.42 \u4e07\u7f8e\u5143\uff0c\u6301\u7eed 6 \u65e5\u51c0\u6d41\u5165\u3002\u4ee5\u592a\u574a\u73b0\u8d27 ETF \u6628\u65e5\u603b\u51c0\u6d41\u5165 4335.89 \u4e07\u7f8e\u5143\uff0c\u6301\u7eed 9 \u65e5\u51c0\u6d41\u5165\u3002https://www.wublock123.com/news/news-59948",
+            "engagement": "Likes=5, Reposts=0, Quotes=0, Replies=0, Views=2571",
+            "post_link": "https://x.com/wublockchain12/status/2046805085775331802"
+        },
+        {
+            "username": "@HederaKimchi",
+            "content": "2026/4/22 ETF Trading Volume (In/Out Flow)\nhedera-hashgraph:native ETF: $0.36m (-$0.001m)\n$XRP ETF: $10.96m\n$SOL ETF: $28.50m\n$DOGE ETF: $0.28m\n$LINK ETF: $1.83m\n$LTC ETF: $0.37m\n$AVAX ETF: $0.11m\n$DOT ETF: $0.01m\n\ud83d\udd17 @SoSoValueCrypto: https://sosovalue.com/join/984A2Z36",
+            "engagement": "Likes=2, Reposts=1, Quotes=0, Replies=0, Views=260",
+            "post_link": "https://x.com/HederaKimchi/status/2047075073413226717"
+        },
+        {
+            "username": "@0xYefz",
+            "content": "\u5b8f\u89c2\u73af\u5883\uff0c\u5f00\u59cb\u53d8\u5f97\u6709\u70b9\u610f\u601d\u4e86\ud83d\udc47\n\u7f8e\u4f0a\u8c08\u5224\u6682\u65f6\u6401\u7f6e\uff0c\u4f46\u51b2\u7a81\u6ca1\u6709\u5347\u7ea7\u3002\n\u7279\u6717\u666e\u5ba3\u5e03\u201c\u65e0\u9650\u671f\u505c\u706b\u201d\uff0c\u540c\u65f6\u5236\u88c1\u548c\u6d77\u4e0a\u5c01\u9501\u4ecd\u5728\u7ee7\u7eed\u3002\n\u2192 \u5c3e\u90e8\u98ce\u9669\u4e0b\u964d\uff0c\u4f46\u538b\u529b\u8fd8\u5728\n\u2192sodex\u4ea4\u6613https://sodex.com/join/YEFZ1688\n@SoSoValueCrypto @sodex_official \n#\u52a0\u5bc6 #Sodex #sosovalue #\u5b8f\u89c2",
+            "engagement": "Likes=3, Reposts=0, Quotes=0, Replies=1, Views=104",
+            "post_link": "https://x.com/0xYefz/status/2046842752474702123"
+        }
+    ],
+    "timestamp": "2026-04-23 07:05:29"
+}
