@@ -1,20 +1,64 @@
 {
   "date": "apr22",
-  "sentiment_score": 75,
-  "hot_topics": [],
+  "sentiment_score": 85,
+  "hot_topics": [
+    {
+      "topic": "SoPoints Week 11",
+      "summary": "Week 11 SoPoints distribution live, users sharing their scores and tiers",
+      "related_posts": [
+        {
+          "content": "\u2714\ufe0f #sodex haftal\u0131k puanlar da\u011f\u0131t\u0131ld\u0131. 1620 puan ald\u0131m. Art\u0131k tempo artt\u0131rma zaman\u0131. \u2714\ufe0f Kalan haftalarda 1500 puan alt\u0131na d\u00fc\u015fmemeye \u00e7al\u0131\u015farak 25k puan hedefimi ger\u00e7ekle\u015ftirece\u011fim. \u2714\ufe0f Beklentim +10k$ airdrop \u2714\ufe0fBotlar elendik\u00e7e projeye inanc\u0131m art\u0131yor. \u2714\ufe0fHem hacim kas\u0131p airdrop i\u00e7in puan kazan\u0131yorum. Hem haftal\u0131k reflerden kazan\u0131yorum. Ayr\u0131ca pozlardan etti\u011fim g\u00fczel karlarla da kazanc\u0131ma kazan\u00e7 kat\u0131yorum. \u2714\ufe0fE\u011fer vadeli i\u015flem a\u00e7may\u0131 seviyorsan buraya bakmal\u0131s\u0131n. \u2714\ufe0fGe\u00e7 kalmad\u0131n hemen  %5 #SoPoints ile ba\u015flamak i\u00e7in kat\u0131l. https://t.co/xRX45BoR0g \u2714\ufe0fSonunda diamond seviyesine ula\u015ft\u0131m. E\u011fer beni yan\u0131ltmazsa Sodex 2026 y\u0131l\u0131ndaki imza projem olacak. @sodex_official @SoSoValueCrypto #Sosovalue #Airdrop",
+          "url": "https://x.com/xTugrakripto/status/2046593222311387173"
+        },
+        {
+          "content": "Week 11 sopoints has dropped on @sodex_official . I did not push volume this week due to exams. Got this mostly from referrals, thanks guys. Next week hope to push more volume, its not too late to start. Join SoDEX Mainnet with my referral code and get a 5% SoPoints Boost!",
+          "url": "https://x.com/Sultan_D_King/status/2046695875435778198"
+        }
+      ]
+    },
+    {
+      "topic": "SoDEX Community Call and Airdrop",
+      "summary": "Upcoming community call discussing SoDEX updates, testnet airdrop, EXP Season 2",
+      "related_posts": [
+        {
+          "content": "SoSoValue Community Call #2 is coming on April 24,12:00 UTC. In this session, we\u2019ll share updates across the SoSoValue ecosystem, including progress on the SoDEX testnet airdrop review, the latest on EXP Season 2, and what\u2019s next for SoDEX We\u2019ll also revisit our long-term vision for SoDEX, share recent product progress, and answer questions collected from the community. Drop your questions below! We\u2019re answering EVERYTHING. \u23f0 April 24, 12:00 UTC \ud83d\udccd Link coming soon \u2014 Turn on notifications! \ud83d\udd14 #SoDEX #Airdrop #SoSoValue #Web3",
+          "url": "https://x.com/SoSoValueCrypto/status/2046944467597607125"
+        },
+        {
+          "content": "SoSoValue AMA Round 2 is coming on April 24. \ud83d\udcf8I see a SoSoValue Snapshot Date incoming! The Second SoSoValue AMA is coming in less than 48h, with @LeviSoSoValue currently announced as a Speaker. What will be covered: 1\u20e3 Testnet Airdrop Review 2\u20e3The Latest on EXP Season 2 (Snapshot date?) 3\u20e3 Updates about the SoSoValue Ecosystem 4\u20e3The Future of SoDEX \u2049\ufe0f AMA time Time & Info: \u23f0 April 24, 12:00 UTC \ud83c\udf10Link coming soon Turn on notifications & on the official X accounts to not miss it!",
+          "url": "https://x.com/So_Points/status/2046948459874279841"
+        }
+      ]
+    }
+  ],
   "official_announcements": [
     {
-      "content": "SoPoints Week 11 is now live. \ud83d\udd25\n\nHow\u2019s your score looking this week?\nWhat tier are you in now? \ud83d\udc40\n\nDrop your Week 11 update below.\n#SoDEX #SoPoints",
+      "content": "SoPoints Week 11 is now live. \ud83d\udd25 How\u2019s your score looking this week? What tier are you in now? \ud83d\udc40 Drop your Week 11 update below. #SoDEX #SoPoints",
       "url": "https://x.com/sodex_official/status/2046562956180345002"
     },
     {
-      "content": "Notice the bell in the top-right?             \n\nEveryone has a letter waiting. Most are the same. A few are not.  \n\nOpen yours. Drop the screenshot below \ud83d\udc47 \u2014 let's see who got the quiet one.  #SoDEXDrops #SoDEX",
+      "content": "Notice the bell in the top-right? Everyone has a letter waiting. Most are the same. A few are not.  Open yours. Drop the screenshot below \ud83d\udc47 \u2014 let's see who got the quiet one.  #SoDEXDrops #SoDEX",
       "url": "https://x.com/sodex_official/status/2046798565172027668"
-    },
-    {
-      "content": "New to SoDEX vault deposits?\n\nDeposit MAG7.ssi \u2192 LP the SoDEX perp DEX \u2192 earn spreads, funding & liquidations.\n\nBefore you sign:\n\u2192 MAG7.ssi/sMAG7.ssi, on ValueChain\n\u2192 You'll get sMAG7.SLP 1:1 as your vault share\n\u2192 One signature covers the full flow\n\u2192 Withdrawals unlock after 14 days\n\n\ud83c\udfa5 SoDEX 101 \u00b7 Deposit to Vault \u2193 #SoDEX101 #SoDEX",
-      "url": "https://x.com/sodex_official/status/2046523417701347744"
     }
   ],
-  "top_engaged_posts": []
+  "top_engaged_posts": [
+    {
+      "username": "@SoSoValueCrypto",
+      "content": "SoSoValue Community Call #2 is coming on April 24,12:00 UTC. In this session, we\u2019ll share updates across the SoSoValue ecosystem, including progress on the SoDEX testnet airdrop review, the latest on EXP Season 2, and what\u2019s next for SoDEX We\u2019ll also revisit our long-term vision for SoDEX, share recent product progress, and answer questions collected from the community. Drop your questions below! We\u2019re answering EVERYTHING. \u23f0 April 24, 12:00 UTC \ud83d\udccd Link coming soon \u2014 Turn on notifications! \ud83d\udd14 #SoDEX #Airdrop #SoSoValue #Web3",
+      "likes": 6637,
+      "url": "https://x.com/SoSoValueCrypto/status/2046944467597607125"
+    },
+    {
+      "username": "@safiyyaaliyu86",
+      "content": "Some people think posting about @SoSoValueCrypto here on X is nothing  You got it wrong guys, I got recognized (DM) by SoSoValue and @sodex_official even though I started it this year January. Sometimes it's not only about who comes early but also about who contribute, engage and help the project and it's community. There's a specific task on soso that actually gives exp points for just mentioning about them. They see it, they read and they select. Also, real user verification matters a lot, so try and do it even if it's 60% Chat me on Whatsapp to get it done: 09049287747.",
+      "likes": 153,
+      "url": "https://x.com/safiyyaaliyu86/status/2046839258569175518"
+    },
+    {
+      "username": "@So_Points",
+      "content": "SoSoValue AMA Round 2 is coming on April 24. \ud83d\udcf8I see a SoSoValue Snapshot Date incoming! The Second SoSoValue AMA is coming in less than 48h, with @LeviSoSoValue currently announced as a Speaker. What will be covered: 1\u20e3 Testnet Airdrop Review 2\u20e3The Latest on EXP Season 2 (Snapshot date?) 3\u20e3 Updates about the SoSoValue Ecosystem 4\u20e3The Future of SoDEX \u2049\ufe0f AMA time Time & Info: \u23f0 April 24, 12:00 UTC \ud83c\udf10Link coming soon  Turn on notifications & on the official X accounts to not miss it!",
+      "likes": 128,
+      "url": "https://x.com/So_Points/status/2046948459874279841"
+    }
+  ]
 }
