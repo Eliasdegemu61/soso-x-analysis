@@ -1,0 +1,37 @@
+{
+    "summary": {
+        "sosovalue": "No significant mentions found excluding official accounts during April 23-24, 2026. The few indirect references or replies to official posts show neutral to positive echoes of SoSoValue's market analysis flashes and ecosystem updates, but no independent community discussions, questions, or sentiment emerged in the results. Metrics across posts were low, with views under 200 and engagements minimal (likes 0-3), indicating negligible organic buzz.",
+        "sodex": "Community sentiment around Sodex is cautiously optimistic amid low-volume trading and anticipation for rewards, with users highlighting its high-performance order-book features on ValueChain, bug bounties attracting developers (472 likes on official post), and ongoing SoPoints farming for weekly snapshots targeting 50k+ volume. Key discussions focus on steady growth despite $SOSO price stagnation concerns, high unlocks, and lack of new listings, yet traders praise low fees and 5% referral boosts; one post notes 35k volume maintained against competitors for funding. Engagement peaks at 472 likes for the V3 bug bounty announcement, but non-official posts show modest metrics (14-65 likes), reflecting dedicated but small trader base awaiting May developments.",
+        "ssi": "No significant mentions found for SSI Index excluding official accounts on the specified dates. Sparse data shows no dedicated discussions, questions, or sentiment, with zero standalone posts matching criteria; incidental ties in broader SoSoValue contexts lack depth or metrics."
+    },
+    "top_questions": {
+        "sosovalue": [],
+        "sodex": [
+            "What verification % (e.g., 120% or 60%) will qualify for top airdrop tiers among 110M registrations?",
+            "When will Season 2 EXP snapshot and rewards be distributed?",
+            "Any updates on $SOSO buybacks, new exchange listings, or unlock impacts?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@sodex_official",
+            "content": "SoDEX V3's been on Mainnet for a while now. Now we're opening the floor: break it, and we'll pay you in $SOSO. Any valid trading-related bug counts. The nastier, the bigger the bounty. Submit it",
+            "engagement": "Likes=472, Reposts=116, Quotes=14, Replies=54, Views=11319",
+            "post_link": "https://x.com/sodex_official/status/2047211150316884479"
+        },
+        {
+            "username": "@vitalythm",
+            "content": "SoSoValue sezon 2 exp airdrobu i\u00e7in bir hafta i\u00e7inde SS al\u0131nm\u0131\u015f olacak... [%120 do\u011frulama yapan bir kullan\u0131c\u0131 tahminen hangi aral\u0131kta yer al\u0131yor? ... %60 do\u011frulama yapan bir kullan\u0131c\u0131 tahminen hangi aral\u0131kta yer al\u0131yor? ... da\u011f\u0131t\u0131m SoDEX'i direkt olarak etkileyecektir.]",
+            "engagement": "Likes=65, Reposts=3, Quotes=0, Replies=17, Views=3879",
+            "post_link": "https://x.com/vitalythm/status/2047267697503687018"
+        },
+        {
+            "username": "@Kriptoakd_tr",
+            "content": "Sizlere bir SoSoValue exp k\u0131sm\u0131nda elenmemeniz i\u00e7in g\u00fczel bir rehber yapay\u0131m... Detayl\u0131 bir rehber olacak...",
+            "engagement": "Likes=53, Reposts=4, Quotes=0, Replies=11, Views=1858",
+            "post_link": "https://x.com/Kriptoakd_tr/status/2047372241910775987"
+        }
+    ],
+    "timestamp": "2026-04-24 06:01:37"
+}
