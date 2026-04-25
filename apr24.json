@@ -1,0 +1,41 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is predominantly positive and highly engaged, driven by the recent AMA #2 announcements on Season 2 airdrop snapshots, eligibility criteria, and confirmation of Season 3, with users excited about random snapshots in May, final distribution end of May, and factors like EXP points, daily tasks, RUV (Real User Verification) scores above 0%, and potential SoDEX activity integration boosting optimism for real users while filtering bots. Key discussions revolve around testnet airdrop eligibility checker launching April 28 and distribution on May 8, appeal channels remaining open, RUV clarifications reducing fears of strict 100% requirements, and overall ecosystem progress including SoDEX v3 updates, API rollout, and product improvements shared in the AMA hosted by co-founder LeviSoSoValue. Metrics show strong engagement with posts garnering thousands of likes (e.g., 849 likes on summary recap), hundreds of reposts and replies, and views up to 49k, alongside neutral data mentions like Bitcoin ETF inflows sourced from SoSoValue, indicating sustained interest and trust in the project's delivery history from Season 1.",
+        "sodex": "Sentiment for Sodex is bullish and reward-focused, with users hyped over testnet airdrop updates confirming 2,000+ eligible users, eligibility checker on April 28, and distribution May 8, alongside mainnet trading incentives via SoPoints convertible to $SOSO based on volume, referral codes for 5% boosts, and integration into SoSoValue S2 eligibility sparking some debate but overall enthusiasm for high-potential returns reminiscent of past big wins. Discussions highlight trading on perp DEX for dual gains, personal targets like 30k+ points aiming for 10k+ USD airdrops, and appeals for missed users, emphasizing genuine activity over hype or paid influencers. Engagement metrics are robust with top posts at 849 likes, 191 reposts, 123 replies, 49k views for AMA recaps tying Sodex to SoSoValue, and 673 likes, 161 reposts on official updates, reflecting active community participation and anticipation for mainnet rewards pool.",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "Does activity on SoDEX affect Season 2 EXP airdrop eligibility?",
+            "What is the exact timeline for Season 2 snapshots and distribution?",
+            "Does RUV need to be 100% or is above 0% sufficient for eligibility?"
+        ],
+        "sodex": [
+            "How to check testnet airdrop eligibility and when is distribution?",
+            "Do I need to trade on mainnet with real money for SoPoints?",
+            "Is the appeal channel still open after April 28?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "So_Points",
+            "content": "SoSoValue AMA #2 Snapshot & Distribution dates!! \ud83d\udcf8SoSoValue Season 2 Snapshot, SoSoValue Season 3 confirmed, Ruv clarification, Snapshot dates Announced & more...",
+            "engagement": "Likes=849, Reposts=191, Quotes=34, Replies=123, Views=49792",
+            "post_link": "https://x.com/So_Points/status/2047656870047871125"
+        },
+        {
+            "username": "sodex_official",
+            "content": "SoDEX Testnet Airdrop: Appeal Review Update The SoDEX Testnet airdrop appeal review has been completed. \u2705 2,000+ eligible testnet users have been confirmed...",
+            "engagement": "Likes=673, Reposts=161, Quotes=14, Replies=54, Views=37087",
+            "post_link": "https://x.com/sodex_official/status/2047659418909814899"
+        },
+        {
+            "username": "sleektru",
+            "content": "\ud83d\udea8 SoSoValue Snapshot Update Eligibility Criteria; - Activity on SoSoValue Ecosystem - Activity on SoDex - Real User Probability Snapshot Date: Now - End of May (Randomly, without announcement) - SEASON 3 (Incoming) \ud83d\udea8\ud83d\udea8\ud83d\udea8",
+            "engagement": "Likes=253, Reposts=16, Quotes=3, Replies=41, Views=9023",
+            "post_link": "https://x.com/sleektru/status/2047660866221293883"
+        }
+    ],
+    "timestamp": "2026-04-25 12:24:15"
+}
