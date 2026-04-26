@@ -1,0 +1,47 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on April 25-26, 2026, is predominantly focused on anticipation and mixed reactions to Season 2 airdrop updates, with excitement for upcoming snapshots, eligibility based on SoSoValue points, SoDEX points, and real user verification percentages, as well as the Buildathon kickoff workshop on April 28 offering a 10,000 USDC prize pool. Key discussions revolve around airdrop checker launch on April 28 and distribution on May 8, appeals for previously ineligible users now succeeding, Season 3 confirmation, and concerns over SoDEX trading volume impacting eligibility, with some users expressing frustration that long-term farmers might be disadvantaged despite months of EXP farming. Metrics from top posts show high engagement on promotional content like the Buildathon announcement (quoted with 12k+ likes), airdrop guides (341 likes, 57 reposts, 34k views), and feedback requests, indicating strong interest but cautious optimism amid perceived shifts favoring SoDEX activity.",
+        "sodex": "Sentiment for SoDEX is engaged but polarized, with promotional posts highlighting low-investment volume generation for a $60M+ airdrop, weekly SoPoints rewards, and trading advantages like 5% boosts via referrals, contrasted by user complaints of losses from direct wallet sends, vault investments, and high ETH gas fees totaling $10 losses, alongside questions on funding rate settlements for short positions like gold. Discussions emphasize its role in boosting Season 2 eligibility up to 90%, real user verification via trading, and infrastructure improvements, but criticisms question high fees deterring usage and favoritism in airdrop criteria. Engagement metrics feature a feedback solicitation post with 38 likes and 9 replies, airdrop hunter post at 341 likes/57 reposts, and trading invites with modest views, reflecting active promotion amid usability concerns.",
+        "ssi": "No significant mentions found for SSI Index specifically during April 25-26, 2026; discussions occasionally reference SoSoValue's Fear & Greed Index or sentiment tools in broader contexts like market analysis correlating high index values (90+) with potential blow-off tops for BTC, but no direct SSI Index conversations or metrics identified in the searched posts."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "When is the Season 2 airdrop checker live and what are the exact eligibility criteria including snapshots?",
+            "How will Buildathon participation and tools give an edge in the 10,000 USDC prize pool?",
+            "Is Season 3 confirmed immediately after Season 2 distribution?"
+        ],
+        "sodex": [
+            "What is the most honest/brutal feedback on @sodex_official platform?",
+            "Where do funding rates settle after calculation, especially for short positions like gold, and why do position values fluctuate?",
+            "Why are SoDEX trading volumes and activities being prioritized in airdrop eligibility over long-term EXP farming?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@CryptoLakhan",
+            "content": "\ud83d\udea8 SoSoValue Season 2 \u2013 SoDEX Airdrop Checker is LIVE! \ud83d\ude31\n\n\ud83d\udd17 Check your eligibility here:\nhttps://testnet.sodex.com/points\n\n\ud83d\udcc5 Eligibility Checker: April 28, 12:00 UTC\n\ud83c\udf81 Distribution: May 8, 12:00 UTC\n\nGood news: Users who were previously not eligible and submitted appeals are now becoming eligible \u2705\nIf you haven\u2019t appealed yet, you can still submit it!\n\n\ud83d\udcb0 Massive $60M+ airdrop incoming on SoDEX\n\u26a1 low investment needed \u2014 just generate volume\n\n\ud83d\udcd8 Join Guide:\nhttps://t.co/LrS7xsYWJW\n\n\ud83d\udce2 Season 2 airdrop will complete in May, distribution will follow, and Season 3 will start immediately after! \n\n#Airdrop #CryptoAirdrop #SoDEX #sosovalueairdropchacker #airdropchacker",
+            "engagement": "Likes=341, Reposts=57, Quotes=2, Replies=26, Bookmarks=130, Views=34380",
+            "post_link": "https://x.com/CryptoLakhan/status/2047897821727342772"
+        },
+        {
+            "username": "@News_Arena_",
+            "content": "\ud83d\udca5 The update from the #SOSOValue team yesterday regarding the Season 2 airdrop wasn't what most of the community wanted to hear, but believe the team knows what's best for the project.\n\nSome people say Season 2 airdrops don't reward well, I\u2019m counting on $SOSO and $GRASS to change that narrative.",
+            "engagement": "Likes=156, Reposts=15, Quotes=0, Replies=14, Bookmarks=5, Views=7417",
+            "post_link": "https://x.com/News_Arena_/status/2047974869841629582"
+        },
+        {
+            "username": "@So_Points",
+            "content": "I'm asking for your most honest/brutal feedback about @sodex_official \n\nlets hear it",
+            "engagement": "Likes=38, Reposts=1, Quotes=0, Replies=9, Bookmarks=0, Views=915",
+            "post_link": "https://x.com/So_Points/status/2048149046976716914"
+        },
+        {
+            "username": "@aslibhai111",
+            "content": ">> sosovalue $soso season 2 airdrop coming and snapshot \n\n   \u2022 according to Season today\u2019s sosovalue AMA\n\n      \u2022  3 random snapshots will be taken in may 2026 \n\n    \u2022 aeligibility based on SoSoValue points + sodex points +and Real User Verification %\n\n   \u2022 checker expected by end of may\n\n\u2022 season 3 airdrop is confirmed",
+            "engagement": "Likes=36, Reposts=1, Quotes=0, Replies=3, Bookmarks=1, Views=2277",
+            "post_link": "https://x.com/aslibhai111/status/2047996358817460420"
+        }
+    ],
+    "timestamp": "2026-04-26 06:12:53"
+}
