@@ -1,0 +1,41 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on April 26-27, 2026, is predominantly positive yet cautious, with users heavily focused on the EXP airdrop Season 2 (S2) eligibility, emphasizing the importance of Sodex trading volume, platform activities, and real user verification over mere EXP accumulation to avoid receiving 'dust' allocations. Key discussions revolve around strategies to maximize airdrop rewards, such as accumulating trading volume on Sodex spot and futures, conducting human verification, and using referral codes for SoPoints boosts, alongside announcements of upcoming Season 3 and community farming efforts. Metrics from posts show moderate engagement, with the highest post garnering 203 likes, 8 reposts, 54 replies, and nearly 10K views on advice for Sodex trading; other notable interactions include 40 likes and 1.5K views on airdrop verification critiques, and lower engagements (0-30 likes) on market updates shared via SoSoValue links, indicating niche but active crypto community interest amid broader market sideways movement.",
+        "sodex": "Sentiment for Sodex is optimistic and promotional, positioned as the 'real alpha' for boosting SoSoValue airdrop allocations up to 90% through trading activities on spot and futures, with users sharing weekly volume stats (e.g., 50K volume, 2.5K OI in Week 12) and referral codes for 5% SoPoints boosts backed by 150M $SOSO funds. Discussions highlight Sodex mainnet activities as crucial for airdrop eligibility, testnet experiences, and ecosystem commitment, with concerns about low activity impacting allocations but reassurance from rising $SOSO token value. Engagement metrics are low to moderate: a Week 12 recap post achieved 18 likes, 746 views, 5 replies; promotional replies and advice posts range from 1-30 likes, reflecting targeted community hype rather than viral traction.",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "Will SoSoValue Season 2 airdrop differ from community farming systems?",
+            "What determines eligibility and airdrop size beyond EXP accumulation?",
+            "When is the snapshot or distribution date for the airdrop?"
+        ],
+        "sodex": [
+            "Does Sodex activity include mainnet trading for airdrop boosts?",
+            "Is Sodex launch in July or August?",
+            "How does low Sodex volume affect airdrop allocations?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@Mr_Jay_Pee",
+            "content": "If you want to eat big from Soso S2 airdrop, u just need to use Sodex to trade both spots and futures. Accumulate more trading volume there. Truthfully, having hundred of millions EXPs with little to no trading volume on Sodex will give you dust. Go do your Real User verification",
+            "engagement": "Likes=203, Reposts=8, Quotes=5, Replies=54, Views=9926",
+            "post_link": "https://x.com/Mr_Jay_Pee/status/2048336587549794304"
+        },
+        {
+            "username": "@cryptomentoraa",
+            "content": "This article was gotten directly from the sosovalue official Twitter page after the AMA regarding sosovalue EXP Airdrop, and you can read it for yourself. They clearly said human verification and overall platform activity determine eligibility and airdrop size. I don't see sodex mainnet activities here. Or maybe the team should come out and tell us what they mean by overall platform activity \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "engagement": "Likes=40, Reposts=6, Quotes=0, Replies=12, Views=1526",
+            "post_link": "https://x.com/cryptomentoraa/status/2048368977835921415"
+        },
+        {
+            "username": "@Absoluto92",
+            "content": "Week 12 on @sodex_official is over. 50k Volume 2.5K OI. Lower than previous week so let's see how much is this going to affect our next allocation $soso token it's also higher than 1 month ago so no need to worry about our value of a point. Feel free to apply code for 5% points boost:",
+            "engagement": "Likes=18, Reposts=1, Quotes=0, Replies=5, Views=746",
+            "post_link": "https://x.com/Absoluto92/status/2048280536162955285"
+        }
+    ],
+    "timestamp": "2026-04-27 05:52:39"
+}
