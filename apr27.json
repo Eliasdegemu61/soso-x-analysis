@@ -1,0 +1,57 @@
+{
+    "summary": {
+        "sosovalue": "Community discussions around SoSoValue on April 27-28, 2026, reveal a predominantly positive sentiment, with users praising its data analytics, integration with SoDEX for trading, and upcoming Season 3 rewards emphasizing onchain activity. Key conversations focus on the platform's shift towards rewarding active contributors through trading on SoDEX, providing liquidity, and ecosystem engagement rather than passive EXP farming, as highlighted in a viral post by @MR_CRYPTO150 garnering 56 likes and 33 replies. Metrics indicate strong interest, with posts referencing ETF inflows data from SoSoValue (e.g., BTC ETFs +$823.70M), appeals for testnet airdrops, and promotional content boosting visibility; however, some confusion exists among passive users feeling discouraged, though builders and traders express bullishness on long-term value capture via SSI indices and AI-driven insights. Overall engagement is moderate, with top posts achieving 10k+ views and hundreds of interactions, signaling growing traction amid airdrop anticipation.",
+        "sodex": "Sentiment towards SoDEX is highly enthusiastic and bullish, centered on its testnet airdrop checker launching April 28 and distribution on May 8, with over 2,000 eligible users confirmed, sparking excitement and appeals for inclusions as seen in Vietnamese translations and updates. Discussions highlight strategic farming of weekly SoPoints (1M per week shared by volume), with users like @trungvu_dtv advising against early FOMO and noting x10 better yields now in week 11 (e.g., 18 points at top 2.68% vs. 169 at 2.56% early), alongside features like Limit TP/SL orders promoted by official posts. Key metrics show high engagement: official video post [post:28] leads with 177 likes, 37 reposts, 26 replies, 5.6k views; community flexing of volumes and tiers (e.g., @So_Points W13 post 46 likes); trading tips and ref codes amplify participation, though risks of losses are acknowledged, positioning SoDEX as a promising perp DEX on ValueChain.",
+        "ssi": "Mentions of SSI Index (SoSoValue Indexes) are limited but positive, integrated into broader SoSoValue ecosystem talks, with posts referencing MAG7.ssi ETF flow watches (BTC +$823M, ETH +$155M) and trading on SoDEX, indicating utility in multi-asset exposure. Sentiment is optimistic among informed users viewing it as a transparent onchain spot index protocol for capturing crypto growth, though no standalone hype; one discussion clarifies buying SSI from SoSoValue app impacts rewards positively alongside SoDEX activity. Metrics are sparse with low direct engagement (e.g., replies to official posts at 2-7 likes), but tied to high-visibility SoSoValue content; staking Epoch 4 noted in bios, suggesting steady interest without major April 27-28 spikes."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How does onchain activity on SoDEX impact SoSoValue S2 rewards?",
+            "Who will SoSoValue prioritize for rewards: passive EXP farmers or active traders/builders?",
+            "What specific actions count as 'ecosystem activity' for Season 3 eligibility?"
+        ],
+        "sodex": [
+            "When exactly does the SoDEX testnet airdrop checker launch on April 28 and distribution on May 8?",
+            "Are the airdrop news about <100% human verification and eligibility true?",
+            "How to maximize SoPoints in later weeks like W11/W13 with less competition?"
+        ],
+        "ssi": [
+            "Does buying SSI Index from SoSoValue app positively affect rewards?",
+            "How is SSI integrated with SoDEX for trading multi-asset indices?",
+            "What are the latest MAG7.ssi component ETF flows reported by SoSoValue?"
+        ]
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@sodex_official",
+            "content": "Set the price. Get the price. Limit TP/SL on SoDEX \u2014 when your trigger hits, the system rests a limit order at your price, not a market sweep. Tradeoff: may not fully fill in fast moves. You pick the tool. \u2192 https://sodex.com/trade/futures/BTC-USD",
+            "engagement": "Likes=177, Reposts=37, Quotes=9, Replies=26, Views=5661",
+            "post_link": "https://x.com/sodex_official/status/2048767095085912364"
+        },
+        {
+            "username": "@So_Points",
+            "content": "How did your SoDEX Week 12 go? Flex your weekly SoDEX volume & how much SoPoints you expect for W12 & W13. Do we have any Diamond Tiers here?",
+            "engagement": "Likes=46, Reposts=3, Quotes=0, Replies=7, Views=2065",
+            "post_link": "https://x.com/So_Points/status/2048750505782821129"
+        },
+        {
+            "username": "@MR_CRYPTO150",
+            "content": "After the last AMA from @SoSoValueCrypto, the community seems to split into three groups... Position yourself like a user but think like a contributor.",
+            "engagement": "Likes=56, Reposts=8, Quotes=3, Replies=33, Views=3016",
+            "post_link": "https://x.com/MR_CRYPTO150/status/2048727734872944901"
+        },
+        {
+            "username": "@trungvu_dtv",
+            "content": "Nh\u1eafc l\u1ea1i v\u1edbi anh em th\u00f4ng tin quan tr\u1ecdng v\u1ec1 k\u00e8o prep dex @sodex_official... Anh em n\u00e0o y\u00eau n\u01b0\u1edbc th\u00ec \u1ee7ng h\u1ed9 m\u00ecnh code ref VIETNAM nh\u00e9.",
+            "engagement": "Likes=19, Reposts=0, Quotes=1, Replies=14, Views=1127",
+            "post_link": "https://x.com/trungvu_dtv/status/2048699702925983832"
+        },
+        {
+            "username": "@bashorunedward",
+            "content": "Airdrop Update on Sosovalue; I heard that SODEX Airdrop Checker will launch on April 28th... Are these news true? If so then I am bullish once again.",
+            "engagement": "Likes=27, Reposts=1, Quotes=0, Replies=10, Views=2926",
+            "post_link": "https://x.com/bashorunedward/status/2048786750709928228"
+        }
+    ],
+    "timestamp": "2026-04-28 06:06:27"
+}
