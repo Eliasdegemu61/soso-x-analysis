@@ -1,0 +1,41 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is largely positive with excitement building around upcoming airdrops and points campaigns, though some frustration exists from users who feel their testnet participation wasn't adequately rewarded initially. Key discussions revolve around the SoDEX testnet patch airdrop list release, loyalty rewards with extra $SOSO for early builders, tiered SoPoints system (Silver, Gold, Diamond), and clarifications that this is not Season 2 but a cleanup for testnet rewards with mainnet activities offering 150M $SOSO for traders. Metrics show high engagement on related posts, such as 638 likes and 125 reposts on the official testnet announcement, 331 likes on airdrop claim guides, and ongoing appeals process highlighting real user contributions over bots. Users are grinding mainnet points via trading, swaps, and holding SSI tokens, with weekly distributions fostering consistent participation.",
+        "sodex": "Sentiment for Sodex is mixed-positive, with strong hype for the testnet patch airdrop (claim opens May 8) and mainnet trading rewards, but pockets of disappointment from excluded users questioning fairness and bot detection. Discussions focus on checking eligibility at testnet.sodex.com/points, appeal processes, SoPoints Week 12 distribution, tier progression, and strategies for mainnet volume farming with 150M $SOSO pool. High-engagement posts include the official announcement (638 likes, 49k views), points distribution update (294 likes), and user guides (331 likes), indicating robust community activity despite some appeals and tech support queries like trading enablement issues.",
+        "ssi": "No significant mentions found for SSI or SSI Index independent of SoDEX contexts; discussions tie it to holding SSI tokens for mainnet points in Sodex ecosystem, with neutral-to-positive sentiment as part of broader $SOSO farming strategies. Limited standalone metrics or debates observed in the queried period."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "When is Season 2 airdrop?",
+            "How to maximize mainnet points for 30M $SOSO?",
+            "Why low likes on tweets despite 100k+ users?"
+        ],
+        "sodex": [
+            "Am I eligible for testnet patch airdrop?",
+            "How to appeal if not on the list?",
+            "What tier am I in and how to upgrade SoPoints?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@sodex_official",
+            "content": "\u2705 SoDEX testnet patch airdrop list is here. A make-good drop \u2014 for those we missed, and for those who proved through appeals that they're real builders, not bots. \ud83d\udd0d Check now \u2192 https://testnet.sodex.com/points \ud83c\udf81 Claim opens on May 8, 12:00 UTC We added Loyalty Rewards (hint: extra $SOSO) for those who have been building SoDEX with us since Day 1, starting from the SoDEX testnet days. One more thing: your SoDEX status has value. The higher your SoPoints Tier, the more you get. \ud83e\udd48 Silver \u2192 \ud83e\udd47 Gold \u2192 \ud83d\udc8e Diamond Not on the list? Appeal here \u2192 https://t.co/QAuXtmboLL Show us your number \ud83d\udc47 Let's see who the real builders are.",
+            "engagement": "Likes=638, Reposts=125, Replies=158, Views=49971",
+            "post_link": "https://x.com/sodex_official/status/2049097354742284460"
+        },
+        {
+            "username": "@Farmercist",
+            "content": "SoSoValue SoDEX Testnet Airdrop 2 Claim is Live! If you joined the sodex testnet, you can check mow, claim in 9 days Claim link: https://testnet.sodex.com/points \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 New alpha \ud83d\udc47 If you missed the testnet with only 1m tokens, don\u2019t miss mainnet with 150 million $soso Signup and Claim mainnet points here: https://t.co/ASzmSEqPPL - trade on mainnet - swaps - perp trading earn points - Hold ssi tokens earn points - points are distributed every 7 days Mainnet grind will probably be the best option compared to the testnet, LOCK IN NOW.",
+            "engagement": "Likes=331, Reposts=27, Replies=61, Views=30893",
+            "post_link": "https://x.com/Farmercist/status/2049101007041302548"
+        },
+        {
+            "username": "@sodex_official",
+            "content": "SoPoints Week 12 has been distributed. 12 weeks in \u2014 your tier is no longer just a number, it\u2019s a record of how consistently you\u2019ve shown up across the ecosystem. Check your latest points and tier now. \ud83d\udc49 https://sodex.com/points What tier are you at this week? \ud83d\udc40 #SoPoints #SoSoValue #SoDEX #SOSO",
+            "engagement": "Likes=294, Reposts=64, Replies=71, Views=11959",
+            "post_link": "https://x.com/sodex_official/status/2049111389881409815"
+        }
+    ],
+    "timestamp": "2026-04-29 05:08:45"
+}
