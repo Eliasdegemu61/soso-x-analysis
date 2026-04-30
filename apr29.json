@@ -1,0 +1,41 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is predominantly positive, with users expressing excitement over the upcoming Season 2 airdrop expected in May, emphasizing genuine activity beyond mere clicking and claiming, such as completing daily tasks, research terminal engagement, and ecosystem contributions like interactions with SoDEX and SSI for maximized rewards. Key discussions revolve around the Real User Verification (RUV) process to filter bots, the linkage between SoSoValue EXP points, referrals, and bonuses (e.g., 120% probability for 20% EXP boost), and speculation on substantial payouts similar to Season 1's high returns, with reminders of the final snapshot and integration with SoDEX trading for eligibility. Metrics from related posts show high engagement on promotional content, such as one post garnering 294 likes and 17k+ views hyping $SOSO TGE potential at $50k+, alongside user reports of account growth and calls to position early in the sluggish market; no negative sentiment detected, but stress on quality over quantity farming.",
+        "sodex": "Sentiment for SoDEX is mixed but leaning bullish, with enthusiasm for mainnet rewards (150M $SOSO for traders), SoPoints accumulation through organic trading, deposits, and high volume/OI, contrasted by some disappointment over testnet patch airdrop eligibility where many appeals failed despite prior participation, leading to 'not eligible' statuses and calls for quality signals over grinding. Discussions highlight bug bounty rewards (200+ reports processed), TP/SL mechanics education, staking withdrawal timelines, and synergies like vault deposits reducing fees while boosting points and linking to SSI/SoSoValue airdrops; users report SoPoints surges (e.g., 1 to 180) and claim values around $43 for 100 $SOSO. Engagement metrics peak at 339 likes/9k views for bug reports post, 219 likes for trading tutorial, and 194 likes for Season 2 insights, with views up to 91k on testnet list (though official, contextually discussed); overall, focus shifts to mainnet potential outweighing testnet hiccups.",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "When is the SoSoValue Season 2 snapshot?",
+            "How to complete Real User Verification (RUV) for S2 airdrop?",
+            "What activities maximize EXP rewards beyond daily tasks?"
+        ],
+        "sodex": [
+            "Why am I not eligible for SoDEX testnet patch airdrop?",
+            "When can I claim/withdraw from SoDEX staking?",
+            "How does SoDEX SoPoints tier affect rewards?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "6looted",
+            "content": "I will never accept the propaganda that someone is \u201ctoo busy\u201d to text back lmao",
+            "engagement": "Likes=16506, Reposts=4142, Views=541997",
+            "post_link": "https://x.com/6looted/status/2049478025381634294"
+        },
+        {
+            "username": "DigiTektrades",
+            "content": "No one believed $SOSO will print over $50k at TGE... Final snapshot scheduled for May.",
+            "engagement": "Likes=294, Reposts=26, Views=17990",
+            "post_link": "https://x.com/DigiTektrades/status/2049413391043657904"
+        },
+        {
+            "username": "sodex_official",
+            "content": "SoDEX has received and reviewed 200+ valid bug reports from the community.",
+            "engagement": "Likes=339, Reposts=72, Views=9155",
+            "post_link": "https://x.com/sodex_official/status/2049458689140994261"
+        }
+    ],
+    "timestamp": "2026-04-30 03:33:12"
+}
