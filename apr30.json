@@ -1,0 +1,51 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is predominantly positive and enthusiastic, driven by ongoing airdrop farming, limited-time tasks like 'Her Comeback: Merge & Story' for up to 3,000 EXPs, and Season 2 eligibility updates assuring high chances even for low-completion users (15%-100%) as long as no bots or illegal activity. Key discussions revolve around daily check-ins, on-chain tasks, snapshots happening randomly, staking $SOSO for boosts (up to 11x SSI rewards and 40% trading fee discounts on SoDEX), Buildathon starting May 1st with $10K USDC grants, and influencers promoting it as the next big opportunity post-MegaEth. Metrics include high engagement on promotional posts (e.g., 428 likes, 108 replies on farming guides; 160 likes on task alerts), referrals flooding comments for 5% SoPoints boosts, and data citations for ETF flows showing net outflows ($138M BTC, $87M ETH) highlighting SoSoValue's role as a trusted analytics source amid sideways markets.",
+        "sodex": "Sentiment for SoDEX is highly bullish and urgent, positioned as a must-farm platform with Season 1 offering 150M $SOSO rewards (~$60M valuation), weekly 1M SoPoints shares, and upcoming W13 snapshot in ~48h sparking progress boasts and personal record discussions. Discussions focus on trading futures/swaps/vaults to accumulate points, using referrals (e.g., 'SOSO', 'SIGNNUP', 'MRCRYPTO') for lifelong 5% boosts, influencers calling it the 'next cook' after MegaEth, and integrations like perp DEX volume rankings ($30M daily). Engagement metrics shine with top posts at 428 likes/23 reposts/108 replies, 107 likes/20 reposts on snapshot alerts, 129 likes on related tasks, and Vietnamese community updates on crypto news alongside SoDEX mentions.",
+        "ssi": "SSI (SoSoValue Indexes) garners neutral to positive sentiment in niche discussions, primarily as a utility for boosts (e.g., SSI Boost Active, staking for up to 11x rewards, MAG7.SSI metrics like 13.92 price/-1.01% 24h/-23.94% 1Y), verification roles (>100 SSI/$SOSO on Base/Eth), and data insights (e.g., ssiGameFi +10% 24h, ETH restaking flows). Key talks include staking MAG77.SSI as a 'real user' badge, Discord verification, and integrations in Buildathon APIs/research terminal. Limited standalone buzz with low engagement (e.g., 8 likes on staking post, 2 likes on GameFi), mostly embedded in SoSoValue/SoDEX convos; no major controversies or hype spikes."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How much progress have you made in tasks for Season 2 eligibility?",
+            "What % of tasks have you completed on SoSoValue ExP?",
+            "Are random snapshots already happening for EXPs?"
+        ],
+        "sodex": [
+            "How much progress did you make so far in W13 on SoDEX?",
+            "New personal SoPoints record expected this week?",
+            "What's your referral code to boost SoPoints by 5%?"
+        ],
+        "ssi": [
+            "How to stake for SSI boost and get Discord role?",
+            "What's the current performance of ssiGameFi or MAG7.SSI?",
+            "How does SSI integrate with SoDEX trading discounts?"
+        ]
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@Farmercist",
+            "content": "If you missed MegaEth, please don\u2019t miss $SOSO it\u2019s the next cook. How to lock in - signup: https://sodex.com/join/SIGNNUP - trades futures, or swap, or use vault - accumulate point - soso sodex season 1 has 150 million $SOSO tokens in reward ( 60 million dollars at current valuation ) The end.",
+            "engagement": "Likes=428, Reposts=23, Quotes=5, Replies=108, Views=23599",
+            "post_link": "https://x.com/Farmercist/status/2049861719128694867"
+        },
+        {
+            "username": "@Farmercist",
+            "content": "Thank you lord for keeping things smooth Web3 will change your life \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "engagement": "Likes=2971, Reposts=111, Quotes=52, Replies=705, Views=219688",
+            "post_link": "https://x.com/Farmercist/status/2049797868446187796"
+        },
+        {
+            "username": "@Mr_Jay_Pee",
+            "content": "There's a time limited tasks on SosoValue ExP site now. Play \"Her Comeback: Merge & Story\" now to earn up to 3,000 EXPs. Remember to take any task you see on the site seriously as snapshot is taken randomly from now onward. Task will expire in 22hrs, go complete it now!",
+            "engagement": "Likes=129, Reposts=15, Quotes=3, Replies=29, Views=5926",
+            "post_link": "https://x.com/Mr_Jay_Pee/status/2049848114924671128"
+        },
+        {
+            "username": "@So_Points",
+            "content": "\ud83d\udcf8SoDEX W13 Snapshot will be taken in ~48h Another week about to be locked in & we are more than half way through Season 1. How much progress did you make so far in W13? New personal SoPoints record expected? You dont wanna misse out on SoDEX S1 and/or boost your points by 5% for life .. Use code SOSO or register here\ud83d\udc47",
+            "engagement": "Likes=107, Reposts=20, Quotes=1, Replies=15, Views=3057",
+            "post_link": "https://x.com/So_Points/status/2049801548453036256"
+        }
+    ],
+    "timestamp": "2026-05-01 09:23:56"
+}
