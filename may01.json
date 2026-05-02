@@ -1,0 +1,41 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is overwhelmingly positive, with users praising its Season 2 airdrop campaign offering $30M in distribution, snapshot in May and distribution in June, emphasizing free participation through referrals and tasks without financial investment. Discussions highlight the project's fairness, as seen in stories of successful appeals for additional allocations in Season 1, building trust for Season 2, alongside excitement for the new Buildathon integrating AI and blockchain tools for solo developers to create Web3 empires using SoSoValue's intelligence and SoDEX infrastructure. Metrics show high engagement on promotional posts, such as replies asking about points progress and OG invites, indicating strong community involvement and hopium for rewards, though some express caution based on general airdrop experiences.",
+        "sodex": "Sentiment for Sodex is bullish and opportunistic, focused on its Season 1 airdrop with 150M tokens (valued at ~$60M), ending in July with post-season snapshot, where users share trading volumes (e.g., 15k volume yielding SoPoints) and low costs ($4.3), alongside weekly 1M SoPoints rewards and ref boosts. Key discussions revolve around farming strategies on the perp DEX via ValueChain L1, its CEX-like experience, integration with SoSoValue, and potential for high rewards given low current attention, with users urging participation before mainnet snapshots. Engagement metrics reveal popular posts with 123 likes on updates and 68 likes on thanks to projects, reflecting growing hype and comparisons to successful prior drops.",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "What are your SoSoValue Season 2 points?",
+            "Did you receive an OG member invite from SoSoValue?",
+            "How much EXP did you get in Season 1 and what was your allocation?"
+        ],
+        "sodex": [
+            "Will SoDEX Season 1 cook?",
+            "How many SoPoints did 10k/15k volume give you?",
+            "What's your expected SoPoint/SOSO estimate?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@CryptoLakhan",
+            "content": "\ud83d\udea8 Sosovalue Season 2 & SoDex Airdrop \u2014 Key Updates \ud83e\ude82\n\nHere\u2019s a clear breakdown so you don\u2019t miss anything \ud83d\udc47\n\n\ud83d\udd39 Sosovalue Season 2\n\u2022 Total Distribution: $30M\n\u2022 Snapshot: May\n\u2022 Distribution: June\n\n\ud83d\udd39 SoDex Airdrop\n\u2022 Total Distribution: 150M tokens\n\u2022 Season 1 Ends: July\n\u2022 Snapshot: Expected after Season 1\n\u2022 Distribution: ~2 weeks after snapshot\n\n\ud83d\udc49 Good news: You can still join SoDex now and start earning rewards:\nhttps://t.co/LrS7xsYWJW\n\n\ud83d\udd2e After distribution:\n\u2022 Sosovalue \u2192 Season 3\n\u2022 SoDex \u2192 Season 2\n\n\u2705 Note: All the details shared above are officially confirmed. You can also verify them yourself from official sources.\n\n\ud83d\udcac Drop your points in the comments \u2014 let\u2019s compare progress!\n\n#CryptoAirdrop #CryptoNews #Web3 #AirdropAlert #sosovalueseaosn2 #sodrxairdodp #sosovalueseason2airdorp",
+            "engagement": "Likes=123, Reposts=13, Quotes=1, Replies=17, Views=7361",
+            "post_link": "https://x.com/CryptoLakhan/status/2050209679972930023"
+        },
+        {
+            "username": "@PhanDat0612",
+            "content": "H\u1ea7u h\u1ebft c\u00e1c d\u1ef1 \u00e1n airdrop m\u00f9a 2 \u0111\u1ec1u l\u1ecf nh\u01b0ng m\u00ecnh tin ch\u1eafc @SoSoValueCrypto m\u00f9a 2 v\u00e0 @sodex_official ch\u1eafc ch\u1eafn kh\u00f4ng ph\u1ea3i nh\u01b0 v\u1eady \u0111\u00e2y l\u00e0 l\u00fd do: ... #SoSoValue",
+            "engagement": "Likes=65, Reposts=4, Quotes=2, Replies=35, Views=6077",
+            "post_link": "https://x.com/PhanDat0612/status/2050020927149396405"
+        },
+        {
+            "username": "@So_Points",
+            "content": "Let\u2019s hear you SoPoint = SOSO estimates\n\nExpecting to see a lot of hopium \u2026\n\nWill SoDEX S1 cook?",
+            "engagement": "Likes=64, Reposts=8, Quotes=1, Replies=11, Views=2689",
+            "post_link": "https://x.com/So_Points/status/2050008801344954416"
+        }
+    ],
+    "timestamp": "2026-05-02 05:16:58"
+}
