@@ -1,42 +1,42 @@
 {
-  "date": "apr30",
-  "sentiment_score": 80,
+  "date": "may2",
+  "sentiment_score": 85,
   "hot_topics": [
     {
-      "topic": "SoPoints Week 12 Distribution",
-      "summary": "Weekly SoPoints distribution for Week 12 announced, emphasizing consistent ecosystem participation and tiers.",
+      "topic": "SoPoints",
+      "summary": "Weekly SoPoints distribution, tiers, and boosts via referrals",
       "related_posts": [
         {
           "content": "SoPoints Week 12 has been distributed. 12 weeks in \u2014 your tier is no longer just a number, it\u2019s a record of how consistently you\u2019ve shown up across the ecosystem. Check your latest points and tier now. \ud83d\udc49 https://sodex.com/points What tier are you at this week? \ud83d\udc40 #SoPoints #SoSoValue #SoDEX #SOSO",
           "url": "https://x.com/sodex_official/status/2049111389881409815"
         },
         {
-          "content": "Nearing 80k Points total :)",
-          "url": "https://x.com/So_Points/status/2049111545766949133"
+          "content": "\u2705 SoDEX testnet patch airdrop list is here. A make-good drop \u2014 for those we missed, and for those who proved through appeals that they're real builders, not bots. \ud83d\udd0d Check now \u2192 https://testnet.sodex.com/points \ud83c\udf81 Claim opens on May 8, 12:00 UTC We added Loyalty Rewards (hint: extra $SOSO)   for those who have been building SoDEX with us since Day 1, starting from the  SoDEX testnet days. One more thing: your SoDEX status has value. The higher your SoPoints Tier, the more you get. \ud83e\udd48 Silver \u2192 \ud83e\udd47 Gold \u2192 \ud83d\udc8e Diamond Not on the list? Appeal here \u2192  https://t.co/QAuXtmboLL Show us your number  \ud83d\udc47 Let's see who the real builders are.",
+          "url": "https://x.com/sodex_official/status/2049097354742284460"
         }
       ]
     },
     {
-      "topic": "Testnet Patch Airdrop",
-      "summary": "SoDEX testnet patch airdrop list released with loyalty rewards based on SoPoints tiers, claim opens May 8.",
+      "topic": "Staking and Vault",
+      "summary": "Discussions on staking MAG7.ssi, vault withdrawals, and lock-up rules",
       "related_posts": [
         {
-          "content": "\u2705 SoDEX testnet patch airdrop list is here. A make-good drop \u2014 for those we missed, and for those who proved through appeals that they're real builders, not bots. \ud83d\udd0d Check now \u2192 https://testnet.sodex.com/points \ud83c\udf81 Claim opens on May 8, 12:00 UTC We added Loyalty Rewards (hint: extra $SOSO)   for those who have been building SoDEX with us since Day 1, starting from the  SoDEX testnet days. One more thing: your SoDEX status has value. The higher your SoPoints Tier, the more you get. \ud83e\udd48 Silver \u2192 \ud83e\udd47 Gold \u2192 \ud83d\udc8e Diamond Not on the list? Appeal here \u2192  https://t.co/QAuXtmboLL Show us your number  \ud83d\udc47 Let's see who the real builders are.",
-          "url": "https://x.com/sodex_official/status/2049097354742284460"
-        },
+          "content": "Need to withdraw MAG7.ssi from the SoDEX Vault? Don\u2019t miss the 14-day lock-up rule. SoDEX 101 ep.04 shows you how to unstake, sign the required transactions, track your withdrawal, and claim your MAG7.ssi once the waiting period ends. \ud83c\udfa5 Watch before you withdraw. \u2192 https://t.co/iG0cpVc5FX #SoDEX #SoDEX101 #MAG7ssi #DeFi",
+          "url": "https://x.com/sodex_official/status/2050486700720140690"
+        }
+      ]
+    },
+    {
+      "topic": "Testnet Airdrop and Appeals",
+      "summary": "Testnet patch airdrop claims and successful appeals for rewards",
+      "related_posts": [
         {
           "content": "I got 500 $SOSO worth around $215 from Sodex after we made an appeal, as we were flagged as bots. Not bad at all, thanks to Sodex and the entire SOSO Value. Claiming in the next 9 days. Check Here \ud83d\udc47 \u27a1\ufe0f https://testnet.sodex.com/points Keep interacting SOSO S2 is gonna be massively crazy \ud83e\udd2a in sha Allah. SOSO Value S2 snapshot in May \ud83d\ude48",
           "url": "https://x.com/binadam61/status/2049188640555741563"
-        }
-      ]
-    },
-    {
-      "topic": "Bug Bounty Rewards",
-      "summary": "Over 200 bug reports reviewed, extra SoPoints granted to eligible contributors.",
-      "related_posts": [
+        },
         {
-          "content": "SoDEX has received and reviewed 200+ valid bug reports from the community. \ud83d\udee1\ufe0f Mainnet bugs: 130+ reports \ud83c\udf10 Testnet bugs: 70+ reports Eligible contributors have received in-app notifications, with extra SoPoints granted. Rewards are based on first valid submissions and verified bug reports. Thank you for helping make SoDEX stronger. \ud83e\udde1 #SoDEX #SoSoValue #SoPoints",
-          "url": "https://x.com/sodex_official/status/2049458689140994261"
+          "content": "SoSoValue SoDEX Testnet Airdrop 2 Claim is Live! If you joined the sodex testnet, you can check mow, claim in 9 days Claim link: https://testnet.sodex.com/points \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 New alpha \ud83d\udc47 If you missed the testnet with only 1m tokens, don\u2019t miss mainnet with 150 million $soso  Signup and Claim mainnet points here: https://t.co/ASzmSEqPPL - trade on mainnet - swaps - perp trading earn points - Hold ssi tokens earn points - points are distributed every 7 days  Mainnet grind will probably be the best option compared to the testnet, LOCK IN NOW.",
+          "url": "https://x.com/Farmercist/status/2049101007041302548"
         }
       ]
     }
@@ -53,32 +53,42 @@
     {
       "content": "\u2705 SoDEX testnet patch airdrop list is here. A make-good drop \u2014 for those we missed, and for those who proved through appeals that they're real builders, not bots. \ud83d\udd0d Check now \u2192 https://testnet.sodex.com/points \ud83c\udf81 Claim opens on May 8, 12:00 UTC We added Loyalty Rewards (hint: extra $SOSO)   for those who have been building SoDEX with us since Day 1, starting from the  SoDEX testnet days. One more thing: your SoDEX status has value. The higher your SoPoints Tier, the more you get. \ud83e\udd48 Silver \u2192 \ud83e\udd47 Gold \u2192 \ud83d\udc8e Diamond Not on the list? Appeal here \u2192  https://t.co/QAuXtmboLL Show us your number  \ud83d\udc47 Let's see who the real builders are.",
       "url": "https://x.com/sodex_official/status/2049097354742284460"
+    },
+    {
+      "content": "Need to withdraw MAG7.ssi from the SoDEX Vault? Don\u2019t miss the 14-day lock-up rule. SoDEX 101 ep.04 shows you how to unstake, sign the required transactions, track your withdrawal, and claim your MAG7.ssi once the waiting period ends. \ud83c\udfa5 Watch before you withdraw. \u2192 https://t.co/iG0cpVc5FX #SoDEX #SoDEX101 #MAG7ssi #DeFi",
+      "url": "https://x.com/sodex_official/status/2050486700720140690"
     }
   ],
   "top_engaged_posts": [
     {
       "username": "@Farmercist",
       "content": "SoSoValue SoDEX Testnet Airdrop 2 Claim is Live! If you joined the sodex testnet, you can check mow, claim in 9 days Claim link: https://testnet.sodex.com/points \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 New alpha \ud83d\udc47 If you missed the testnet with only 1m tokens, don\u2019t miss mainnet with 150 million $soso  Signup and Claim mainnet points here: https://t.co/ASzmSEqPPL - trade on mainnet - swaps - perp trading earn points - Hold ssi tokens earn points - points are distributed every 7 days  Mainnet grind will probably be the best option compared to the testnet, LOCK IN NOW.",
-      "likes": 408,
+      "likes": 411,
       "url": "https://x.com/Farmercist/status/2049101007041302548"
+    },
+    {
+      "username": "@Farmercist",
+      "content": "What can $20 do for you? Just 3 persons \ud83d\udc40 I just locked in $250 profit and $300,000 volume on sodex \ud83e\udd85 My Goal for the next 4 weeks - Create at least 1-2m$ volume weekly - use staking feature  - use vault feature - trade spot - trade futures - Get into Diamond rank - get my share of the 150,000,000 $soso which is $66,000,000 in total reward for mainnet grinders \ud83e\udd85 Signup and claim your points as you trade: https://t.co/ASzmSEqPPL See you on the side that prints my gee, we re so back",
+      "likes": 375,
+      "url": "https://x.com/Farmercist/status/2049399660737962425"
     },
     {
       "username": "@binadam61",
       "content": "I got 500 $SOSO worth around $215 from Sodex after we made an appeal, as we were flagged as bots. Not bad at all, thanks to Sodex and the entire SOSO Value. Claiming in the next 9 days. Check Here \ud83d\udc47 \u27a1\ufe0f https://testnet.sodex.com/points Keep interacting SOSO S2 is gonna be massively crazy \ud83e\udd2a in sha Allah. SOSO Value S2 snapshot in May \ud83d\ude48",
-      "likes": 367,
+      "likes": 371,
       "url": "https://x.com/binadam61/status/2049188640555741563"
     },
     {
-      "username": "@So_Points",
-      "content": "SoSoValue Season 2. What most dont realize, more than just clicking & claiming is needed to maxmize your rewards.  Have you completed your:   - Daily Check-in - Daily Tasks      AND stayed active in the Ecosystem? (e.g. the research terminal, sodex and ssi?) With the info we got in the AMA last week, it got even clearer how genuine activity and contribution is far more important than pure farming.",
-      "likes": 487,
-      "url": "https://x.com/So_Points/status/2049488157024874598"
+      "username": "@CryptoLakhan",
+      "content": "\ud83d\udea8 Sosovalue Season 2 & SoDex Airdrop \u2014 Key Updates \ud83e\ude82 Here\u2019s a clear breakdown so you don\u2019t miss anything \ud83d\udc47 \ud83d\udd39 Sosovalue Season 2 \u2022 Total Distribution: $30M \u2022 Snapshot: May \u2022 Distribution: June \ud83d\udd39 SoDex Airdrop \u2022 Total Distribution: 150M tokens \u2022 Season 1 Ends: July \u2022 Snapshot: Expected after Season 1 \u2022 Distribution: ~2 weeks after snapshot \ud83d\udc49 Good news: You can still join SoDex now and start earning rewards: https://t.co/LrS7xsYWJW \ud83d\udd2e After distribution: \u2022 Sosovalue \u2192 Season 3 \u2022 SoDex \u2192 Season 2 \u2705 Note: All the details shared above are officially confirmed. You can also verify them yourself from official sources. \ud83d\udcac Drop your points in the comments \u2014 let\u2019s compare progress! #CryptoAirdrop #CryptoNews #Web3 #AirdropAlert #sosovalueseaosn2 #sodrxairdodp #sosovalueseason2airdorp",
+      "likes": 205,
+      "url": "https://x.com/CryptoLakhan/status/2050209679972930023"
     },
     {
-      "username": "@So_Points",
-      "content": "SoDEX Testnet Eligibility checker going live Today! \u2705Eligibility Checker: April 28 12:00UTC \ud83c\udf81Distribution: May 8 12:00UTC Also Mainnet SoPoints & Referral Rebate distribution at 12 UTC Add to calendar: https://testnet.sodex.com/points",
-      "likes": 435,
-      "url": "https://x.com/So_Points/status/2049013729413455877"
+      "username": "@Crypto4bailout",
+      "content": "MegaEth Cooked, SOSO is next and small accounts will smile. SoSo is giving out $12.6m in reward come Q1 2026. 30 Million $SoSo  up for grab Q1 2026 SoSo Season 2 will be massive so don't slow down.  If you don't want to chop ineligible Join here: http://sosovalue.com/join/EN50Y3L8 Joy is coming \u2764\ufe0f\u2764\ufe0f",
+      "likes": 192,
+      "url": "https://x.com/Crypto4bailout/status/2050204503312404865"
     }
   ]
 }
