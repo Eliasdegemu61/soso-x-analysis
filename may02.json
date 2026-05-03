@@ -1,0 +1,47 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is predominantly positive and anticipatory, driven by excitement over Season 2 airdrop snapshots starting in May 2026, with users urging each other to complete verification up to 120% reliability score and maximize EXP points before random snapshots through the end of the month. Key discussions revolve around checking testnet airdrop claims on Sodex points page, upcoming mainnet distributions, and the platform's ecosystem including AI-driven tools, research competitions with $100K prizes, and integration with Sodex for trading. Metrics from posts show strong engagement like post [post:27] with 50 likes, 24 replies, 2069 views highlighting airdrop instructions and referral links, while others note $SOSO price at ~$0.42, SSI staking TVL ~$99M with 20.5%+ APY and 488K holders, alongside achievement boasts like 7 million EXPs; however, minor cautions exist about eligibility criteria and potential price dumps due to unlocks and low liquidity.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">27</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">26</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">30</argument></grok:render>",
+        "sodex": "Sentiment for Sodex is bullish and action-oriented, with users promoting its mainnet trading of crypto and stocks, weekly 1M SoPoints rewards, 5% boosts via referrals, and testnet airdrop claims ahead of May 8 distribution, though some express frustration over high gas fees for small volumes like $30 trades yielding only 11k volume. Discussions focus on farming strategies such as depositing USDC, doing volume (e.g., 20k for 100% RUP), Gold tier achievements (top 0.12% with 3.898 SoPoints), and its role in SoSoValue ecosystem for execution alongside indexes. High engagement posts include [post:25] at 46 likes/46 replies/2627 views on Binance alpha gems indirectly tied, but Sodex-specific like referrals and alerts with 150M $SOSO pool (~80M USDT over 6 months, 1M pts/week limit); concerns about weird snapshot moves and eligibility but overall hype prevails.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">29</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">4</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">30</argument></grok:render>",
+        "ssi": "No significant mentions found for SSI Index specifically; passing references to SSI Staking Epoch 4 with TVL ~$99M, APY 20.5%+, 488K holders appear in market updates alongside SoSoValue data, but no dedicated discussions or sentiment analysis available in the results."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How to complete verification to 120% for S2 EXP airdrop eligibility?",
+            "When are the random snapshots happening and how to maximize chances?",
+            "What is the total airdrop size and query tool release date?"
+        ],
+        "sodex": [
+            "How to trade on Sodex with small funds like $30 without high gas fees?",
+            "How to check and claim Sodex testnet airdrop points?",
+            "What are the weekly SoPoints limits and boost strategies?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@MartinHo99999",
+            "content": "AIRDROP 2 C\u1ee6A PLUME KH\u00c1 SCAM NH\u01afNG AIRDROP 2 C\u1ee6A @SoSoValueCrypto S\u1ebc CH\u1eaeC CH\u1eaeN NGON. AE h\u00e3y ho\u00e0n th\u00e0nh x\u00e1c minh \u0111\u1ec3 t\u0103ng \u0111\u1ed9 tin c\u1eady v\u00e0 \u0111\u1ea3m b\u1ea3o \u0111i\u1ec1u ki\u1ec7n nh\u1eadn airdrop S2 EXP, n\u00ean t\u0103ng t\u1ed1i \u0111a l\u00ean 120%. https://sosovalue.com/join/UXV95N20 ...",
+            "engagement": "Likes=50, Reposts=1, Quotes=0, Replies=24, Views=2069",
+            "post_link": "https://x.com/MartinHo99999/status/2050394847186694311"
+        },
+        {
+            "username": "@AZCNews",
+            "content": "Gi\u1edd chuy\u1ec3n qua s\u0103n gems tr\u00ean Binance Alpha th\u00f4i ae Tr\u00ean Spot th\u1ea5y to\u00e0n \u0111i ngang v\u1edbi gi\u1ea3m C\u00f2n tr\u00ean Alpha l\u1eafm con x5 x10 vl \u0110i\u1ec3m h\u00ecnh $LAB x30 l\u1ea7n t\u1eeb \u0111\u00e1y r\u1ed3i ...",
+            "engagement": "Likes=44, Reposts=0, Quotes=0, Replies=42, Views=1689",
+            "post_link": "https://x.com/AZCNews/status/2050514993549025324"
+        },
+        {
+            "username": "@AZCNews",
+            "content": "Thi tho\u1ea3ng h\u00e0ng n\u00e0y c\u00f3 m\u1ea5y con tr\u00ean Binance alpha t\u0103ng gi\u00e1 \u1ea3o th\u1eadt \u0110\u1ee3t n\u00e0y market t\u0103ng m\u00e0 to\u00e0n coin tr\u00ean Binance alpha \u0110\u00fang l\u00e0 game c\u1ee7a anh b\u1eb1ng t\u1ea1o ra c\u00f3 kh\u00e1c #Binance $UB $B $LAB",
+            "engagement": "Likes=46, Reposts=0, Quotes=1, Replies=46, Bookmarks=0, Views=2627",
+            "post_link": "https://x.com/AZCNews/status/2050461031298994589"
+        },
+        {
+            "username": "@MartinHo99999",
+            "content": "THANKS @SoSoValueCrypto, CHECK L\u1ea0I AIRDROP TESTNET SODEX AE Link: https://testnet.sodex.com/points AE c\u00f3 \u0111i\u1ec1n form khi\u1ebfu n\u1ea1i th\u00ec v\u00e0o check nh\u00e9. Claim airdrop sodex testnet s\u1ebd di\u1ec5n ra v\u00e0o 19h VN ng\u00e0y 8/5. ...",
+            "engagement": "Likes=42, Reposts=2, Quotes=0, Replies=18, Bookmarks=10, Views=3716",
+            "post_link": "https://x.com/MartinHo99999/status/2050387295405068703"
+        }
+    ],
+    "timestamp": "2026-05-03 06:25:53"
+}
