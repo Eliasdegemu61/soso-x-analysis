@@ -1,0 +1,44 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on May 3-4, 2026, is predominantly positive yet laced with urgency and some frustration due to ongoing Season 2 airdrop discussions, with users hyping the May snapshot period for EXP points and real-user probability boosts while clarifying timelines and debunking misinformation about distribution dates and Sodex integration requirements. Key discussions revolve around airdrop eligibility criteria, the role of daily activities, referrals, and Sodex verification in allocation (30M $SOSO tokens), with posts correcting claims of multiple snapshots tied to Sodex trading volumes and emphasizing free participation via check-ins and content creation. Metrics show high engagement on clarification threads, e.g., one post by @CryptoLakhan garnered 129 likes, 13 reposts, 21 replies, and 12k views; another by @CryptoCent01 hit 44 likes, 7 reposts, 12 replies, and 2.8k views, indicating strong interest in final farming pushes amid Buildathon mentions and tool praises like TokenBar.",
+        "sodex": "Sentiment for Sodex is mixed-positive on May 3-4, 2026, with excitement for its mainnet trading campaigns and points system but tempered by cautions against over-leveraging, concerns over delayed testnet rewards, and perceived lack of transparency in distributions, as users share trading stats and advice while pushing referrals. Discussions highlight platform volumes (e.g., 107k weekly), open interest (3.3k), PNL points goals, and its synergy with SoSoValue for boosted airdrop allocations (150M $SOSO separate from SoSoValue's), alongside withdrawal rules for SSI indexes like MAG7.ssi. Engagement metrics include @MR_CRYPTO150's advisory post with 42 likes, 5 reposts, 17 replies, 1.1k views; @Absoluto92's stats update at 18 likes, 9 replies, 679 views, reflecting active trader involvement despite trust issues raised in complaints.",
+        "ssi": "Mentions of SSI Index (likely SoSoValue Smart Index) are sparse and neutral-positive on May 3-4, 2026, focusing on its utility in staking (Epoch 4 TVL >$100M, solid APY) and as a diversified exposure tool via single tokens like MAG7.ssi on Sodex Vaults, with users noting lock-up rules and market consolidation contexts. Key discussions praise SSI for simplifying multi-token holdings amid sideways crypto markets (BTC ~$78k), but lack deeper debates; one post highlights its power in reducing manual buying. No standout engagement metrics, with posts like @CGS_Tribe's market update at low likes/views and @EmmanuelEb69436's intro at 1 like, suggesting niche interest overshadowed by airdrop hype."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How many EXP points have you collected and what % RUP have you locked?",
+            "When is the Season 2 airdrop distribution exactly?",
+            "Is Sodex trading mandatory for SoSoValue Season 2 eligibility or just verification?"
+        ],
+        "sodex": [
+            "When is Sodex airdrop distribution?",
+            "How to withdraw SSI indexes like MAG7.ssi from Sodex Vault without issues?",
+            "What volumes/PNL are needed for good points in Sodex mainnet campaign?"
+        ],
+        "ssi": [
+            "How does SSI staking APY and TVL look in Epoch 4?",
+            "What are the lock-up rules for MAG7.ssi withdrawals?"
+        ]
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@CryptoLakhan",
+            "content": "\ud83d\udea8 Sosovalue Season 2 Airdrop Distribution in May? \ud83d\ude24 There\u2019s been confusion around the timeline...",
+            "engagement": "Likes=129, Reposts=13, Quotes=1, Replies=21, Views=12220",
+            "post_link": "https://x.com/CryptoLakhan/status/2050856047494246538"
+        },
+        {
+            "username": "@MR_CRYPTO150",
+            "content": "Good morning @SoSoValueCrypto believers. I know you don't wanna miss the Juicy SoDex mainnet campaign...",
+            "engagement": "Likes=42, Reposts=5, Quotes=0, Replies=17, Views=1157",
+            "post_link": "https://x.com/MR_CRYPTO150/status/2050823048710717899"
+        },
+        {
+            "username": "@CryptoCent01",
+            "content": "This is misinformation about the Sosovalue Season 2 Airdrop \u26a0\ufe0f Sosovalue and Sodex are two different platforms...",
+            "engagement": "Likes=44, Reposts=7, Quotes=3, Replies=12, Views=2850",
+            "post_link": "https://x.com/CryptoCent01/status/2050873805317251107"
+        }
+    ],
+    "timestamp": "2026-05-04 06:32:20"
+}
