@@ -1,0 +1,41 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is overwhelmingly positive and anticipatory, with users expressing high hopes for the Season 2 airdrop expected in May 2026, emphasizing consistency, daily tasks, and verification to maximize eligibility and rewards. Key discussions revolve around upcoming random snapshots throughout May, integration with SoDEX for boosted SoPoints, EXP farming strategies, and reminders to avoid bots while targeting top ranks for better payouts, as seen in posts hyping Week 13 points drops and potential $30M $SOSO allocations. Metrics from top posts show strong engagement, such as 254 likes and 6468 views on a post pleading for the airdrop to 'save CT,' 71 likes on a good morning to believers, and 52 likes on eligibility celebrations, indicating building hype but also anxiety over snapshot timing and reward calculations amid modest overall volumes.",
+        "sodex": "Sentiment for Sodex is bullish and promotional, with users highlighting its role as a key activity layer in the SoSoValue ecosystem, offering 5% SoPoints boosts via referrals and contributing to future $SOSO rewards through perp trading, volume building, and testnet airdrops. Discussions focus on steady momentum in weekly cycles, improving liquidity, user participation, real PnL achievements like +48%, and reminders for vault/staking usage to enhance eligibility by May 31st. Engagement metrics include 52 likes and 1075 views on a testnet eligibility win post, 19 likes on Week 13/14 updates, reflecting growing adoption but lower virality compared to SoSoValue core.",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "When exactly are the Season 2 snapshots happening?",
+            "How to ensure 100% eligibility and maximize EXP rewards?",
+            "Will SoDEX activity count towards SoSoValue airdrop?"
+        ],
+        "sodex": [
+            "How much $SOSO per SoPoint?",
+            "Best strategies for volume trading without bots?",
+            "When is the testnet airdrop claim?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@Mr_Jay_Pee",
+            "content": "Not gonna lie, 90% of CT hope is on SosoValue Season 2 airdrop. If it doesn't cook, people will mourn and some people will be off twitter for a while. $Soso, Pls save CT",
+            "engagement": "Likes=254, Reposts=20, Quotes=7, Replies=74, Views=6468",
+            "post_link": "https://x.com/Mr_Jay_Pee/status/2051384687298334729"
+        },
+        {
+            "username": "@firji30",
+            "content": "Finally eligible for the SoDEX Testnet Airdrop \ud83c\udf89 Big win for me consistency really pays off! 11765.00 $SOSO is not small at all From grinding quietly to getting rewarded, this is just the beginning If you\u2019re still early, stay active your time is coming. #SoDEX #Airdrop #Crypto",
+            "engagement": "Likes=52, Reposts=16, Quotes=1, Replies=22, Views=1075",
+            "post_link": "https://x.com/firji30/status/2051209271904240063"
+        },
+        {
+            "username": "@cryptomentoraa",
+            "content": "Good morning to all the @SoSoValueCrypto believers, countdown to snapshot, dont forget to keep engaging with sosovalue ecosystem , it's coming soon",
+            "engagement": "Likes=71, Reposts=9, Quotes=1, Replies=13, Views=970",
+            "post_link": "https://x.com/cryptomentoraa/status/2051170153446989828"
+        }
+    ],
+    "timestamp": "2026-05-05 06:44:51"
+}
