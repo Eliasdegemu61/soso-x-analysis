@@ -1,0 +1,47 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on May 5-6, 2026, is overwhelmingly positive, driven by anticipation for the Season 2 EXP airdrop snapshot in May, with users urging activity on the platform for potential life-changing rewards estimated in five figures based on referrals and engagement. Key discussions revolve around joining via referral links for 10K EXP bonuses, bot removal exercises delaying the airdrop to ensure real users benefit, and the platform's utility as a solid tool for tracking crypto market data and narratives. Metrics from posts show high engagement, such as @cryptomentoraa's post with 119 likes and 5,182 views defending the project's fairness, @DOLAQUEEN1's referral post quoted multiple times garnering 56 likes and 745 views, and Vietnamese user @MartinHo99999's analysis of testnet airdrops projecting 15k $SOSO (~$6k) with 45 likes and 3,687 views, indicating strong hype and FOMO ahead of the end-May distribution.",
+        "sodex": "Sentiment for SoDex is highly bullish and urgent, with users hyping Week 13 SoPoints distribution from the 150M $SOSO reward pool, emphasizing early entry before mainnet floods post-SoSoValue EXP Season 2 airdrop; discussions focus on point accumulation via trading volume (spot/perps on L1 ValueChain), tier progression (Gold/Diamond), and potential valuations like 1 SoPoint = 1-2 $SOSO ($0.40-$0.80 at current prices). Posts highlight 5% lifetime boosts via referrals, low fees for repeated trades, and real-user verification; top metrics include @sodex_official's announcement with 559 likes, 98 reposts, 23,562 views, @So_Points' 78 likes/11 reposts/3,533 views, @sleektru's 144 likes/5 reposts/4,422 views boasting 1,125 points, and @cryptomentoraa's multiple posts (e.g., 98 likes/5,655 views on $420-$840 per 1k points).",
+        "ssi": "No significant mentions found for SSI Index or crypto-related SSI beyond incidental references in SoSoValue/Sodex contexts; sparse data shows neutral to low engagement on potential SSI staking (e.g., one post noting Epoch 4 TVL ~$100M, APY 20%+, 490K holders as 'solid passive play' with 1 like), overshadowed by ecosystem hype elsewhere."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "Will SoSoValue EXP Season 2 airdrop be as generous as testnet ratios suggest (e.g., 15k $SOSO)?",
+            "Snapshot this May \u2013 how much activity is needed for five-figure rewards?",
+            "Is bot removal complete, ensuring fair distribution for real users?"
+        ],
+        "sodex": [
+            "How many SoPoints did you get this Week 13?",
+            "1 SoPoint = 1 or 2 $SOSO in Season 1 airdrop \u2013 what's your projection?",
+            "Are you climbing tiers (Gold to Diamond) or already ahead?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@sodex_official",
+            "content": "SoPoints Week 13 has been distributed. 13 weeks in \u2014 your consistency is starting to show. Check your latest SoPoints, see where you stand, and drop your current tier below \ud83d\udc47 Are you climbing, stuck, or already ahead? Trade on SoDEX: https://sodex.com/trade/futures/BTC-USD #SoDEX #SoPoints #CryptoTrading #PerpDEX",
+            "engagement": "Likes=559, Reposts=98, Quotes=24, Replies=86, Bookmarks=11, Views=23562",
+            "post_link": "https://x.com/sodex_official/status/2051633012912386311"
+        },
+        {
+            "username": "@sleektru",
+            "content": "1,125 Points on SoDex ~ 150M SoSo Reward Gold Level \u2705 Diamond Next \u23f3 Are you on SoDex?",
+            "engagement": "Likes=144, Reposts=5, Quotes=1, Replies=38, Bookmarks=2, Views=4422",
+            "post_link": "https://x.com/sleektru/status/2051719889375658241"
+        },
+        {
+            "username": "@cryptomentoraa",
+            "content": "The sosovalue team already did Bot removal exercises and that was why they also introduced real user probability verification, this process was why the season 2 airdrop was shifted from January till end of may, and some people still want them to do bot removal again? \ud83d\ude02\ud83d\ude02",
+            "engagement": "Likes=119, Reposts=9, Quotes=1, Replies=31, Bookmarks=1, Views=5182",
+            "post_link": "https://x.com/cryptomentoraa/status/2051536828998570299"
+        },
+        {
+            "username": "@cryptomentoraa",
+            "content": "If the sosovalue team decides to distribute 25million soso in sodex season  1 airdrop, it means 1sopoint = 1 soso. That means if u have 1000 sopoint it will be 420$ at current market price If they decide to give 50million soso ,then 1 sopoint = 2 soso 1000 sopoint = 840$ at current market price. What are u still waiting for,  join sodex and accumulate points today",
+            "engagement": "Likes=98, Reposts=5, Quotes=0, Replies=16, Bookmarks=3, Views=5655",
+            "post_link": "https://x.com/cryptomentoraa/status/2051542444592738602"
+        }
+    ],
+    "timestamp": "2026-05-06 21:56:22"
+}
