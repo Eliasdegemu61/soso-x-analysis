@@ -1,0 +1,41 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on May 6, 2026, is predominantly positive and anticipatory, with users actively discussing Season 2 EXP farming, daily tasks, real-user verification (RUV), and upcoming random snapshots expected throughout May, including one around May 15 and a final one at month's end leading to token distribution and Season 3. Key discussions revolve around the importance of completing RUV to boost eligibility (unlocking percentages via quizzes, SoDEX activation, and on-chain activities), low affiliate revenues lately, over 100 million farmers but emphasis on quality via SoDEX integration to avoid diluted airdrops, and reminders to stay active daily as snapshots could occur anytime. Metrics highlighted include massive user growth (100M+ EXP farmers) contrasted with fewer active SoDEX traders (<200k users, <50k active), user rankings (e.g., top 0.31%, 100% RUV achieved), and high engagement on posts urging participation, with likes ranging from dozens to hundreds and views in thousands, indicating strong hype but cautious optimism about airdrop fairness.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">22</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">24</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">27</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">31</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">21</argument></grok:render>",
+        "sodex": "Sentiment for Sodex is bullish and grind-focused, with users stacking trading volume for weekly SoPoints distributions (e.g., Week 13 just dropped), aiming for high ranks in anticipation of a substantial airdrop (150M SOSO up for grabs), and noting it's still early with low active participation (<50k traders among 187k-200k users), making top positions achievable via consistency. Discussions center on strategies like maintaining open positions, trading non-majors, using maker orders, referral boosts (5% extra SoPoints), tier progressions, and integration with SoSoValue for EXP boosts, alongside concerns over potential snapshot timings and active trader requirements for eligibility. Engagement metrics show strong interest, with top posts garnering 97-384 likes, 29-121 reposts, thousands of views/replies, and users sharing volumes (e.g., 460k$ total, 20k$ weekly) and ranks (top 5k at 323 volume), reflecting motivated community but warnings against spamming volume.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">22</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">35</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">31</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">14</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">19</argument></grok:render>",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "When is the next/final SoSoValue snapshot?",
+            "How to complete Real-User Verification (RUV) fully?",
+            "Will SoDEX activity be required for Season 2 airdrop eligibility?"
+        ],
+        "sodex": [
+            "How many SoPoints do you have/what tier are you in?",
+            "What trading strategies maximize SoPoints (e.g., maker vs taker, holding positions)?",
+            "When is the next SoDEX snapshot/week rewards?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@_vicTorad",
+            "content": "Looking forward to week14 points allo \ud83e\udd1e\ud83c\udffd @sodex_official \n\nDoing my highest volume this week\n\nStill not on soDEX?\n\nJoin SoDEX Mainnet with my referral code and get a 5% SoPoints Boost!\n\nhttps://sodex.com/join/SAVAGEIBUKUN\n\n150M SOSO Up for grabs \ud83d\udcaf",
+            "engagement": "Likes=384, Reposts=121, Quotes=0, Replies=84, Views=1661",
+            "post_link": "https://x.com/_vicTorad/status/2051873392538636544"
+        },
+        {
+            "username": "@Mr_Jay_Pee",
+            "content": "Have you completed your daily tasks on SosoValue today to claim some EXPs for the upcoming Season 2 airdrop?\n\nI'm having low affiliate revenue points lately, I think they've reduced the percentage or people aren't completing tasks as before again. How about y'all end?",
+            "engagement": "Likes=97, Reposts=3, Quotes=0, Replies=29, Views=2963",
+            "post_link": "https://x.com/Mr_Jay_Pee/status/2052002319592481220"
+        },
+        {
+            "username": "@MR_CRYPTO150",
+            "content": "Over 100 million farmers on sosovalue S2 EXP.\n\nBut less than 200k users on SoDex.\n\nWhich am sure less than 50k are actively trading.\n\nThe EXP AIRDROP would have been a big disaster if @SoSoValueCrypto did not introduce the real user verification and making SoDex activities a key factor.\n\nStill let's keep our expectations in check.",
+            "engagement": "Likes=35, Reposts=4, Quotes=1, Replies=14, Views=1362",
+            "post_link": "https://x.com/MR_CRYPTO150/status/2052077259930861694"
+        }
+    ],
+    "timestamp": "2026-05-06 23:53:19"
+}
