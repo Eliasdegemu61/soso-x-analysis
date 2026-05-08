@@ -1,0 +1,48 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on May 7-8, 2026, is predominantly positive, with users expressing optimism about Season 2 (S2) rewards, the Buildathon event closing on May 12, and integration with SoDEX for trading and staking activities. Key discussions revolve around EXP tiers from Season 1 distributions (e.g., V0-V1 yielding $30-60, up to over $15k for V7+), the larger 30M $SOSO allocation for S2 (valued at $11M-$12M), and the Buildathon's 34+ submissions showcasing ideas using SoSoValue/SoDEX APIs for AI-driven finance tools. Users are actively farming points through platform tasks, trading, and staking $SOSO on SoDEX for boosts like 9.45x SSI rewards and fee discounts, highlighting strong engagement and anticipation for upcoming drops. Metrics from top posts show high views (up to 18k), likes (215+), and replies (56+), indicating growing buzz despite some caution on commitment until distributions.",
+        "sodex": "Sentiment for Sodex is bullish and practical, viewed as the go-to trading platform within the SoSoValue ecosystem, with users depositing, trading, and staking $SOSO for benefits like 5% fee discounts and SSI multipliers. Discussions emphasize its role in S2 eligibility via activities, alongside warnings against financial risks until distributions occur, and promotions tying it to the 150M $SOSO pool from Season 1 campaigns. No standalone Sodex posts dominate, but integrations boost its utility; engagement metrics include views up to 85 and likes around 2, reflecting steady but secondary interest to SoSoValue core.",
+        "ssi": "SSI (SoSoValue Indexes) garners neutral-to-positive sentiment focused on technical updates like monthly rebalancing of on-chain index tokens (MAG7.ssi, DEFI.ssi, MEME.ssi), positioning it as an innovative 'wrapped' ETF-like product for sector exposure. Limited direct mentions, but tied to staking boosts (e.g., 9.45x rewards) and broader ecosystem value; one post notes low liquidity concerns for related assets. Key metrics from relevant posts: 201 likes, 45 reposts, 4k+ views, signaling niche but solid interest among informed users. Overall, seen as a portfolio allocation tool enhancing SoSoValue's full-loop infrastructure."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "Judging from the S1 Exps reward, how much $$ can you expect based on your current tier?",
+            "What is eligibility and allocation criteria for S2 (RUV, EXPs, SoDEX activities)?",
+            "How much $SOSO allocated for S2 and its value?"
+        ],
+        "sodex": [
+            "Plz what's the best to trade: spot or futures in terms of fees and volume?",
+            "Is wash trading a violation for earning points?"
+        ],
+        "ssi": [
+            "Any questions about SSI rewards or boosts?"
+        ]
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@free_dom53",
+            "content": "\ud83d\udea8 Breaking down Sosovalue Exps S1 reward based tiers... Judging from the S1 Exps reward, how much $$ can you expect based on your current tier?",
+            "engagement": "Likes=215, Reposts=21, Replies=56, Views=18097",
+            "post_link": "https://x.com/free_dom53/status/2052278842752999583"
+        },
+        {
+            "username": "@SoSoValue",
+            "content": "1/ We\u2019ve completed the monthly rebalancing of our three on-chain index tokens: MAG7.ssi, DEFI.ssi, and MEME.ssi...",
+            "engagement": "Likes=201, Reposts=45, Replies=9, Views=4162",
+            "post_link": "https://x.com/SoSoValue/status/2052194062229443016"
+        },
+        {
+            "username": "@scomnet01",
+            "content": "Finally staked some $SOSO... Plz what's the best to trade: spot or futures in teams of fees and volume?",
+            "engagement": "Likes=2, Reposts=0, Replies=1, Views=85",
+            "post_link": "https://x.com/scomnet01/status/2052441002258936264"
+        },
+        {
+            "username": "@J4IC3",
+            "content": "The @SoSoValueCrypto Buildathon already has 34 submissions...",
+            "engagement": "Likes=2, Reposts=0, Replies=1, Views=53",
+            "post_link": "https://x.com/J4IC3/status/2052537575433244958"
+        }
+    ],
+    "timestamp": "2026-05-08 05:56:46"
+}
