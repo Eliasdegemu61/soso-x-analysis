@@ -1,0 +1,48 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is mixed but predominantly anticipatory and frustrated, centered on the upcoming EXP Season 2 airdrop and its integration with Sodex activity. Users express excitement over the larger 30M $SOSO allocation (valued at $11M-$12M) compared to Season 1's 15M, but there's confusion and disappointment regarding eligibility criteria, with some non-qualifiers for testnet rewards feeling labeled as bots or overlooked despite activity. Key discussions highlight the importance of using the same wallet across SoSoValue V2 and Sodex mainnet for potential boosts, daily tasks for EXP stacking, and warnings that Sodex tier influences allocations, urging consistent engagement like trading and liquidity provision to maximize rewards. Metrics show moderate engagement with posts garnering 34-70 likes, 3k-6k views, focusing on airdrop strategies amid broader ecosystem growth.",
+        "sodex": "Sodex garners highly positive yet urgent sentiment as the mainnet testnet claim goes live, with users celebrating small $SOSO allocations based on SoPoints tiers while emphasizing its role in boosting SoSoValue Season 2 drops. Discussions revolve around weekly snapshots (e.g., Week 13/14), 150M $SOSO reward pool spread across seasons ending in August, referral boosts (+5% SoPoints), and strategies like maximizing volume, staking, and liquidity to counter dilution from growing users. Frustrations arise from low allocations for passive participants and perceived unfairness, but hype persists around its orderbook DEX features, Hyperliquid comparisons, and long-term positioning. High-engagement posts (50-196 likes, 2k-21k views) drive referrals and activity calls.",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How will the EXP Season 2 airdrop be executed given the confusion?",
+            "Does using the same wallet on SoSoValue and Sodex impact rewards?",
+            "What daily tasks maximize EXP stacking before end of May?"
+        ],
+        "sodex": [
+            "How to check and claim testnet $SOSO allocation?",
+            "What activities on mainnet maximize SoPoints and airdrop share?",
+            "Is there a way to appeal non-qualification for testnet rewards?",
+            "How does Sodex activity boost SoSoValue S2 allocation?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@binadam61",
+            "content": "$BTC arbitrage opportunity  instant $10,200 profit \ud83d\udcb0 per each transaction \n\nBuy from Bybit, MEXC, or Binance and sell on Sodex \n\n\ud83d\udd25\ud83e\udd73 Do it now",
+            "engagement": "Likes=196, Reposts=11, Quotes=2, Replies=25, Views=21073",
+            "post_link": "https://x.com/binadam61/status/2052696007800963383"
+        },
+        {
+            "username": "@cryptomentoraa",
+            "content": "To be eligible for more allocation or more bonus allocation on sosovalue EXP season 2 airdrop, try as much as possible to interact with sodex mainnet. Max out all areas \nJoin sodex here https://sodex.com/join/mentoraa",
+            "engagement": "Likes=59, Reposts=3, Quotes=1, Replies=26, Views=3243",
+            "post_link": "https://x.com/cryptomentoraa/status/2052778724500672919"
+        },
+        {
+            "username": "@cryptomentoraa",
+            "content": "I just can't wait for sosovalue exp season 2 airdrop to come , lets see how the team will execute this . \ud83e\udd23 Cause na confusion just full everywhere.",
+            "engagement": "Likes=70, Reposts=3, Quotes=1, Replies=11, Views=2471",
+            "post_link": "https://x.com/cryptomentoraa/status/2052788225391902848"
+        },
+        {
+            "username": "@Kriptoakd_tr",
+            "content": "SODEX testnet claim aktif. Kontrol edelim grupta kasmayan birka\u00e7 ki\u015fi de eligible olmu\u015f,ne olur ne olmaz. Testnete 1m soso ay\u0131rm\u0131\u015flard\u0131, mainnet i\u00e7in 100m soso ayr\u0131lm\u0131\u015f. Mainnet k\u0131sm\u0131n\u0131 kesinlikle ihmal etmeyin.\n\nTestnet i\u00e7in \u27a1\ufe0f https://testnet.sodex.com/points\n\nMainnet i\u00e7in \u27a1\ufe0f",
+            "engagement": "Likes=53, Reposts=7, Quotes=1, Replies=12, Views=3822",
+            "post_link": "https://x.com/Kriptoakd_tr/status/2052772904891265254"
+        }
+    ],
+    "timestamp": "2026-05-09 11:21:21"
+}
