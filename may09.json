@@ -1,0 +1,50 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on May 9-10, 2026, is predominantly positive with a focus on upcoming airdrops, EXP accumulation strategies, and integration with Sodex activities, though some users express skepticism about delays in airdrop timelines and the need for genuine activity beyond daily check-ins to maximize allocations. Key discussions revolve around Season 2 EXP requirements, achieving high Real-User Probability (up to 120% for bonuses), the role of Sodex tiers in reward calculations, and promotional referral links, with users sharing tips on daily tasks, TokenBar posts, and research tool usage to boost eligibility and allocation size. Metrics from posts show low to moderate engagement overall, with the highest likes at 27 for a post emphasizing Sodex activity's impact on SoSoValue rewards (3115 views, 18 replies), 65 likes on a Sodex-related GM post (850 views), and promotional content garnering 20-39 likes, indicating niche but dedicated interest amid broader crypto market noise.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">52</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">33</argument></grok:render>",
+        "sodex": "Sentiment for Sodex is highly enthusiastic and bullish, centered on weekly snapshots (e.g., Week 14 completed, Week 15 live), trading volume strategies for SoPoints, UI upgrades, and the platform's on-chain order book advantages offering CEX-like experience with low fees and transparency via CLOBSCAN. Discussions highlight trading stats (e.g., $20k volume at low cost), tier progression, referrals, and integration with SoSoValue ecosystem for larger airdrop pools (150M $SOSO), with users urging consistent activity and sharing affiliate links. Engagement metrics peak at 245 likes for the new trading UI announcement thread (9849 views, 56 reposts), 65 likes for snapshot inquiry (850 views, 48 replies), and 27 likes for tier influence post (3115 views), reflecting strong community grinding and anticipation for rewards.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">27</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">33</argument></grok:render>",
+        "ssi": "Mentions of SSI Index are sparse but positive, positioning it as an innovative feature for sector exposure via on-chain index tokens, simplifying narrative rotation, wallet tracking, and allocation in the SoSoValue ecosystem alongside Sodex trading. Key talks emphasize SSI's role in Epoch rewards (15M $SOSO per epoch via holding/staking $SOSO), integration for smarter trading (SSI Index + Sodex), and recent performance like ssiRWA down 10%. Limited engagement with 5 likes on a post praising SSI for user-friendly exposure (106 views) and 30 likes on Indonesian guide mentioning SSI (2643 views), suggesting emerging awareness rather than dominant discussion.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">26</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">32</argument></grok:render>"
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How much volume did you pull in this week for SoSoValue/Sodex snapshot?",
+            "Will SoSoValue reward without using Sodex or just daily checks?",
+            "How to maximize allocation beyond eligibility in Season 2 EXP?"
+        ],
+        "sodex": [
+            "What\u2019s your Week 14/15 Sodex volume and SoPoints stats?",
+            "What\u2019s next on your SoDEX wishlist after UI upgrade?",
+            "How to strategy low-cost high-volume trading on Sodex?"
+        ],
+        "ssi": [
+            "What are SSI Index tokens and how to contribute/stake?",
+            "How does SSI fit into SoSoValue EXP Season 2 activities?"
+        ]
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@sodex_official",
+            "content": "\ud83e\uddf51/The new SoDEX trading experience is live. You spoke, we built...",
+            "engagement": "Likes=245, Reposts=56, Views=9849",
+            "post_link": "https://x.com/sodex_official/status/2053098588495094053"
+        },
+        {
+            "username": "@sodex_official",
+            "content": "\ud83e\uddf57/ This is not just a front-end update...",
+            "engagement": "Likes=17, Reposts=1, Views=859",
+            "post_link": "https://x.com/sodex_official/status/2053098840837021895"
+        },
+        {
+            "username": "@free_dom53",
+            "content": "\ud83d\ude33Whenever I make posts like this it hurts people's feelings. But I am here to tell the truth...",
+            "engagement": "Likes=27, Reposts=1, Views=3115",
+            "post_link": "https://x.com/free_dom53/status/2053084013682651161"
+        },
+        {
+            "username": "@agbe_jet",
+            "content": "GM to everybody who'll be touching grass today. @sodex_official Wk14 snapshot...",
+            "engagement": "Likes=65, Reposts=3, Views=850",
+            "post_link": "https://x.com/agbe_jet/status/2052984710674968698"
+        }
+    ],
+    "timestamp": "2026-05-10 05:29:16"
+}
