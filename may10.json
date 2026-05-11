@@ -1,0 +1,51 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is predominantly positive and enthusiastic, driven by ongoing airdrop farming, EXP earning through daily tasks, referrals, and app engagement, with users excited about Season 2 distributions, multiple snapshots in May, and bot removals to reward genuine activity. Key discussions revolve around qualification strategies like consistent logins, task completion, staking SSI on SoDEX, and combining platform usage with trading for bigger rewards, alongside promotional referrals offering 30,000 EXP boosts. Metrics highlight massive scale with 110 million users completing Real Users Verification for EXP, though active trading lags, and integrations like AI tools and market insights are praised, tempered by minor complaints on support responsiveness; no specific negative sentiment dominates, with hype building toward $SOSO token airdrop potentially before mid-June.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">25</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">17</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">27</argument></grok:render>",
+        "sodex": "Sentiment for SoDEX is highly bullish and opportunistic, with users viewing it as an under-the-radar gem for substantial $SOSO airdrop rewards from trading spot/futures, accumulating SoPoints, and achieving high tiers through volume and OI contributions, especially with only ~188k-190k users amid explosive growth. Discussions focus on mainnet campaigns allocating 150M $SOSO (~$60M+), weekly 1M SoPoints shares, referral boosts (5%), new ATH open interest at $12.05M, $4.17B total volume, $72M+ TVL, and 10+ weeks left in Season 1 for top rankings with modest $50-100 balances. Metrics underscore rapid scaling and low active user density offering early entry advantages, with calls to trade now to avoid missing out like Hyperliquid, though liquidity concerns are noted; promotional frenzy dominates positively.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">26</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">32</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">21</argument></grok:render>",
+        "ssi": "Mentions of SSI Index (SoSoValue Indexes) are limited but positively framed as user-friendly on-chain spot index tokens for diversified crypto exposure without multi-wallet management, integrated with staking on SoDEX for airdrop qualification and rewards. Key discussions emphasize SSI's role in the ecosystem for simplified investing, tied to EXP earning and $SOSO distributions, with one clarification on purchasing via ssi.sosovalue.com using OKX wallet rather than directly on SoDEX. No dominant metrics or controversies, but sentiment aligns with broader SoSoValue/SoDEX hype as a strategic participation avenue; low volume suggests niche awareness within the community.<grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">22</argument></grok:render><grok:render type=\"render_inline_citation\"><argument name=\"citation_id\">13</argument></grok:render>"
+    },
+    "top_questions": {
+        "sosovalue": [
+            "Is SoSoValue Doing More Airdrops in Season 2?",
+            "How do I qualify for the SoSoValue airdrop?",
+            "What is SoSoValue used for?",
+            "Can beginners participate in the SoSoValue airdrop?"
+        ],
+        "sodex": [
+            "How to position for Sodex airdrop with trading/staking?",
+            "What tier/activity level is needed for top Sodex rewards?",
+            "Is there enough liquidity on Sodex for farming?"
+        ],
+        "ssi": [
+            "Can you buy SSI token on SoDEX?",
+            "How to purchase and stake SSI indexes?"
+        ]
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@Mr_Jay_Pee",
+            "content": "110million users have completed their Real Users Verification on SosoValue EXP While only 188k persons are participating on Sodex trading If there's any place people will cashout big it's on soDex, but the problem is actually on liquidity to trade. I just want SosoValue S2 to cook for many, so they'll use the liquidity to trade on Sodex!",
+            "engagement": "Likes=175, Reposts=6, Replies=48, Views=9771",
+            "post_link": "https://x.com/Mr_Jay_Pee/status/2053553743505895472"
+        },
+        {
+            "username": "@sodex_official",
+            "content": "SoDEX open interest reached a new all-time high of $12.05M. Every upgrade, every trade, and every piece of feedback from the community is helping push SoDEX into its next phase. Keep building.",
+            "engagement": "Likes=307, Reposts=63, Replies=55, Views=9119",
+            "post_link": "https://x.com/sodex_official/status/2053388297175806396"
+        },
+        {
+            "username": "@ClaimPoints",
+            "content": "Is SoSoValue Doing More Airdrops in Season 2? ... [full post on airdrops, SSI, Sodex]",
+            "engagement": "Likes=63, Reposts=8, Replies=6, Views=2797",
+            "post_link": "https://x.com/ClaimPoints/status/2053473187128594493"
+        },
+        {
+            "username": "@MR_CRYPTO150",
+            "content": "Good morning guys. You missed hyperliquid drop. Don't miss SoDEX. A massive 150million $SOSO ($60m+) is reserved for the campaign. Simply trade spot or futures Accumulate points and you are good to go.",
+            "engagement": "Likes=52, Reposts=2, Replies=14, Views=1390",
+            "post_link": "https://x.com/MR_CRYPTO150/status/2053356854474932457"
+        }
+    ],
+    "timestamp": "2026-05-11 07:05:22"
+}
