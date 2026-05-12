@@ -1,0 +1,57 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on May 11-12, 2026, is predominantly positive yet anxious, driven by anticipation for Season 2 EXP airdrop snapshots and distributions promised in May, with users frequently questioning delays and eligibility criteria like the 'Real User Probability' (RUV) verification process requiring SoDEX activity to avoid bot disqualification. Key discussions revolve around daily EXP farming through tasks, check-ins, affiliates, and warnings about wallet hacks in the app, alongside clarifications that SoDEX points do not directly boost EXP allocations but aid RUV scores (100% eligible, 120% with bonus). Metrics show moderate engagement with top posts garnering 35-15 likes, 2-4 reposts, and views up to 1023, highlighting active farming (e.g., 25k EXP daily) and reminders for verification involving quizzes and $15+ deposits for volume on SoDEX, reflecting a mix of excitement for potential 4-figure $SOSO rewards and frustration over perceived postponements.",
+        "sodex": "Sentiment for Sodex is optimistic and promotional, positioned as a complementary perp DEX in the SoSoValue ecosystem with growing open interest (OI), TVL, and 150M $SOSO rewards, praised for high-speed trades, order book depth, and ease for point earning amid low competition; users clarify its role in boosting RUV for SoSoValue airdrops via spot/futures trading and vaults (e.g., locking MAG7 SSI tokens). Discussions emphasize its separation from EXP but necessity for verification (e.g., $20k volume via leveraged trades), with integrations like AI tools and SSI indices. Engagement metrics include posts with 37 likes, 59 likes on ecosystem praise, and views around 459-707, indicating steady interest as a 'S-A tier' platform just 3.5 months old.",
+        "ssi": "Mentions of SSI Index (likely Spot Sentiment Index or similar on-chain metrics) are sparse and integrated into broader SoSoValue/SoDEX contexts, with neutral-to-positive sentiment tied to staking (e.g., MAG7 SSI for RUV), ETF flow analysis showing shifts from BTC/ETH to SOL/XRP, and platform tools like dashboards; no standalone hype but value in analytics for trading decisions. Key talks involve purchasing/locking SSI tokens (~$48-$200 for 100-120% verification) and sector performance (AI +4.2%). Low specific metrics with bundled engagements under 60 likes/views <500, suggesting niche awareness within ecosystem farming."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "When will the SoSoValue S2 EXP snapshot and distribution happen? Previously said in May, hope no delay.",
+            "Is my points/EXP enough for a tangible 4-figure $SOSO airdrop?",
+            "How to complete Real User Probability verification? Wallet hacked in app, can I change wallet or choose for claims?",
+            "Does SoDEX activity directly increase EXP S2 allocation or just for RUV?"
+        ],
+        "sodex": [
+            "How to achieve $20k volume easily on SoDEX for RUV (e.g., deposit $50, long SOL 20x leverage)?",
+            "Is bot trading possible on SoDEX or only spot recommended?",
+            "SoDEX points separate from SoSoValue EXP but required for RUV - confirm?"
+        ],
+        "ssi": [
+            "How much MAG7 SSI to buy/lock for 100% vs 120% RUV (e.g., $48 for 100%, $200 total)?",
+            "SSI staking/vault details and withdrawal (14 days)?"
+        ]
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@ClaimPoints",
+            "content": "Most people won\u2019t qualify for the airdrop simply because they\u2019ll skip the verification process. SoSoValue just launched the Real User Probability check... Deadline: May 2026 Distribution: May 2026",
+            "engagement": "Likes=15, Reposts=4, Quotes=0, Replies=3, Views=1023",
+            "post_link": "https://x.com/ClaimPoints/status/2053935174321147968"
+        },
+        {
+            "username": "@richie_bitcoin",
+            "content": "Sosovalue season 2 is still ongoing, do well to claim your daily EXP points. Remember snapshot will be taking very soon! Only those who perform their real user verification will be eligible.",
+            "engagement": "Likes=35, Reposts=2, Quotes=0, Replies=3, Views=870",
+            "post_link": "https://x.com/richie_bitcoin/status/2053847986006827052"
+        },
+        {
+            "username": "@Olahosts",
+            "content": "Abeg, when is SoSoValue going to take snapshots? I thought they say Airdrop is in May Btw, is this my points enough to give me tangible 4 figures airdrop of $SOSO?",
+            "engagement": "Likes=11, Reposts=1, Quotes=0, Replies=3, Views=152",
+            "post_link": "https://x.com/Olahosts/status/2053893361266794921"
+        },
+        {
+            "username": "@_vicTorad",
+            "content": "genuinely impressed by the @SoSoValueCrypto ecosystem from AI analysis tools and the SSI Index to @sodex_official trading...",
+            "engagement": "Likes=59, Reposts=0, Quotes=0, Replies=37, Views=150",
+            "post_link": "https://x.com/_vicTorad/status/2053901708875481455"
+        },
+        {
+            "username": "@Victorerick001",
+            "content": "According to @SoSoValueCrypto todays ETF data... This is where @sodex_official comes in",
+            "engagement": "Likes=37, Reposts=2, Quotes=1, Replies=29, Views=459",
+            "post_link": "https://x.com/Victorerick001/status/2053733775310209050"
+        }
+    ],
+    "timestamp": "2026-05-12 05:04:11"
+}
