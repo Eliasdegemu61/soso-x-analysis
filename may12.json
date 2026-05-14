@@ -1,0 +1,47 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is predominantly promotional and positive, with users hyping ongoing events like the Buildathon's Wave 1 submission deadline on May 12, airdrop tasks with 14 days remaining, and integration with SoDEX and ValueChain for ecosystem growth. Key discussions revolve around earning EXP points, $SOSO token utility as gas, fundraising data sharing via SoSoValue links, and broader crypto market trends using SoSoValue analytics, though some frustration emerges over lack of clarity on token distributions. Metrics highlight high engagement on official posts, such as the Buildathon announcement garnering 4,714 likes and 45,893 views, alongside user-shared progress in events showing steady participation but calls for more transparency on rewards; no negative sentiment dominates, but queries on allocation persist amid hype for mainnet and indexes.",
+        "sodex": "Sentiment for Sodex is overwhelmingly bullish and active, centered on Week 14 SoPoints distribution where users share rankings (e.g., top 0.31%, Gold tier at 8,213 points), trading volumes exceeding millions, and anticipation for Season 1 airdrop with 150M $SOSO allocated, though uncertainty fuels debates on conversion rates like 1 SoPoint = 0.1-0.3 $SOSO. Discussions emphasize low-fee trading strategies on Base/ValueChain, referral boosts, leaderboard climbs, and warnings against ineligibility, with official post on Week 14 achieving 468 likes, 88 reposts, and 12,721 views. High engagement metrics reflect community fervor, but growing impatience over exact airdrop details risks waning enthusiasm if unaddressed, balanced by consistent weekly rewards of 1M SoPoints.",
+        "ssi": "No significant mentions found for SSI Index specifically during May 12-13, 2026; isolated references appear in broader SoSoValue contexts like thematic indexes or on-chain ETFs, but lack dedicated discussions, sentiment, or metrics on X."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "What is the exact $SOSO allocation and reward structure for ongoing events and EXP airdrop?",
+            "How to maximize points before the event wraps up in 14 days?",
+            "Details on ValueChain mainnet integration and Season 3 snapshots?"
+        ],
+        "sodex": [
+            "What is the $SOSO to SoPoints conversion rate for Season 1 airdrop?",
+            "How much of the 150M $SOSO allocation is for Sodex Season 1, and across how many seasons?",
+            "Will points be the sole factor, or adjusted for whales/community contributions?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@SoSoValueCrypto",
+            "content": "Last Call for Wave 1 Builders. Today, May 12, is the final day to submit for Wave 1 of the SoSoValue Buildathon...",
+            "engagement": "Likes=4714, Reposts=1309, Quotes=4522, Replies=4585, Views=42593",
+            "post_link": "https://x.com/SoSoValueCrypto/status/2054039566441693202"
+        },
+        {
+            "username": "@sodex_official",
+            "content": "Week 14 SoPoints are out. Another week of trading, testing, feedback, and progress with the SoDEX community...",
+            "engagement": "Likes=468, Reposts=88, Quotes=15, Replies=107, Views=12721",
+            "post_link": "https://x.com/sodex_official/status/2054169729707958385"
+        },
+        {
+            "username": "@Farmercist",
+            "content": "Yes I\u2019ve been caught again \ud83d\udc80 When I\u2019m not active on X timelines I\u2019m busy trading on my telegram channel...",
+            "engagement": "Likes=121, Reposts=4, Quotes=2, Replies=33, Views=9293",
+            "post_link": "https://x.com/Farmercist/status/2054311148325839139"
+        },
+        {
+            "username": "@cryptomentoraa",
+            "content": "The sosovalue value team really need to be clear tell us the allocation for sodex mainnet season 1...",
+            "engagement": "Likes=66, Reposts=5, Quotes=1, Replies=17, Views=3437",
+            "post_link": "https://x.com/cryptomentoraa/status/2054317084809798008"
+        }
+    ],
+    "timestamp": "2026-05-14 17:11:47"
+}
