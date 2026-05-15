@@ -1,0 +1,52 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue is highly positive and anticipatory, dominated by excitement over the EXP Season 2 airdrop, with users sharing their point accumulations, personal allocation expectations ranging from $30-$60 for V1-V2 tiers up to $1500-$20,000 for V7+, and reassurances from updates that EXP points remain safe even if linked X accounts are suspended or hacked by simply relinking a new account. Key discussions revolve around daily check-ins, referral strategies without referrals reaching high points like 10 million, potential postponement of airdrop distribution amid mid-May timeline pressures, and the project's Buildathon event which garnered 700+ builders and 120+ submissions, now extended for fair review until May 22, showcasing innovation in AI, index tools, and on-chain finance. Metrics from top posts indicate strong engagement with likes ranging 125-332, replies 42-92, reposts 6-33, views 4894-17539, highlighting active farming and speculation; no negative sentiment evident, focused on maximizing rewards and community support beyond airdrops.",
+        "sodex": "Sentiment for SoDEX is bullish and growth-oriented, with users hyping its tier system (Gold to Diamond requiring 10,000 SoPoints), referral mechanics offering 25% of invitees' points, consistent trading volumes, and the massive 150M $SOSO reward pool, drawing comparisons to early successes like Arbitrum and Hyperliquid. Discussions center on mainnet upgrade scheduled for May 15 (1-hour downtime for deposits/withdrawals/trading), weekly 1M SoPoints rewards, strategies for point farming via trading spot/perps on ValueChain L1, open interest ATH at $12.05M, and accidental SOL transfers in community chats, reflecting operational maturity and user activity. Engagement metrics show high traction with likes 30-331, reposts 29-73, replies 1-26, views 105-12421 on key posts, emphasizing low competition and long-term positioning.",
+        "ssi": "No significant mentions found for SSI Index independent of SoSoValue ecosystem; sporadic references appear in trading contexts like MAG7.ssi on SoDEX or general index tools in Buildathon, but lack dedicated discussions or sentiment during the queried dates."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "what's your EXP amount and what are your expectations",
+            "Is it possible for someone who didn't refer anyone on sosovalue exp season 2 Airdrop to accumulate up to 10million points Even tho they started early?",
+            "Do you think they'll postpone it again?"
+        ],
+        "sodex": [
+            "How many sodex points have you gathered",
+            "How to accumulate thousands of SODEX POINTS on sodex with as low as $10"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "@cryptomentoraa",
+            "content": "Sosovalue Exp season 2 airdrop allocation My expectations (my personal opinion)\n\nV1-V2 = $30 to $60\nV3-V4 = $100 to $300\nV5-V6 =  $500 to $1000\nV7 above = $1500 to $20,000\n\nUr allocation might also be determined based on real user probability verification",
+            "engagement": "Likes=332, Reposts=33, Quotes=0, Replies=92, Views=17539",
+            "post_link": "https://x.com/cryptomentoraa/status/2054947953098314092"
+        },
+        {
+            "username": "@sodex_official",
+            "content": "SoDEX Mainnet Upgrade Notice\n\nTo improve network performance and overall trading experience, SoDEX Mainnet will undergo scheduled maintenance:\n\nTime: May 15, 2026, 08:00\u201309:00 UTC\nEstimated duration: ~1 hour\n\nDuring the upgrade, deposits, withdrawals, and trading functions will be temporarily suspended.\n\nPlease complete any necessary actions before the maintenance window.\n\nWe\u2019ll share progress updates through official channels.\n\nThank you for your patience and support.",
+            "engagement": "Likes=331, Reposts=73, Quotes=6, Replies=26, Views=12421",
+            "post_link": "https://x.com/sodex_official/status/2054838165484290185"
+        },
+        {
+            "username": "@cryptomentoraa",
+            "content": "Is it possible for someone who didn't refer anyone on sosovalue exp season 2 Airdrop to accumulate up to 10million points Even tho they started early?",
+            "engagement": "Likes=132, Reposts=6, Quotes=0, Replies=60, Views=7459",
+            "post_link": "https://x.com/cryptomentoraa/status/2054944198940340360"
+        },
+        {
+            "username": "@cryptomentoraa",
+            "content": "I can't lie sosovalue exp season 2 airdrop is the most anticipated airdrop right now , what's your EXP amount and what are your  expectations",
+            "engagement": "Likes=125, Reposts=11, Quotes=1, Replies=42, Views=4894",
+            "post_link": "https://x.com/cryptomentoraa/status/2054942349780767123"
+        },
+        {
+            "username": "@Mr_Jay_Pee",
+            "content": "Today is 14th May, almost mid May, we're yet to hear or know if the SosoValue airdrop allocation will still be distrubuted this month. \n\nI strongly know that Soso won't postpone it again. DO YOU THINK THEY'LL POSTPONE IT AGAIN?",
+            "engagement": "Likes=221, Reposts=8, Quotes=1, Replies=51, Views=6937",
+            "post_link": "https://x.com/Mr_Jay_Pee/status/2054930868381040972"
+        }
+    ],
+    "timestamp": "2026-05-15 21:43:26"
+}
