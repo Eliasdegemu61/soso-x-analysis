@@ -1,0 +1,45 @@
+{
+    "summary": {
+        "sosovalue": "Community sentiment around SoSoValue on May 15, 2026, was predominantly positive and focused on the ongoing EXP Season 2 airdrop campaign, with users actively discussing task completion, EXP farming, and the approaching final snapshot in just 10 days. Key discussions centered on reward expectations by tier levels (e.g., V1-V2 expecting $30-60, higher tiers up to $20,000), streak check-ins (including debates over 200-day streaks), and the project's AI-powered crypto research tools for ETFs, tokenomics, and market analysis. Metrics showed moderate engagement with posts receiving up to 118 likes and 7 reposts, highlighting excitement mixed with some frustration over prior delays from January 2026 to early June 2026 for potential distributions, but overall optimism about the project's utility in cutting through crypto noise.",
+        "sodex": "Discussions on Sodex (the DEX built on SoSoValue's Valuechain) emphasized its trading campaigns, with users reporting weekly volumes like 100k+ trades and 1M SoPoints distributed weekly from a 150M $SOSO reward pool. Sentiment was enthusiastic about liquidity provision, referrals for 5% boosts, and UI improvements making trading smoother and more reliable, with positive feedback on execution speed and layout. Engagement metrics were solid, including posts with 48 likes and 42 replies, reflecting active participation in SoPoints accumulation for Gold Tier goals ahead of the snapshot.",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How many EXP have you accumulated so far for Season 2?",
+            "Is a 200-day check-in streak possible on SoSoValue EXP Season 2?",
+            "What are realistic airdrop allocation expectations by tier (V1-V6)?",
+            "How to safely transfer EXPs if you lost access to your linked X account?"
+        ],
+        "sodex": [
+            "What volume targets should users aim for weekly on Sodex to maximize SoPoints?",
+            "How does the 150M $SOSO reward pool get allocated based on SoPoints?",
+            "Will trading on Sodex lead to significant rewards before the final snapshot?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "Daniel\ud83e\ude82",
+            "content": "\ud83d\ude1e I turned myself into a subject of mockery and a person that is viewed as unserious because of the Sosovalue S2 Exps campaign. My peers, friends and family members are still waiting to hear that Sosovalue has rewarded their users. First, it was expected around Jan, 26...but it doesn't happen, most of my friends started gaining conviction that I might be wasting my time on this thing. Then I told them the reward was postponed to the month of May,2025... again it was confirmed from the last AMA that it's only the eligibility and allocation checker will be available by the month end, confirming that claim and distribution should now be around early June, 2026. This is how something that is supposed to take place in Jan,2026 has now lingered to Q2 of 2026. Any further postponement is a done deal for me Guys, 495 days is enough to show result that I have been working on something.",
+            "engagement": "118 likes, 7 reposts, 29 replies",
+            "post_link": "https://x.com/free_dom53/status/2055184660007723157",
+            "date": "2026-05-15"
+        },
+        {
+            "username": "Cryptomentoraa",
+            "content": "Good morning to all the Sosovalue believers, 16 days to the end of MAY , final snapshot incoming soon , don't forget to complete your daily check-in and activities",
+            "engagement": "49 likes, 6 reposts, 10 replies",
+            "post_link": "https://x.com/cryptomentoraa/status/2055197724966834256",
+            "date": "2026-05-15"
+        },
+        {
+            "username": "Cryptomentoraa",
+            "content": "Someone just told me has 200 days check in streak on sosovalue EXP season 2. That is a lie i can't believe that \ud83d\ude02, how will u check-in for 200 days without missing one day. Is this even possible? \ud83d\ude02\ud83d\ude02",
+            "engagement": "39 likes, 3 reposts, 15 replies",
+            "post_link": "https://x.com/cryptomentoraa/status/2055399324327010424",
+            "date": "2026-05-15"
+        }
+    ],
+    "timestamp": "2026-05-16 05:52:56"
+}
