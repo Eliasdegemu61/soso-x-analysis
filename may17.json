@@ -1,0 +1,48 @@
+{
+    "summary": {
+        "sosovalue": "Sentiment around SoSoValue on May 17-18, 2026, is predominantly positive and hype-driven, with community members actively promoting airdrop farming through daily check-ins, referrals, and trading on SoDEX to accumulate EXP points ahead of the Season 2 snapshot expected in late May. Key discussions revolve around maximizing points for the $SOSO airdrop, with users sharing screenshots of their progress (e.g., Silver tier at 237 SoPoints ranking top 3.59% globally), referral links, and strategies like trading USDC for weekly point boosts and 5% referral rewards. Metrics show moderate engagement on promotional posts (likes up to 95, views over 1,500), focused on urgency around the May 31 snapshot, airdrop calculators, and infrastructure developments like ValueChain and SSI Protocol, though some users express frustration over fake referrals and low progress despite consistent activity.",
+        "sodex": "Community sentiment for Sodex is bullish and practical, centered on airdrop potential tied to SoSoValue's ecosystem, with users discussing point accumulation via trading, staking SOSO for fee discounts (5-40%), and SSI mining boosts up to 220x. Key discussions include airdrop calculators estimating token allocations based on FDV and points (e.g., 7.627 tokens at $368M FDV worth ~$2.8), testnet/mainnet participation, and comparisons to other projects like StandX, alongside official announcements on staking benefits and high-performance order-book trading on the L1 ValueChain. Engagement metrics highlight strong interest in the official post (311 likes, 81 reposts, 10k views) demonstrating staking mechanics, while user posts show modest likes (up to 9) but high curiosity around calculators and referral boosts for the upcoming $SOSO distribution.",
+        "ssi": "No significant mentions found."
+    },
+    "top_questions": {
+        "sosovalue": [
+            "How many EXP have you accumulated so far for $SOSO Season 2 airdrop?",
+            "Are you still doing daily check-ins for EXP airdrop or have you stopped?",
+            "How did you get 1k on your sodex points? Was it from trading?",
+            "What is your current progress on SoSoValue referrals and EXP points?",
+            "When is the final snapshot for $SOSO airdrop and how to boost score?"
+        ],
+        "sodex": [
+            "Can you share your Sodex airdrop estimate and calculator results?",
+            "What tier are you on Sodex and how many SoPoints do you have?",
+            "How to get more points on SoDEX through trading and referrals?",
+            "What benefits does staking SOSO provide for SoDEX trading fees and boosts?",
+            "Have you participated in SoDEX testnet and mainnet for the airdrop?"
+        ],
+        "ssi": []
+    },
+    "Top poster username, post content, engagement, post link on that date with the highest engagement, atleast 3 posts": [
+        {
+            "username": "Cryptomentoraa",
+            "post_content": "Good morning to all the Sosovalue believers, 14 days to the end of MAY , final snapshot incoming soon , don't forget to complete your daily check-in and activities",
+            "engagement": "95 likes, 14 reposts, 3 bookmarks, 1554 views",
+            "post_link": "https://x.com/cryptomentoraa/status/2055886992072749271",
+            "date": "2026-05-17"
+        },
+        {
+            "username": "sodex_official",
+            "post_content": "Paying full trading fees on SoDEX? Stake SOSO on ValueChain \u2192 get sSOSO \u2192 instantly: \u2192 5% off from just 30 SOSO (up to 40%) \u2192 Up to 220\u00d7 SSI mining boost \u2192 Governance + future validator staking",
+            "engagement": "311 likes, 81 reposts, 13 bookmarks, 26 replies, 10006 views",
+            "post_link": "https://x.com/sodex_official/status/2055988543152107800",
+            "date": "2026-05-17"
+        },
+        {
+            "username": "Gioddddd",
+            "post_content": "Don't miss your chance, $SOSO airdrop is coming! EXP Season 2 snapshot is coming in May. Boost your score now! \u2705 Daily check-ins \u2705 Engage & like \u2705 Trade on SoDEX Don't miss your chance, earn up to 120% bonus!",
+            "engagement": "17 likes, 3 reposts, 157 views",
+            "post_link": "https://x.com/Gioddddd/status/2056091853787684916",
+            "date": "2026-05-17"
+        }
+    ],
+    "timestamp": "2026-05-18 03:37:04"
+}
